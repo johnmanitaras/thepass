@@ -63,9 +63,7 @@ jobs:
           fi
 
       - name: Configure Pages
-        uses: actions/configure-pages@v5
-        with:
-          enablement: true   # turn on GitHub Pages (Actions source) automatically — no manual setup
+        uses: actions/configure-pages@v5   # Pages already enabled (Actions source) — just reads config
 
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v3

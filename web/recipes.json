@@ -1728,6 +1728,133 @@
     ]
   },
   {
+    "id": "r260527mglpt",
+    "title": "Cured Kingfish Tartare With Lime & Chilli",
+    "image": "https://10.com.au/ip/s3/2026/05/27/9dca3bd6a90c841138ac9fd5e6f24a8d-1432239.png?image-profile=image_max&io=landscape",
+    "chef": "Aaron Kher",
+    "chefRole": "Contestant",
+    "chefThumb": "https://10.com.au/ip/s3/2026/04/21/9641f28ef8b2ca9a61bade44bbf462d2-1423729.png?image-profile=bio_thumb&io=square",
+    "season": 18,
+    "serves": "2",
+    "published": "01 Jun 2026",
+    "url": "https://10.com.au/masterchef/recipes/cured-kingfish-tartare-with-lime-chilli/r260527mglpt",
+    "course": "Main",
+    "tags": [
+      "Kingfish",
+      "Lime",
+      "Chilli",
+      "Coriander",
+      "Entrée"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Cured Kingfish",
+        "items": [
+          {
+            "amount": "2",
+            "name": "limes, zested"
+          },
+          {
+            "amount": "2",
+            "name": "long red chillies, finely chopped"
+          },
+          {
+            "amount": "3",
+            "name": "long green chilli, finely chopped"
+          },
+          {
+            "amount": "1",
+            "name": "shallot, finely chopped"
+          },
+          {
+            "amount": "50g",
+            "name": "sea salt"
+          },
+          {
+            "amount": "50g",
+            "name": "caster sugar"
+          },
+          {
+            "amount": "350g",
+            "name": "skinless Kingfish fillet"
+          }
+        ]
+      },
+      {
+        "title": "Coriander Oil",
+        "items": [
+          {
+            "amount": "1 bunch",
+            "name": "coriander, leaves only (reserve some leaves for garnish)"
+          },
+          {
+            "amount": "½ cup",
+            "name": "grapeseed oil"
+          }
+        ]
+      },
+      {
+        "title": "Pickled Chilli",
+        "items": [
+          {
+            "amount": "100ml",
+            "name": "rice wine vinegar"
+          },
+          {
+            "amount": "50ml",
+            "name": "water"
+          },
+          {
+            "amount": "4 tbsp",
+            "name": "caster sugar"
+          },
+          {
+            "amount": "1",
+            "name": "long red chilli, julienned"
+          }
+        ]
+      },
+      {
+        "title": "Sriracha Mayo",
+        "items": [
+          {
+            "amount": "30g",
+            "name": "Sriracha"
+          },
+          {
+            "amount": "50g",
+            "name": "Kewpie mayo"
+          }
+        ]
+      },
+      {
+        "title": "Crispy Nori",
+        "items": [
+          {
+            "amount": "",
+            "name": "canola oil, for frying"
+          },
+          {
+            "amount": "4 tbsp",
+            "name": "tapioca starch"
+          },
+          {
+            "amount": "1/3 cup",
+            "name": "water"
+          },
+          {
+            "amount": "2",
+            "name": "nori sheets"
+          },
+          {
+            "amount": "",
+            "name": "salt and pepper, to taste"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "r260430amxei",
     "title": "Fakeaway Beef & Mushroom Noodles",
     "image": "https://10.com.au/ip/s3/2026/04/30/f7c5c8b0a17dfd059ec7f73680c64a15-1424688.png?image-profile=image_max&io=landscape",
@@ -2501,6 +2628,127 @@
           {
             "amount": "",
             "name": "salt, to taste"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "r260527pmzsb",
+    "title": "Loukoumades Stuffed With Bacon And Maple Syrup",
+    "image": "https://10.com.au/ip/s3/2026/05/27/457cd557d09d4c44276a84542bf8a77b-1432253.png?image-profile=image_max&io=landscape",
+    "chef": "Lydia Kamperos",
+    "chefRole": "Contestant",
+    "chefThumb": "https://10.com.au/ip/s3/2026/04/22/8ab6c7e65facd25d8570b40c09f2e426-1423798.png?image-profile=bio_thumb&io=square",
+    "season": 18,
+    "serves": "Makes 12",
+    "published": "01 Jun 2026",
+    "url": "https://10.com.au/masterchef/recipes/loukoumades-stuffed-with-bacon-and-maple-syrup/r260527pmzsb",
+    "course": "Main",
+    "tags": [
+      "Pork",
+      "Bacon",
+      "Maple Syrup",
+      "Ricotta",
+      "Main"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Filling",
+        "items": [
+          {
+            "amount": "1 cup",
+            "name": "finely diced bacon"
+          },
+          {
+            "amount": "1",
+            "name": "small white onion, finely diced"
+          },
+          {
+            "amount": "2 tbsp",
+            "name": "extra virgin olive oil"
+          },
+          {
+            "amount": "100g",
+            "name": "pork mince"
+          },
+          {
+            "amount": "½ tsp",
+            "name": "salt"
+          },
+          {
+            "amount": "½ tsp",
+            "name": "cracked pepper"
+          },
+          {
+            "amount": "½ tsp",
+            "name": "smoked paprika"
+          },
+          {
+            "amount": "½ tsp",
+            "name": "Aleppo pepper"
+          },
+          {
+            "amount": "100g",
+            "name": "cream cheese"
+          },
+          {
+            "amount": "50g",
+            "name": "ricotta"
+          },
+          {
+            "amount": "2 tbsp",
+            "name": "finely chopped fresh dill"
+          },
+          {
+            "amount": "2 tbsp",
+            "name": "finely chopped fresh mint"
+          }
+        ]
+      },
+      {
+        "title": "Batter",
+        "items": [
+          {
+            "amount": "130g",
+            "name": "flour"
+          },
+          {
+            "amount": "2 tsp",
+            "name": "baking powder"
+          },
+          {
+            "amount": "1 tsp",
+            "name": "sugar"
+          },
+          {
+            "amount": "1 tsp",
+            "name": "salt"
+          },
+          {
+            "amount": "200g",
+            "name": "chilled orange flavoured soft drink"
+          }
+        ]
+      },
+      {
+        "title": "Garnish",
+        "items": [
+          {
+            "amount": "½ cup",
+            "name": "crispy fried batter bits"
+          },
+          {
+            "amount": "",
+            "name": "reserved crispy bacon"
+          },
+          {
+            "amount": "½ cup",
+            "name": "maple syrup"
+          },
+          {
+            "amount": "½ tsp",
+            "name": "finely chopped fresh thyme"
           }
         ]
       }

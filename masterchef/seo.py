@@ -15,8 +15,8 @@ from pathlib import Path
 from . import parse
 
 # --- one-place config -------------------------------------------------------
-# No trailing slash. Change this when a custom domain goes live, then rebuild.
-SITE_URL = "https://johnmanitaras.github.io/thepass"
+# No trailing slash. Custom domain (Cloudflare → GitHub Pages).
+SITE_URL = "https://recipes.nohuggingnolearning.com"
 # GA4 Measurement ID. Placeholder == analytics off.
 GA_ID = "G-30P2Q7BSER"
 

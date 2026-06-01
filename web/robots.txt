@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://johnmanitaras.github.io/thepass/sitemap.xml
+Sitemap: https://recipes.nohuggingnolearning.com/sitemap.xml

@@ -17,8 +17,8 @@ from . import parse
 # --- one-place config -------------------------------------------------------
 # No trailing slash. Change this when a custom domain goes live, then rebuild.
 SITE_URL = "https://johnmanitaras.github.io/thepass"
-# Paste your GA4 Measurement ID (G-XXXXXXXXXX) and rebuild. Placeholder == analytics off.
-GA_ID = "G-XXXXXXXXXX"
+# GA4 Measurement ID. Placeholder == analytics off.
+GA_ID = "G-30P2Q7BSER"
 
 
 def _description(r: dict) -> str:

@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en" data-theme="pass" data-font="grotesk" data-layout="mosaic" data-accent="default">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>The Pass — MasterChef Australia recipe archive</title>
+  <meta name="description" content="A fast, cook-focused index of MasterChef Australia recipes — including the season pages 10 stopped linking to. Browse, search, scale and cook. Method links back to 10 Play." />
+
+  <!-- restore saved appearance before first paint (no flash) -->
+  <script>
+    (function () {
+      var r = document.documentElement;
+      var d = { "data-theme": "pass", "data-font": "grotesk", "data-layout": "mosaic", "data-accent": "default" };
+      try {
+        for (var k in d) { var v = localStorage.getItem("mc_" + k); if (v) r.setAttribute(k, v); }
+        var sc = localStorage.getItem("mc_scale"); if (sc) r.style.setProperty("--scale", sc);
+      } catch (e) {}
+    })();
+  </script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,400;0,500;0,600;1,400&family=Space+Grotesk:wght@400;500;600;700&family=Hanken+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet" />
+
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div id="root"></div>
+
+  <!-- React 18 + in-browser Babel (buildless reference build; precompile for production) -->
+  <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+  <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+  <!-- data -->
+  <script src="recipes-data.js"></script>
+
+  <!-- app -->
+  <script type="text/babel" data-presets="react" src="app.jsx"></script>
+</body>
+</html>

@@ -1,0 +1,77 @@
+name: Update & deploy
+
+# Daily incremental scrape -> regenerate data -> deploy the static site.
+# - schedule:        runs once a day to pick up new recipes
+# - push to main:    rebuilds + deploys on every change you push
+# - workflow_dispatch: lets you trigger a run by hand from the Actions tab
+on:
+  schedule:
+    - cron: "17 18 * * *"   # 18:17 UTC daily (pick any time)
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write   # commit the refreshed data back to the repo
+  pages: write      # deploy to GitHub Pages
+  id-token: write   # Pages deployment uses OIDC
+
+# Never run two deploys at once; let an in-flight run finish.
+concurrency:
+  group: thepass-deploy
+  cancel-in-progress: false
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # Persist the scraped HTML between runs so we only fetch NEW recipes,
+      # instead of re-downloading all ~684 pages every day.
+      - name: Restore recipe HTML cache
+        uses: actions/cache@v4
+        with:
+          path: out/html
+          key: html-cache-${{ github.run_id }}
+          restore-keys: |
+            html-cache-
+
+      - name: Build dataset (discover + scrape + generate)
+        run: python -m masterchef.build
+
+      - name: Commit refreshed data (if changed)
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add web/recipes-data.js web/recipes.json web/sitemap.xml
+          if git diff --staged --quiet; then
+            echo "No data changes today."
+          else
+            git commit -m "data: daily refresh $(date -u +%F)"
+            git push
+          fi
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true   # turn on GitHub Pages (Actions source) automatically — no manual setup
+
+      - name: Upload site artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: web
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,3 @@
+# One URL per line. Any line starting with # is ignored.
+# Use this to seed recipes the auto-discovery missed (e.g. unarchived bulk-imports).
+https://10.com.au/masterchef/recipes/chocolate-honey-and-whisky/r190614oebqd

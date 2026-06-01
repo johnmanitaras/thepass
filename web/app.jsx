@@ -534,6 +534,14 @@ function App() {
   const m = hash.match(/^#\/r\/(.+)$/);
   const view = m ? "reader" : "browse";
 
+  // GA4 virtual pageviews on hash navigation (initial view is sent by gtag config)
+  const firstView = useRef(true);
+  useEffect(() => {
+    if (!window.gtag) return;
+    if (firstView.current) { firstView.current = false; return; }
+    window.gtag("event", "page_view", { page_location: location.href, page_title: document.title });
+  }, [hash]);
+
   // restore browse scroll when returning from a reader
   useEffect(() => {
     if (view === "browse" && browseScroll) {

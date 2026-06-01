@@ -328,6 +328,7 @@ select.sort:focus { outline: none; border-color: var(--accent); box-shadow: 0 0 
 .iggroup > .gt { font-family: var(--font-label); text-transform: uppercase; letter-spacing: .1em; font-size: .72rem; color: var(--accent); margin: 0 0 8px; }
 .ig { display: flex; align-items: flex-start; gap: 11px; padding: 8px 0; border-top: 1px solid var(--line); cursor: pointer; user-select: none; }
 .iggroup > .gt + .ig { border-top: none; }
+.ig.static { cursor: default; }   /* pre-rendered SEO pages: ingredients are display-only */
 .ig .box { flex: none; width: 21px; height: 21px; border-radius: 6px; border: 1.5px solid var(--line-strong); margin-top: 2px; display: flex; align-items: center; justify-content: center; transition: all .15s; }
 .ig .box svg { width: 14px; height: 14px; color: var(--accent-on); opacity: 0; }
 .ig.checked .box { background: var(--accent); border-color: var(--accent); }

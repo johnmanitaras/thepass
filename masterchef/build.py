@@ -92,17 +92,9 @@ def run(force_refetch: bool = False, throttle: float = 0.5) -> None:
         encoding="utf-8",
     )
 
-    # 4. emit a proper sitemap.xml for our own site
-    from xml.etree import ElementTree as ET
-    urlset = Element("urlset", xmlns="http://www.sitemaps.org/schemas/sitemap/0.9")
-    for r in records:
-        u = SubElement(urlset, "url")
-        SubElement(u, "loc").text = r["url"]
-        lastmod = parse.air_date_from_id(r["url"])
-        if lastmod:
-            SubElement(u, "lastmod").text = lastmod
-    pretty = minidom.parseString(ET.tostring(urlset, encoding="utf-8")).toprettyxml(indent="  ")
-    SITEMAP.write_text(pretty, encoding="utf-8")
+    # 4. SEO surface: per-recipe crawlable pages + sitemap (our URLs) + robots + GA loader
+    from . import seo
+    n_pages = seo.write_seo(records, WEB)
 
     # 5. summary
     from collections import Counter
@@ -115,7 +107,8 @@ def run(force_refetch: bool = False, throttle: float = 0.5) -> None:
     print(f"  courses:    {dict(courses)}")
     print(f"  chefs:      {len(chefs)} (top 5: {chefs.most_common(5)})")
     print(f"  frontend data: {WEB_DATA_JS}  ({WEB_DATA_JS.stat().st_size/1024:.1f} KB)")
-    print(f"  sitemap:       {SITEMAP}")
+    print(f"  SEO pages:     {n_pages} static recipe pages + sitemap.xml + robots.txt + analytics.js")
+    print(f"  site URL:      {seo.SITE_URL}   GA: {seo.GA_ID}")
 
 
 if __name__ == "__main__":

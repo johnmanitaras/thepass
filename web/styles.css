@@ -407,3 +407,43 @@ select.sort:focus { outline: none; border-color: var(--accent); box-shadow: 0 0 
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { transition: none !important; animation: none !important; }
 }
+
+/* =========================================================================
+   Mobile filters — collapse the chip rows behind a "Filters" button
+   ========================================================================= */
+.filtertoggle { display: none; }   /* desktop: filters are always shown inline */
+.panel-done { display: none; }
+.fcount {
+  display: inline-flex; align-items: center; justify-content: center;
+  min-width: 20px; height: 20px; padding: 0 6px; margin-left: 8px;
+  border-radius: 999px; background: var(--accent); color: var(--accent-on);
+  font-size: .72rem; font-weight: 700; font-variant-numeric: tabular-nums;
+}
+
+@media (max-width: 720px) {
+  .filtertoggle {
+    display: flex; align-items: center; justify-content: space-between; width: 100%;
+    margin-top: 12px; padding: 13px 18px;
+    border: 1px solid var(--line-strong); border-radius: 999px;
+    background: var(--surface); color: var(--ink); font-weight: 600; font-size: 1rem;
+    transition: border-color .15s;
+  }
+  .filtertoggle.open { border-color: var(--accent); }
+  .filtertoggle .ft-l { display: inline-flex; align-items: center; gap: 9px; }
+  .filtertoggle .ft-l svg { width: 18px; height: 18px; color: var(--ink-soft); }
+  .filtertoggle .ft-r { font-family: var(--font-label); text-transform: uppercase; letter-spacing: .1em; font-size: .7rem; color: var(--accent); }
+
+  .filterpanel { display: none; }
+  .filterpanel.open {
+    display: block; margin-top: 12px; padding: 16px 16px 18px;
+    max-height: 62vh; overflow-y: auto;
+    background: var(--paper-2); border: 1px solid var(--line); border-radius: var(--radius);
+  }
+  .filterpanel.open .filters { margin-top: 0 !important; }
+  .filterpanel.open .filters + .filters { margin-top: 16px !important; }
+  .filterpanel .spacer { display: none; }
+  .controls .filterpanel .filtergroup .gl { display: block !important; margin: 0 0 6px; }
+  .filterpanel .filtergroup { gap: 8px; }
+  .filterpanel .sort { width: 100%; }
+  .panel-done { display: flex; width: 100%; margin-top: 16px; }
+}

@@ -219,6 +219,8 @@ function Browse({ saved, onSave }) {
     return () => window.removeEventListener("layoutchange", on);
   }, []);
 
+  const [filtersOpen, setFiltersOpen] = useState(false);
+  const activeCount = (course ? 1 : 0) + (season !== "" ? 1 : 0) + (savedOnly ? 1 : 0);
   const active = q || course || season !== "" || savedOnly;
   const clearAll = () => { setQLive(""); setQ(""); setCourse(""); setSeason(""); setSavedOnly(false); };
 
@@ -255,40 +257,52 @@ function Browse({ saved, onSave }) {
             <button className="clear" onClick={() => { setQLive(""); setQ(""); }} aria-label="Clear search"><I.x /></button>
           </div>
 
-          <div className="filters">
-            <div className="filtergroup">
-              <span className="gl label">Course</span>
-              <button className={"chip" + (course === "" ? " on" : "")} onClick={() => setCourse("")}>All</button>
-              {courses.map(([c, n]) =>
-                <button key={c} className={"chip" + (course === c ? " on" : "")} onClick={() => setCourse(course === c ? "" : c)}>
-                  {c} <span className="cnt">{n}</span></button>)}
+          <button className={"filtertoggle" + (filtersOpen ? " open" : "")}
+            onClick={() => setFiltersOpen(o => !o)} aria-expanded={filtersOpen}>
+            <span className="ft-l"><I.sliders /> Filters{activeCount > 0 && <span className="fcount">{activeCount}</span>}</span>
+            <span className="ft-r">{filtersOpen ? "Done" : "Show"}</span>
+          </button>
+
+          <div className={"filterpanel" + (filtersOpen ? " open" : "")}>
+            <div className="filters">
+              <div className="filtergroup">
+                <span className="gl label">Course</span>
+                <button className={"chip" + (course === "" ? " on" : "")} onClick={() => setCourse("")}>All</button>
+                {courses.map(([c, n]) =>
+                  <button key={c} className={"chip" + (course === c ? " on" : "")} onClick={() => setCourse(course === c ? "" : c)}>
+                    {c} <span className="cnt">{n}</span></button>)}
+              </div>
+
+              <div className="spacer" />
+
+              <button className={"chip" + (savedOnly ? " on" : "")} onClick={() => setSavedOnly(v => !v)}>
+                <I.heart fill={savedOnly ? 1 : 0} style={{ width: 15, height: 15 }} /> Saved <span className="cnt">{saved.length}</span>
+              </button>
+              <select className="sort" value={sort} onChange={e => setSort(e.target.value)} aria-label="Sort">
+                <option value="newest">Newest seasons</option>
+                <option value="oldest">Earliest seasons</option>
+                <option value="az">A–Z</option>
+                <option value="chef">By cook</option>
+              </select>
+              {active && <button className="clearfilters" onClick={clearAll}>Clear filters</button>}
             </div>
 
-            <div className="spacer" />
+            <div className="filters" style={{ marginTop: 10 }}>
+              <div className="filtergroup">
+                <span className="gl label">Season</span>
+                <button className={"chip" + (season === "" ? " on" : "")} onClick={() => setSeason("")}>All seasons</button>
+                {seasons.arr.map(([s, n]) =>
+                  <button key={s} className={"chip" + (season === s ? " on" : "")} onClick={() => setSeason(season === s ? "" : s)}>
+                    S{s} <span className="cnt">{n}</span></button>)}
+                {seasons.earlier > 0 &&
+                  <button className={"chip" + (season === "earlier" ? " on" : "")} onClick={() => setSeason(season === "earlier" ? "" : "earlier")}>
+                    Earlier <span className="cnt">{seasons.earlier}</span></button>}
+              </div>
+            </div>
 
-            <button className={"chip" + (savedOnly ? " on" : "")} onClick={() => setSavedOnly(v => !v)}>
-              <I.heart fill={savedOnly ? 1 : 0} style={{ width: 15, height: 15 }} /> Saved <span className="cnt">{saved.length}</span>
+            <button className="panel-done btn" onClick={() => setFiltersOpen(false)}>
+              Show {filtered.length} {filtered.length === 1 ? "recipe" : "recipes"}
             </button>
-            <select className="sort" value={sort} onChange={e => setSort(e.target.value)} aria-label="Sort">
-              <option value="newest">Newest seasons</option>
-              <option value="oldest">Earliest seasons</option>
-              <option value="az">A–Z</option>
-              <option value="chef">By cook</option>
-            </select>
-            {active && <button className="clearfilters" onClick={clearAll}>Clear filters</button>}
-          </div>
-
-          <div className="filters" style={{ marginTop: 10 }}>
-            <div className="filtergroup">
-              <span className="gl label">Season</span>
-              <button className={"chip" + (season === "" ? " on" : "")} onClick={() => setSeason("")}>All seasons</button>
-              {seasons.arr.map(([s, n]) =>
-                <button key={s} className={"chip" + (season === s ? " on" : "")} onClick={() => setSeason(season === s ? "" : s)}>
-                  S{s} <span className="cnt">{n}</span></button>)}
-              {seasons.earlier > 0 &&
-                <button className={"chip" + (season === "earlier" ? " on" : "")} onClick={() => setSeason(season === "earlier" ? "" : "earlier")}>
-                  Earlier <span className="cnt">{seasons.earlier}</span></button>}
-            </div>
           </div>
         </div>
       </div>

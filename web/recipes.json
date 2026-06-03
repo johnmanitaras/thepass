@@ -2896,6 +2896,168 @@
     ]
   },
   {
+    "id": "r260527uhfjc",
+    "title": "Pan-Seared Scallops With Miso Cauliflower Purée",
+    "image": "https://10.com.au/ip/s3/2026/05/27/e572bbc21a4a7863edade7cde5d6171b-1432256.png?image-profile=image_max&io=landscape",
+    "chef": "Alyona Iljuhhina",
+    "chefRole": "Contestant",
+    "chefThumb": "https://10.com.au/ip/s3/2026/04/21/d794291b68503fc90219046c46bd0d02-1423736.png?image-profile=bio_thumb&io=square",
+    "season": 18,
+    "serves": "4",
+    "published": "03 Jun 2026",
+    "url": "https://10.com.au/masterchef/recipes/pan-seared-scallops-with-miso-cauliflower-puree/r260527uhfjc",
+    "course": "Main",
+    "tags": [
+      "Scallops",
+      "Anchovy",
+      "Miso",
+      "Cauliflower",
+      "Main"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Green Apple & Shallot Pickle",
+        "items": [
+          {
+            "amount": "60ml",
+            "name": "vinegar"
+          },
+          {
+            "amount": "60ml",
+            "name": "water"
+          },
+          {
+            "amount": "20g",
+            "name": "sugar"
+          },
+          {
+            "amount": "5g",
+            "name": "salt"
+          },
+          {
+            "amount": "½",
+            "name": "green apple, finely diced"
+          },
+          {
+            "amount": "½",
+            "name": "shallot, thinly sliced"
+          }
+        ]
+      },
+      {
+        "title": "Miso Cauliflower Purée",
+        "items": [
+          {
+            "amount": "1",
+            "name": "small shallot, finely diced"
+          },
+          {
+            "amount": "1",
+            "name": "garlic clove, finely diced"
+          },
+          {
+            "amount": "20g",
+            "name": "butter"
+          },
+          {
+            "amount": "50ml",
+            "name": "white wine"
+          },
+          {
+            "amount": "1/2",
+            "name": "small cauliflower, finely blitzed in a food processor"
+          },
+          {
+            "amount": "",
+            "name": "splash of water"
+          },
+          {
+            "amount": "60ml",
+            "name": "cream"
+          },
+          {
+            "amount": "20g",
+            "name": "white miso"
+          },
+          {
+            "amount": "30g",
+            "name": "butter"
+          },
+          {
+            "amount": "",
+            "name": "pinch salt and white pepper"
+          }
+        ]
+      },
+      {
+        "title": "Herb–Anchovy Green Sauce",
+        "items": [
+          {
+            "amount": "1 cup",
+            "name": "parsley leaves"
+          },
+          {
+            "amount": "1 cup",
+            "name": "fresh dill fronds"
+          },
+          {
+            "amount": "½ cup",
+            "name": "fresh mint leaves"
+          },
+          {
+            "amount": "4",
+            "name": "anchovy fillets"
+          },
+          {
+            "amount": "½",
+            "name": "small garlic clove"
+          },
+          {
+            "amount": "½",
+            "name": "lemon, zested"
+          },
+          {
+            "amount": "1–2 tbsp",
+            "name": "lemon juice, to taste"
+          },
+          {
+            "amount": "4 tbsp",
+            "name": "olive oil"
+          },
+          {
+            "amount": "4 tbsp",
+            "name": "grapeseed oil"
+          },
+          {
+            "amount": "",
+            "name": "pinch salt and white pepper"
+          }
+        ]
+      },
+      {
+        "title": "Pan-Seared Scallops",
+        "items": [
+          {
+            "amount": "12",
+            "name": "scallops in the shell, roe removed"
+          },
+          {
+            "amount": "",
+            "name": "grapeseed oil, for frying"
+          },
+          {
+            "amount": "20g",
+            "name": "butter"
+          },
+          {
+            "amount": "",
+            "name": "salt"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "r260512gqvoe",
     "title": "Pork Belly Roti Tacos",
     "image": "https://10.com.au/ip/s3/2026/05/12/ff96415a87d1815ab7d1d790d97b1769-1428852.png?image-profile=image_max&io=landscape",

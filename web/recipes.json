@@ -3058,6 +3058,181 @@
     ]
   },
   {
+    "id": "r260602cbndy",
+    "title": "Pork & Peaches",
+    "image": "https://10.com.au/ip/s3/2026/06/02/19aba864ca1fa438e18fbe89181f1bcf-1433047.png?image-profile=image_max&io=landscape",
+    "chef": "Dot McHugh",
+    "chefRole": "Contestant",
+    "chefThumb": "https://10.com.au/ip/s3/2026/04/22/bfab255186f3872c7963b91d47a6952b-1423757.png?image-profile=bio_thumb&io=square",
+    "season": 18,
+    "serves": "3",
+    "published": "08 Jun 2026",
+    "url": "https://10.com.au/masterchef/recipes/pork-peaches/r260602cbndy",
+    "course": "Main",
+    "tags": [
+      "Pork",
+      "Peaches",
+      "Prosciutto",
+      "Sage",
+      "Main"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Peach Ketchup",
+        "items": [
+          {
+            "amount": "2",
+            "name": "yellow peaches, diced"
+          },
+          {
+            "amount": "3 tbsp",
+            "name": "caster sugar"
+          },
+          {
+            "amount": "¼ cup",
+            "name": "water"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "Dijon mustard"
+          },
+          {
+            "amount": "20ml",
+            "name": "verjuice"
+          },
+          {
+            "amount": "",
+            "name": "salt and white pepper, to taste"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "butter"
+          }
+        ]
+      },
+      {
+        "title": "Parsnip Purée",
+        "items": [
+          {
+            "amount": "4",
+            "name": "parsnips"
+          },
+          {
+            "amount": "350ml",
+            "name": "milk, or enough to cover"
+          },
+          {
+            "amount": "¼ cup",
+            "name": "cream"
+          },
+          {
+            "amount": "2 tbsp",
+            "name": "butter, plus for cooking"
+          },
+          {
+            "amount": "",
+            "name": "salt and white pepper"
+          }
+        ]
+      },
+      {
+        "title": "Pork Jus",
+        "items": [
+          {
+            "amount": "2 tbsp",
+            "name": "grapeseed oil"
+          },
+          {
+            "amount": "500g",
+            "name": "pork ribs"
+          },
+          {
+            "amount": "1",
+            "name": "onion, roughly chopped"
+          },
+          {
+            "amount": "2",
+            "name": "carrots, roughly chopped"
+          },
+          {
+            "amount": "2",
+            "name": "sticks celery, roughly chopped"
+          },
+          {
+            "amount": "2 cloves",
+            "name": "garlic, crushed"
+          },
+          {
+            "amount": "200ml",
+            "name": "white wine"
+          },
+          {
+            "amount": "500ml",
+            "name": "chicken stock"
+          },
+          {
+            "amount": "30g",
+            "name": "cold butter, cubed"
+          },
+          {
+            "amount": "",
+            "name": "salt, to taste"
+          }
+        ]
+      },
+      {
+        "title": "Prosciutto-Wrapped Pork Sirloin",
+        "items": [
+          {
+            "amount": "1 (about 500g)",
+            "name": "large pork sirloin, fat removed and shaped into a neat cylinder"
+          },
+          {
+            "amount": "6",
+            "name": "fresh sage leaves"
+          },
+          {
+            "amount": "",
+            "name": "Peach Ketchup"
+          },
+          {
+            "amount": "100g",
+            "name": "thinly sliced Prosciutto"
+          },
+          {
+            "amount": "",
+            "name": "salt and cracked black pepper"
+          },
+          {
+            "amount": "",
+            "name": "olive oil"
+          }
+        ]
+      },
+      {
+        "title": "Garnish",
+        "items": [
+          {
+            "amount": "50g",
+            "name": "macadamia nuts"
+          },
+          {
+            "amount": "3",
+            "name": "yellow peaches"
+          },
+          {
+            "amount": "2 tbsp",
+            "name": "grapeseed oil"
+          },
+          {
+            "amount": "8",
+            "name": "sage leaves"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "r260512gqvoe",
     "title": "Pork Belly Roti Tacos",
     "image": "https://10.com.au/ip/s3/2026/05/12/ff96415a87d1815ab7d1d790d97b1769-1428852.png?image-profile=image_max&io=landscape",

@@ -1728,6 +1728,166 @@
     ]
   },
   {
+    "id": "r260602pmgol",
+    "title": "Cured Coral Trout with Davidson Plum Ponzu, Macadamia Cream, Lime Kosho, Cucumber & Finger Lime",
+    "image": "https://10.com.au/ip/s3/2026/06/02/32f520fc208f44c9df5ee32882bcc692-1433064.png?image-profile=image_max&io=landscape",
+    "chef": "Annabel Lloyd",
+    "chefRole": "Contestant",
+    "chefThumb": "https://10.com.au/ip/s3/2026/04/21/cf1da7579f0bfcd36dd9ac47336b94eb-1423740.png?image-profile=bio_thumb&io=square",
+    "season": 18,
+    "serves": "4",
+    "published": "10 Jun 2026",
+    "url": "https://10.com.au/masterchef/recipes/cured-coral-trout-with-davidson-plum-ponzu-macadamia-cream-lime-kosho-cucumber-finger-lime/r260602pmgol",
+    "course": "Main",
+    "tags": [
+      "Trout",
+      "Plum",
+      "Macadamia",
+      "Lime",
+      "Main"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Coral Trout",
+        "items": [
+          {
+            "amount": "2",
+            "name": "coral trout fillets, skinless and pin-boned"
+          },
+          {
+            "amount": "50g",
+            "name": "fine salt"
+          },
+          {
+            "amount": "50g",
+            "name": "caster sugar"
+          },
+          {
+            "amount": "",
+            "name": "flaky sea salt, to finish"
+          }
+        ]
+      },
+      {
+        "title": "Davidson Plum Ponzu",
+        "items": [
+          {
+            "amount": "6–7",
+            "name": "Davidson plums, pitted"
+          },
+          {
+            "amount": "1½ tbsp",
+            "name": "shiro dashi"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "white soy"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "mirin"
+          },
+          {
+            "amount": "1–2 tsp",
+            "name": "brown rice vinegar"
+          },
+          {
+            "amount": "½–1 tsp",
+            "name": "caster sugar (to taste)"
+          },
+          {
+            "amount": "",
+            "name": "lime juice, to taste"
+          }
+        ]
+      },
+      {
+        "title": "Lime Kosho",
+        "items": [
+          {
+            "amount": "1",
+            "name": "green chilli, deseeded and finely chopped"
+          },
+          {
+            "amount": "1",
+            "name": "lime, zested"
+          },
+          {
+            "amount": "½ tsp",
+            "name": "fine salt"
+          },
+          {
+            "amount": "½ tsp",
+            "name": "caster sugar"
+          },
+          {
+            "amount": "1 tsp",
+            "name": "yuzu kosho"
+          },
+          {
+            "amount": "1–2 tsp",
+            "name": "lime juice"
+          }
+        ]
+      },
+      {
+        "title": "Macadamia Cream",
+        "items": [
+          {
+            "amount": "75g",
+            "name": "raw macadamias"
+          },
+          {
+            "amount": "75g",
+            "name": "roasted macadamias"
+          },
+          {
+            "amount": "80ml",
+            "name": "water"
+          },
+          {
+            "amount": "1 tsp",
+            "name": "mirin"
+          },
+          {
+            "amount": "1 tsp",
+            "name": "rice vinegar"
+          },
+          {
+            "amount": "",
+            "name": "salt, to taste"
+          },
+          {
+            "amount": "",
+            "name": "pinch caster sugar"
+          }
+        ]
+      },
+      {
+        "title": "Davidson Plum Skin Powder",
+        "items": [
+          {
+            "amount": "2",
+            "name": "Davidson plums (skins only)"
+          }
+        ]
+      },
+      {
+        "title": "Garnish",
+        "items": [
+          {
+            "amount": "½",
+            "name": "cucumber, deseeded & finely brunoised"
+          },
+          {
+            "amount": "1",
+            "name": "finger lime, pearls removed"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "r260527mglpt",
     "title": "Cured Kingfish Tartare With Lime & Chilli",
     "image": "https://10.com.au/ip/s3/2026/05/27/9dca3bd6a90c841138ac9fd5e6f24a8d-1432239.png?image-profile=image_max&io=landscape",
@@ -1849,6 +2009,132 @@
           {
             "amount": "",
             "name": "salt and pepper, to taste"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "r260602mxwrg",
+    "title": "Duck Roasted On The Crown, Macadamia And Black Garlic Puree, Ooray Sauce",
+    "image": "https://10.com.au/ip/s3/2026/06/02/a6073c7f34f24d383d6ec8c4182b3bf6-1433071.png?image-profile=image_max&io=landscape",
+    "chef": "Vinnie Gibaldi",
+    "chefRole": "Contestant",
+    "chefThumb": "https://10.com.au/ip/s3/2026/04/22/cfe4d9448999fecbc1a0633e611af2cd-1423822.png?image-profile=bio_thumb&io=square",
+    "season": 18,
+    "serves": "2",
+    "published": "10 Jun 2026",
+    "url": "https://10.com.au/masterchef/recipes/duck-roasted-on-the-crown-macadamia-and-black-garlic-puree-ooray-sauce/r260602mxwrg",
+    "course": "Main",
+    "tags": [
+      "Duck",
+      "Macadamia",
+      "Black Garlic",
+      "Lemon",
+      "Main"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Roast Duck",
+        "items": [
+          {
+            "amount": "1",
+            "name": "whole duck"
+          },
+          {
+            "amount": "",
+            "name": "salt, to season"
+          },
+          {
+            "amount": "",
+            "name": "olive oil"
+          }
+        ]
+      },
+      {
+        "title": "Duck Stock",
+        "items": [
+          {
+            "amount": "",
+            "name": "reserved duck legs and wings"
+          },
+          {
+            "amount": "",
+            "name": "water"
+          }
+        ]
+      },
+      {
+        "title": "Ooray Sauce",
+        "items": [
+          {
+            "amount": "1",
+            "name": "shallot, finely diced"
+          },
+          {
+            "amount": "",
+            "name": "olive oil"
+          },
+          {
+            "amount": "240g",
+            "name": "ooray purée"
+          },
+          {
+            "amount": "½ cup",
+            "name": "duck stock"
+          },
+          {
+            "amount": "",
+            "name": "red wine vinegar, to taste"
+          },
+          {
+            "amount": "",
+            "name": "honey, to taste"
+          },
+          {
+            "amount": "1/8 tsp",
+            "name": "ground cinnamon"
+          },
+          {
+            "amount": "1/8 tsp",
+            "name": "ground nutmeg"
+          },
+          {
+            "amount": "1 tsp",
+            "name": "extra virgin olive oil"
+          },
+          {
+            "amount": "",
+            "name": "salt, to taste"
+          }
+        ]
+      },
+      {
+        "title": "Macadamia Purée",
+        "items": [
+          {
+            "amount": "150g",
+            "name": "macadamias"
+          },
+          {
+            "amount": "2 tbsp",
+            "name": "thickened cream"
+          },
+          {
+            "amount": "3 tbsp",
+            "name": "lemon juice"
+          },
+          {
+            "amount": "4 cloves",
+            "name": "black garlic"
+          },
+          {
+            "amount": "150ml",
+            "name": "duck stock, as needed"
+          },
+          {
+            "amount": "",
+            "name": "salt, to taste"
           }
         ]
       }
@@ -5555,6 +5841,149 @@
           {
             "amount": "",
             "name": "cooked longan from the chicken soup"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "r260602rlnxd",
+    "title": "Wattleseed Ice Cream, Macadamia Crumb, Soy Sauce Caramel, Ooray Plum Gel and Wattleseed Coral",
+    "image": "https://10.com.au/ip/s3/2026/06/02/e8a68068f2854ab7a4f99627b80c6c74-1433056.png?image-profile=image_max&io=landscape",
+    "chef": "Aaron Kher",
+    "chefRole": "Contestant",
+    "chefThumb": "https://10.com.au/ip/s3/2026/04/21/9641f28ef8b2ca9a61bade44bbf462d2-1423729.png?image-profile=bio_thumb&io=square",
+    "season": 18,
+    "serves": "4",
+    "published": "10 Jun 2026",
+    "url": "https://10.com.au/masterchef/recipes/wattleseed-ice-cream-macadamia-crumb-soy-sauce-caramel-ooray-plum-gel-and-wattleseed-coral/r260602rlnxd",
+    "course": "Dessert",
+    "tags": [
+      "Wattle Seeds",
+      "Macadamia",
+      "Soy Sauce",
+      "Caramel",
+      "Dessert"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Wattleseed Ice cream",
+        "items": [
+          {
+            "amount": "250ml",
+            "name": "thickened cream"
+          },
+          {
+            "amount": "250ml",
+            "name": "milk"
+          },
+          {
+            "amount": "25g",
+            "name": "glucose syrup"
+          },
+          {
+            "amount": "75g",
+            "name": "caster sugar"
+          },
+          {
+            "amount": "25g",
+            "name": "skim milk powder"
+          },
+          {
+            "amount": "5",
+            "name": "egg yolks"
+          },
+          {
+            "amount": "15g",
+            "name": "ground wattleseed"
+          }
+        ]
+      },
+      {
+        "title": "Macadamia Crumb",
+        "items": [
+          {
+            "amount": "50g",
+            "name": "cold unsalted butter, diced"
+          },
+          {
+            "amount": "50g",
+            "name": "plain flour"
+          },
+          {
+            "amount": "50g",
+            "name": "caster sugar"
+          },
+          {
+            "amount": "35g",
+            "name": "macadamia"
+          },
+          {
+            "amount": "",
+            "name": "salt, to taste"
+          }
+        ]
+      },
+      {
+        "title": "Soy Sauce Caramel",
+        "items": [
+          {
+            "amount": "100g",
+            "name": "caster sugar"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "light soy sauce"
+          },
+          {
+            "amount": "50g",
+            "name": "thickened cream"
+          },
+          {
+            "amount": "25g",
+            "name": "cold unsalted butter"
+          }
+        ]
+      },
+      {
+        "title": "Ooray Plum Gel",
+        "items": [
+          {
+            "amount": "100g",
+            "name": "strained ooray plum puree"
+          },
+          {
+            "amount": "2 tbsp",
+            "name": "caster sugar"
+          },
+          {
+            "amount": "1g",
+            "name": "agar agar"
+          }
+        ]
+      },
+      {
+        "title": "Wattleseed Coral",
+        "items": [
+          {
+            "amount": "65g",
+            "name": "grapeseed oil"
+          },
+          {
+            "amount": "55g",
+            "name": "water"
+          },
+          {
+            "amount": "10g",
+            "name": "plain flour"
+          },
+          {
+            "amount": "1 tsp",
+            "name": "caster sugar"
+          },
+          {
+            "amount": "",
+            "name": "pinch ground wattleseed"
           }
         ]
       }

@@ -4792,6 +4792,128 @@
     ]
   },
   {
+    "id": "r260610niuwa",
+    "title": "Tonka Bean Tart",
+    "image": "https://10.com.au/ip/s3/2026/06/10/5b544818b515c253871cf2d1ddde7143-1433908.png?image-profile=image_max&io=landscape",
+    "chef": "Petro Papathomas",
+    "chefRole": "Contestant",
+    "chefThumb": "https://10.com.au/ip/s3/2026/04/22/261ce5ea6ee1e7593b38c59877f50d3b-1423818.png?image-profile=bio_thumb&io=square",
+    "season": 18,
+    "serves": "3",
+    "published": "14 Jun 2026",
+    "url": "https://10.com.au/masterchef/recipes/tonka-bean-tart/r260610niuwa",
+    "course": "Dessert",
+    "tags": [
+      "Dates",
+      "Caramel",
+      "Dark Chocolate",
+      "Dessert"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Short Crust Tart Shell",
+        "items": [
+          {
+            "amount": "200g",
+            "name": "plain flour"
+          },
+          {
+            "amount": "100g",
+            "name": "cold butter, cubed"
+          },
+          {
+            "amount": "50g",
+            "name": "iced water"
+          }
+        ]
+      },
+      {
+        "title": "Crème Patisserie",
+        "items": [
+          {
+            "amount": "200g",
+            "name": "milk"
+          },
+          {
+            "amount": "¼",
+            "name": "tonka bean, grated"
+          },
+          {
+            "amount": "55g",
+            "name": "sugar"
+          },
+          {
+            "amount": "30g",
+            "name": "egg yolk"
+          },
+          {
+            "amount": "15g",
+            "name": "corn flour"
+          },
+          {
+            "amount": "15g",
+            "name": "butter"
+          }
+        ]
+      },
+      {
+        "title": "Date Caramel",
+        "items": [
+          {
+            "amount": "150g",
+            "name": "sugar"
+          },
+          {
+            "amount": "50g",
+            "name": "pitted dates, roughly chopped"
+          },
+          {
+            "amount": "50g",
+            "name": "water"
+          },
+          {
+            "amount": "50g",
+            "name": "cream"
+          },
+          {
+            "amount": "25g",
+            "name": "butter"
+          }
+        ]
+      },
+      {
+        "title": "Crème Diplomat",
+        "items": [
+          {
+            "amount": "200g",
+            "name": "thickened cream"
+          },
+          {
+            "amount": "1 tsp",
+            "name": "vanilla paste"
+          },
+          {
+            "amount": "1",
+            "name": "orange, zested"
+          },
+          {
+            "amount": "",
+            "name": "Crème Patisserie"
+          }
+        ]
+      },
+      {
+        "title": "Garnish",
+        "items": [
+          {
+            "amount": "20g",
+            "name": "70% dark chocolate, shaved"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "r260519bqhly",
     "title": "Tsukune Dolmades",
     "image": "https://10.com.au/ip/s3/2026/05/19/8efa58e7bc272ad55c547a66bd75fb02-1430748.png?image-profile=image_max&io=landscape",

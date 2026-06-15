@@ -4792,6 +4792,161 @@
     ]
   },
   {
+    "id": "r260610oniap",
+    "title": "Tomato Salad",
+    "image": "https://10.com.au/ip/s3/2026/06/10/f3f564ce2be0a7a46fe41a329c736595-1434036.png?image-profile=image_max&io=landscape",
+    "chef": "Aaron Kher",
+    "chefRole": "Contestant",
+    "chefThumb": "https://10.com.au/ip/s3/2026/04/21/9641f28ef8b2ca9a61bade44bbf462d2-1423729.png?image-profile=bio_thumb&io=square",
+    "season": 18,
+    "serves": "2",
+    "published": "15 Jun 2026",
+    "url": "https://10.com.au/masterchef/recipes/tomato-salad/r260610oniap",
+    "course": "Dessert",
+    "tags": [
+      "Tomato",
+      "Basil",
+      "Olive Oil",
+      "White Peppercorns",
+      "Dessert"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Basil Ice Cream",
+        "items": [
+          {
+            "amount": "80g",
+            "name": "caster sugar"
+          },
+          {
+            "amount": "5",
+            "name": "egg yolks"
+          },
+          {
+            "amount": "250ml",
+            "name": "milk"
+          },
+          {
+            "amount": "250ml",
+            "name": "cream"
+          },
+          {
+            "amount": "25g",
+            "name": "glucose syrup"
+          },
+          {
+            "amount": "4",
+            "name": "stems of basil"
+          },
+          {
+            "amount": "½ tbsp",
+            "name": "white peppercorns"
+          },
+          {
+            "amount": "",
+            "name": "pinch salt"
+          }
+        ]
+      },
+      {
+        "title": "Tomato Granita",
+        "items": [
+          {
+            "amount": "3",
+            "name": "large roma tomatoes"
+          },
+          {
+            "amount": "2",
+            "name": "black cherry tomatoes"
+          },
+          {
+            "amount": "3 tbsp",
+            "name": "caster sugar"
+          },
+          {
+            "amount": "1",
+            "name": "lime, juiced"
+          },
+          {
+            "amount": "¼ tsp",
+            "name": "citric acid"
+          }
+        ]
+      },
+      {
+        "title": "Olive Oil Hazelnut Crumb",
+        "items": [
+          {
+            "amount": "70g",
+            "name": "plain flour"
+          },
+          {
+            "amount": "50g",
+            "name": "cold unsalted butter, diced"
+          },
+          {
+            "amount": "50g",
+            "name": "caster sugar"
+          },
+          {
+            "amount": "20g",
+            "name": "olive oil"
+          },
+          {
+            "amount": "40g",
+            "name": "hazelnuts"
+          }
+        ]
+      },
+      {
+        "title": "Basil Oil",
+        "items": [
+          {
+            "amount": "1",
+            "name": "bunch of basil"
+          },
+          {
+            "amount": "1/3 cup",
+            "name": "neutral oil"
+          },
+          {
+            "amount": "¼ cup",
+            "name": "olive oil"
+          },
+          {
+            "amount": "",
+            "name": "Pinch of salt"
+          }
+        ]
+      },
+      {
+        "title": "Basil Infused Tuile",
+        "items": [
+          {
+            "amount": "25g",
+            "name": "unsalted butter"
+          },
+          {
+            "amount": "40g",
+            "name": "egg white"
+          },
+          {
+            "amount": "40g",
+            "name": "plain flour"
+          },
+          {
+            "amount": "40g",
+            "name": "caster sugar"
+          },
+          {
+            "amount": "15g",
+            "name": "Basil Oil"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "r260610niuwa",
     "title": "Tonka Bean Tart",
     "image": "https://10.com.au/ip/s3/2026/06/10/5b544818b515c253871cf2d1ddde7143-1433908.png?image-profile=image_max&io=landscape",

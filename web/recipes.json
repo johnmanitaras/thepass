@@ -11144,6 +11144,194 @@
     ]
   },
   {
+    "id": "r250707dgewq",
+    "title": "Golden Katara",
+    "image": "https://10.com.au/ip/s3/2025/07/07/a93d6ad8d09baed381a8df3e153e6739-1385861.png?image-profile=image_max&io=landscape",
+    "chef": "Laura Sharrad",
+    "chefRole": null,
+    "chefThumb": "https://10.com.au/ip/s3/2025/04/23/d3eaa66c3a58ace6b9c86f13168cb254-1375687.png?image-profile=bio_thumb&io=square",
+    "season": 17,
+    "serves": "4",
+    "published": "08 Jul 2025",
+    "url": "https://10.com.au/masterchef/recipes/golden-katara/r250707dgewq",
+    "course": "Dessert",
+    "tags": [
+      "Pistachio",
+      "Blood Orange",
+      "Honey",
+      "Gold Leaf",
+      "Dessert"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Karak Tea Gelato",
+        "items": [
+          {
+            "amount": "275g",
+            "name": "milk"
+          },
+          {
+            "amount": "100g",
+            "name": "thickened cream"
+          },
+          {
+            "amount": "20g",
+            "name": "glucose powder"
+          },
+          {
+            "amount": "20g",
+            "name": "skim milk powder"
+          },
+          {
+            "amount": "20g",
+            "name": "yolks"
+          },
+          {
+            "amount": "50g",
+            "name": "sugar"
+          },
+          {
+            "amount": "1g",
+            "name": "ice cream stabiliser"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "black tea"
+          },
+          {
+            "amount": "2",
+            "name": "cinnamon quills"
+          },
+          {
+            "amount": "3",
+            "name": "cloves"
+          },
+          {
+            "amount": "1 piece",
+            "name": "dried ginger, sliced"
+          },
+          {
+            "amount": "4",
+            "name": "cardamon pods"
+          },
+          {
+            "amount": "1",
+            "name": "vanilla pods"
+          }
+        ]
+      },
+      {
+        "title": "Pistachio Financier",
+        "items": [
+          {
+            "amount": "60g",
+            "name": "unsalted butter"
+          },
+          {
+            "amount": "60g",
+            "name": "icing sugar"
+          },
+          {
+            "amount": "60g",
+            "name": "egg whites"
+          },
+          {
+            "amount": "45g",
+            "name": "pistachios"
+          },
+          {
+            "amount": "20g",
+            "name": "plain flour"
+          },
+          {
+            "amount": "15g",
+            "name": "pistachio paste"
+          },
+          {
+            "amount": "¼ tsp",
+            "name": "baking powder"
+          }
+        ]
+      },
+      {
+        "title": "Blood Orange Compote",
+        "items": [
+          {
+            "amount": "2",
+            "name": "blood oranges"
+          },
+          {
+            "amount": "2 tbsp",
+            "name": "caster sugar"
+          },
+          {
+            "amount": "1",
+            "name": "vanilla pod"
+          }
+        ]
+      },
+      {
+        "title": "Whipped Pistachio Cream",
+        "items": [
+          {
+            "amount": "125g",
+            "name": "thickened cream"
+          },
+          {
+            "amount": "10g",
+            "name": "caster sugar"
+          },
+          {
+            "amount": "40g",
+            "name": "mascarpone or creme fraiche"
+          },
+          {
+            "amount": "20g",
+            "name": "pistachio paste"
+          }
+        ]
+      },
+      {
+        "title": "Golden Honey Tiles",
+        "items": [
+          {
+            "amount": "30g",
+            "name": "honey"
+          },
+          {
+            "amount": "75g",
+            "name": "brown sugar"
+          },
+          {
+            "amount": "50g",
+            "name": "unsalted butter"
+          },
+          {
+            "amount": "50g",
+            "name": "plain flour"
+          },
+          {
+            "amount": "60g",
+            "name": "egg whites"
+          },
+          {
+            "amount": "",
+            "name": "gold powder"
+          }
+        ]
+      },
+      {
+        "title": "",
+        "items": [
+          {
+            "amount": "",
+            "name": "gold leaf, to serve"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "r250617hjyqx",
     "title": "Honey Cake (Medena Pita)",
     "image": "https://10.com.au/ip/s3/2025/06/17/6f8e3f9ee2f7cb1baa8956eae56e9f54-1383475.png?image-profile=image_max&io=landscape",

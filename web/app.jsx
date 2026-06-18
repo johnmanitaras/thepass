@@ -169,6 +169,14 @@ function Card({ r, feat, saved, onSave }) {
    ========================================================================= */
 const COURSE_ORDER = ["Main", "Entrée", "Dessert", "Drink"];
 
+// Parse a "DD Mon YYYY" published date into a sortable UTC timestamp.
+const MONTHS = { jan: 0, feb: 1, mar: 2, apr: 3, may: 4, jun: 5, jul: 6, aug: 7, sep: 8, oct: 9, nov: 10, dec: 11 };
+function pubTime(r) {
+  const m = /^(\d{1,2})\s+([A-Za-z]{3})\s+(\d{4})$/.exec(r.published || "");
+  const mon = m && MONTHS[m[2].toLowerCase()];
+  return m && mon != null ? Date.UTC(+m[3], mon, +m[1]) : -Infinity;
+}
+
 function Browse({ saved, onSave }) {
   const [q, setQ] = usePersist("mc_q", "");
   const [course, setCourse] = usePersist("mc_course", "");
@@ -205,7 +213,7 @@ function Browse({ saved, onSave }) {
     const byTitle = (a, b) => (a.title || "").localeCompare(b.title || "");
     const sNum = r => (r.season == null ? -1 : r.season);
     out = out.slice();
-    if (sort === "newest") out.sort((a, b) => sNum(b) - sNum(a) || byTitle(a, b));
+    if (sort === "newest") out.sort((a, b) => pubTime(b) - pubTime(a) || sNum(b) - sNum(a) || byTitle(a, b));
     else if (sort === "oldest") out.sort((a, b) => { const x = sNum(a), y = sNum(b); if (x < 0) return 1; if (y < 0) return -1; return x - y || byTitle(a, b); });
     else if (sort === "az") out.sort(byTitle);
     else if (sort === "chef") out.sort((a, b) => (a.chef || "~").localeCompare(b.chef || "~") || sNum(b) - sNum(a));
@@ -279,7 +287,7 @@ function Browse({ saved, onSave }) {
                 <I.heart fill={savedOnly ? 1 : 0} style={{ width: 15, height: 15 }} /> Saved <span className="cnt">{saved.length}</span>
               </button>
               <select className="sort" value={sort} onChange={e => setSort(e.target.value)} aria-label="Sort">
-                <option value="newest">Newest seasons</option>
+                <option value="newest">Most recent</option>
                 <option value="oldest">Earliest seasons</option>
                 <option value="az">A–Z</option>
                 <option value="chef">By cook</option>

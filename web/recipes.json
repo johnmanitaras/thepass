@@ -367,6 +367,193 @@
     ]
   },
   {
+    "id": "r260617knwvu",
+    "title": "Butterflied, Stuffed, Rolled Flathead With Fish Jus",
+    "image": "https://10.com.au/ip/s3/2026/06/17/e067522ffbaf4331941abe1e0bf6b822-1435546.png?image-profile=image_max&io=landscape",
+    "chef": "Annabel Lloyd",
+    "chefRole": "Contestant",
+    "chefThumb": "https://10.com.au/ip/s3/2026/04/21/cf1da7579f0bfcd36dd9ac47336b94eb-1423740.png?image-profile=bio_thumb&io=square",
+    "season": 18,
+    "serves": "4",
+    "published": "21 Jun 2026",
+    "url": "https://10.com.au/masterchef/recipes/butterflied-stuffed-rolled-flathead-with-fish-jus/r260617knwvu",
+    "course": "Main",
+    "tags": [
+      "Flathead",
+      "Butter",
+      "Anchovy",
+      "Fennel",
+      "Dinner"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Flathead",
+        "items": [
+          {
+            "amount": "1",
+            "name": "rock flathead (about 700g), scaled and gutted"
+          },
+          {
+            "amount": "",
+            "name": "grapeseed oil, for cooking"
+          },
+          {
+            "amount": "",
+            "name": "sea salt, to taste"
+          }
+        ]
+      },
+      {
+        "title": "Breadcrumb Stuffing",
+        "items": [
+          {
+            "amount": "60g",
+            "name": "unsalted butter"
+          },
+          {
+            "amount": "1",
+            "name": "shallot, roughly chopped"
+          },
+          {
+            "amount": "2",
+            "name": "garlic cloves"
+          },
+          {
+            "amount": "3",
+            "name": "bay leaves"
+          },
+          {
+            "amount": "100g",
+            "name": "fresh breadcrumbs"
+          },
+          {
+            "amount": "2",
+            "name": "anchovy fillets"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "capers, finely chopped"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "preserved lemon, finely chopped"
+          },
+          {
+            "amount": "1 tsp",
+            "name": "fennel seeds, lightly crushed"
+          },
+          {
+            "amount": "½ tsp",
+            "name": "chilli flakes"
+          },
+          {
+            "amount": "1",
+            "name": "lemon, zested"
+          },
+          {
+            "amount": "2 tbsp",
+            "name": "flat-leaf parsley, finely chopped"
+          },
+          {
+            "amount": "",
+            "name": "salt and pepper, to taste"
+          }
+        ]
+      },
+      {
+        "title": "Brown Butter Fish Sauce Glaze",
+        "items": [
+          {
+            "amount": "40g",
+            "name": "butter"
+          },
+          {
+            "amount": "2 tsp",
+            "name": "fish sauce"
+          }
+        ]
+      },
+      {
+        "title": "Flathead Jus",
+        "items": [
+          {
+            "amount": "",
+            "name": "reserved flathead backbone"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "milk powder"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "olive oil"
+          },
+          {
+            "amount": "1",
+            "name": "carrot, roughly chopped"
+          },
+          {
+            "amount": "2",
+            "name": "celery sticks, roughly chopped"
+          },
+          {
+            "amount": "½",
+            "name": "fennel bulb, roughly chopped (reserve fronds for garnish)"
+          },
+          {
+            "amount": "1",
+            "name": "onion, roughly chopped"
+          },
+          {
+            "amount": "2",
+            "name": "garlic cloves, crushed"
+          },
+          {
+            "amount": "100ml",
+            "name": "dry white wine"
+          },
+          {
+            "amount": "500ml",
+            "name": "fish stock"
+          },
+          {
+            "amount": "",
+            "name": "shiro dashi, to taste"
+          },
+          {
+            "amount": "",
+            "name": "fresh lemon juice, to taste"
+          },
+          {
+            "amount": "",
+            "name": "caster sugar, to taste"
+          },
+          {
+            "amount": "",
+            "name": "salt, to taste"
+          },
+          {
+            "amount": "40g",
+            "name": "cold butter, cubed"
+          }
+        ]
+      },
+      {
+        "title": "Garnish",
+        "items": [
+          {
+            "amount": "",
+            "name": "reserved fennel fronds, for garnish"
+          },
+          {
+            "amount": "",
+            "name": "lemon cheeks, to serve"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "r260420qtwin",
     "title": "Charred Octopus with Leek and Potato and Yoghurt Sauce with Dill Oil",
     "image": "https://10.com.au/ip/s3/2026/04/20/3626d8ad20a6c13aa33dcba2f00d3a28-1423450.png?image-profile=image_max&io=landscape",

@@ -5273,6 +5273,182 @@
     ]
   },
   {
+    "id": "r260617opqsf",
+    "title": "Tartare With Crispy Potato & Crostini, And Hibachi-Grilled Flat Iron With Salsa Verde, Fennel & Orange Salad",
+    "image": "https://10.com.au/ip/s3/2026/06/17/ddf011805e9c999a015ca81ca38ea1c5-1435680.png?image-profile=image_max&io=landscape",
+    "chef": "Vinnie Gibaldi",
+    "chefRole": "Contestant",
+    "chefThumb": "https://10.com.au/ip/s3/2026/04/22/cfe4d9448999fecbc1a0633e611af2cd-1423822.png?image-profile=bio_thumb&io=square",
+    "season": 18,
+    "serves": "2",
+    "published": "22 Jun 2026",
+    "url": "https://10.com.au/masterchef/recipes/tartare-with-crispy-potato-crostini-and-hibachi-grilled-flat-iron-with-salsa-verde-fennel-orange-salad/r260617opqsf",
+    "course": "Main",
+    "tags": [
+      "Beef",
+      "Potato",
+      "Salsa",
+      "Fennel",
+      "Dinner"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Flat Iron Tartare",
+        "items": [
+          {
+            "amount": "300g",
+            "name": "flat iron steak, partially frozen"
+          },
+          {
+            "amount": "1",
+            "name": "shallot, very finely diced"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "finely chopped chives"
+          },
+          {
+            "amount": "2",
+            "name": "anchovy fillets, finely chopped"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "capers, finely chopped"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "finely chopped parsley"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "Dijon mustard"
+          },
+          {
+            "amount": "½",
+            "name": "lemon, juiced"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "Calabrian chilli, finely chopped"
+          },
+          {
+            "amount": "2 tbsp",
+            "name": "extra virgin olive oil"
+          },
+          {
+            "amount": "",
+            "name": "sea salt and freshly cracked black pepper"
+          },
+          {
+            "amount": "1",
+            "name": "egg yolk"
+          }
+        ]
+      },
+      {
+        "title": "Crispy Potato Batons",
+        "items": [
+          {
+            "amount": "",
+            "name": "vegetable oil, for deep frying"
+          },
+          {
+            "amount": "1",
+            "name": "large potato, scrubbed"
+          },
+          {
+            "amount": "",
+            "name": "sea salt, to taste"
+          }
+        ]
+      },
+      {
+        "title": "Crostini",
+        "items": [
+          {
+            "amount": "½ cup",
+            "name": "olive oil"
+          },
+          {
+            "amount": "1",
+            "name": "baguette, thinly sliced diagonally"
+          }
+        ]
+      },
+      {
+        "title": "Hibachi-Grilled Flat Iron",
+        "items": [
+          {
+            "amount": "500g",
+            "name": "flat iron steak"
+          },
+          {
+            "amount": "",
+            "name": "sea salt, to taste"
+          }
+        ]
+      },
+      {
+        "title": "Salsa Verde",
+        "items": [
+          {
+            "amount": "½ cup",
+            "name": "flat-leaf parsley leaves"
+          },
+          {
+            "amount": "¼ cup",
+            "name": "mint leaves"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "Calabrian chilli"
+          },
+          {
+            "amount": "1",
+            "name": "clove garlic, crushed"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "red wine vinegar"
+          },
+          {
+            "amount": "",
+            "name": "extra virgin olive oil"
+          },
+          {
+            "amount": "",
+            "name": "sea salt and freshly cracked black pepper"
+          }
+        ]
+      },
+      {
+        "title": "Fennel & Orange Salad",
+        "items": [
+          {
+            "amount": "1",
+            "name": "fennel bulb, very thinly sliced"
+          },
+          {
+            "amount": "2",
+            "name": "oranges, segmented"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "balsamic vinegar"
+          },
+          {
+            "amount": "2 tbsp",
+            "name": "extra virgin olive oil"
+          },
+          {
+            "amount": "",
+            "name": "sea salt, to taste"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "r260610oniap",
     "title": "Tomato Salad",
     "image": "https://10.com.au/ip/s3/2026/06/10/f3f564ce2be0a7a46fe41a329c736595-1434036.png?image-profile=image_max&io=landscape",

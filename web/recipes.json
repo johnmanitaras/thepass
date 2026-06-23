@@ -5273,6 +5273,195 @@
     ]
   },
   {
+    "id": "r260617pfync",
+    "title": "Taramosalata",
+    "image": "https://10.com.au/ip/s3/2026/06/17/4b9a8493bd93530c813adff2712247d4-1435712.png?image-profile=image_max&io=landscape",
+    "chef": "Petro Papathomas",
+    "chefRole": "Contestant",
+    "chefThumb": "https://10.com.au/ip/s3/2026/04/22/261ce5ea6ee1e7593b38c59877f50d3b-1423818.png?image-profile=bio_thumb&io=square",
+    "season": 18,
+    "serves": "4",
+    "published": "23 Jun 2026",
+    "url": "https://10.com.au/masterchef/recipes/taramosalata/r260617pfync",
+    "course": "Main",
+    "tags": [
+      "Caviar or Roe",
+      "Fennel",
+      "Prawn",
+      "Scallops",
+      "Entrée"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Pita Bread",
+        "items": [
+          {
+            "amount": "6g",
+            "name": "yeast"
+          },
+          {
+            "amount": "10g",
+            "name": "sugar"
+          },
+          {
+            "amount": "195g",
+            "name": "lukewarm water"
+          },
+          {
+            "amount": "300g",
+            "name": "plain flour"
+          },
+          {
+            "amount": "5g",
+            "name": "salt"
+          },
+          {
+            "amount": "½ tsp",
+            "name": "black sesame seeds"
+          }
+        ]
+      },
+      {
+        "title": "Taramosalata",
+        "items": [
+          {
+            "amount": "70g",
+            "name": "potato"
+          },
+          {
+            "amount": "1",
+            "name": "shallot, roughly chopped"
+          },
+          {
+            "amount": "1",
+            "name": "small garlic clove, roughly chopped"
+          },
+          {
+            "amount": "50ml",
+            "name": "lemon juice"
+          },
+          {
+            "amount": "30g",
+            "name": "ice cubes"
+          },
+          {
+            "amount": "70g",
+            "name": "cod roe"
+          },
+          {
+            "amount": "300ml",
+            "name": "grapeseed oil"
+          }
+        ]
+      },
+      {
+        "title": "Pickled Fennel Stems",
+        "items": [
+          {
+            "amount": "2",
+            "name": "fennel stems"
+          },
+          {
+            "amount": "50ml",
+            "name": "lemon juice"
+          },
+          {
+            "amount": "2 tbsp",
+            "name": "sugar"
+          }
+        ]
+      },
+      {
+        "title": "Prawns",
+        "items": [
+          {
+            "amount": "6",
+            "name": "large king prawns"
+          },
+          {
+            "amount": "25g",
+            "name": "unsalted butter"
+          },
+          {
+            "amount": "1",
+            "name": "lime, zested"
+          },
+          {
+            "amount": "1",
+            "name": "lemon, zested"
+          },
+          {
+            "amount": "½",
+            "name": "lemon, juiced"
+          }
+        ]
+      },
+      {
+        "title": "Scallops",
+        "items": [
+          {
+            "amount": "25g",
+            "name": "extra virgin olive oil"
+          },
+          {
+            "amount": "25g",
+            "name": "unsalted butter"
+          },
+          {
+            "amount": "6",
+            "name": "scallops"
+          }
+        ]
+      },
+      {
+        "title": "Prawn Head Aleppo Butter",
+        "items": [
+          {
+            "amount": "100g",
+            "name": "unsalted butter"
+          },
+          {
+            "amount": "3",
+            "name": "prawn heads"
+          },
+          {
+            "amount": "",
+            "name": "flaked sea salt, to taste"
+          },
+          {
+            "amount": "1",
+            "name": "lemon, zested"
+          },
+          {
+            "amount": "1 tsp",
+            "name": "crushed coriander seeds"
+          },
+          {
+            "amount": "2 tsp",
+            "name": "Aleppo pepper"
+          }
+        ]
+      },
+      {
+        "title": "Garnish",
+        "items": [
+          {
+            "amount": "",
+            "name": "fennel fronds"
+          },
+          {
+            "amount": "",
+            "name": "dill fronds"
+          },
+          {
+            "amount": "",
+            "name": "Pickled Fennel Stems"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "r260617opqsf",
     "title": "Tartare With Crispy Potato & Crostini, And Hibachi-Grilled Flat Iron With Salsa Verde, Fennel & Orange Salad",
     "image": "https://10.com.au/ip/s3/2026/06/17/ddf011805e9c999a015ca81ca38ea1c5-1435680.png?image-profile=image_max&io=landscape",

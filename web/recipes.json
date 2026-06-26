@@ -227,6 +227,146 @@
     ]
   },
   {
+    "id": "r260420kdhym",
+    "title": "Black Sesame Yuzu Cake",
+    "image": "https://10.com.au/ip/s3/2026/04/20/6517f151ea2ce263fa790b6b7aef873b-1423444.png?image-profile=image_max&io=landscape",
+    "chef": null,
+    "chefRole": null,
+    "chefThumb": null,
+    "season": 18,
+    "serves": "6",
+    "published": "20 Apr 2026",
+    "url": "https://10.com.au/masterchef/recipes/black-sesame-yuzu-cake/r260420kdhym",
+    "course": "Dessert",
+    "tags": [
+      "Black Sesame",
+      "Yuzu",
+      "Dessert"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Black Sesame Chiffon Cake",
+        "items": [
+          {
+            "amount": "42g",
+            "name": "cake flour"
+          },
+          {
+            "amount": "¾ tsp",
+            "name": "baking powder"
+          },
+          {
+            "amount": "¼ tsp",
+            "name": "fine salt"
+          },
+          {
+            "amount": "35g",
+            "name": "water"
+          },
+          {
+            "amount": "15g",
+            "name": "black sesame paste"
+          },
+          {
+            "amount": "25g",
+            "name": "vegetable oil"
+          },
+          {
+            "amount": "3",
+            "name": "eggs, separated"
+          },
+          {
+            "amount": "¼ tsp",
+            "name": "cream of tartar"
+          },
+          {
+            "amount": "40g",
+            "name": "caster sugar"
+          },
+          {
+            "amount": "12g",
+            "name": "brown sugar"
+          },
+          {
+            "amount": "½ tsp",
+            "name": "black sesame seeds"
+          }
+        ]
+      },
+      {
+        "title": "Yuzu Curd",
+        "items": [
+          {
+            "amount": "1",
+            "name": "egg, at room temp"
+          },
+          {
+            "amount": "1",
+            "name": "egg yolk, at room temp"
+          },
+          {
+            "amount": "15ml",
+            "name": "yuzu juice"
+          },
+          {
+            "amount": "½",
+            "name": "lemon, zested and juiced"
+          },
+          {
+            "amount": "100g",
+            "name": "caster sugar"
+          },
+          {
+            "amount": "50g",
+            "name": "unsalted butter cubed, cold"
+          }
+        ]
+      },
+      {
+        "title": "Feuilletine",
+        "items": [
+          {
+            "amount": "30g",
+            "name": "plain flour"
+          },
+          {
+            "amount": "30g",
+            "name": "unsalted butter, softened"
+          },
+          {
+            "amount": "30g",
+            "name": "icing sugar"
+          },
+          {
+            "amount": "30g",
+            "name": "egg white"
+          }
+        ]
+      },
+      {
+        "title": "Black Sesame Chantilly",
+        "items": [
+          {
+            "amount": "350ml",
+            "name": "pure cream, fridge cold"
+          },
+          {
+            "amount": "30g",
+            "name": "icing sugar"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "black sesame paste"
+          },
+          {
+            "amount": "½ tsp",
+            "name": "black sesame seeds"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "r260617knwvu",
     "title": "Butterflied, Stuffed, Rolled Flathead With Fish Jus",
     "image": "https://10.com.au/ip/s3/2026/06/17/e067522ffbaf4331941abe1e0bf6b822-1435546.png?image-profile=image_max&io=landscape",
@@ -408,6 +548,271 @@
           {
             "amount": "",
             "name": "lemon cheeks, to serve"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "r260420qtwin",
+    "title": "Charred Octopus with Leek and Potato and Yoghurt Sauce with Dill Oil",
+    "image": "https://10.com.au/ip/s3/2026/04/20/3626d8ad20a6c13aa33dcba2f00d3a28-1423450.png?image-profile=image_max&io=landscape",
+    "chef": null,
+    "chefRole": null,
+    "chefThumb": null,
+    "season": 18,
+    "serves": "2",
+    "published": "20 Apr 2026",
+    "url": "https://10.com.au/masterchef/recipes/charred-octopus-with-leek-and-potato-and-yoghurt-sauce-with-dill-oil/r260420qtwin",
+    "course": "Main",
+    "tags": [
+      "Octopus",
+      "Lemon",
+      "Leeks",
+      "Oregano"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Octopus Braising",
+        "items": [
+          {
+            "amount": "(about 300g)",
+            "name": "2 large octopus tentacles"
+          },
+          {
+            "amount": "3 cups",
+            "name": "water"
+          },
+          {
+            "amount": "2",
+            "name": "bay leaves, dried"
+          },
+          {
+            "amount": "1",
+            "name": "white onion, roughly chopped"
+          },
+          {
+            "amount": "1 cup",
+            "name": "white wine"
+          },
+          {
+            "amount": "½ cup",
+            "name": "white wine vinegar"
+          },
+          {
+            "amount": "½ tbsp",
+            "name": "black peppercorns"
+          },
+          {
+            "amount": "3 cloves",
+            "name": "garlic, peeled and smashed"
+          }
+        ]
+      },
+      {
+        "title": "Lemon Oregano Dressing",
+        "items": [
+          {
+            "amount": "¼ cup",
+            "name": "lemon juice"
+          },
+          {
+            "amount": "1 teaspoon",
+            "name": "dried oregano"
+          },
+          {
+            "amount": "½ teaspoon",
+            "name": "smoky paprika"
+          },
+          {
+            "amount": "1 clove",
+            "name": "garlic, minced"
+          },
+          {
+            "amount": "½ tsp",
+            "name": "salt"
+          },
+          {
+            "amount": "½ tsp",
+            "name": "cracked black pepper"
+          },
+          {
+            "amount": "¾ cup",
+            "name": "extra virgin olive oil"
+          },
+          {
+            "amount": "1 tsp",
+            "name": "Dijon mustard"
+          },
+          {
+            "amount": "2 tsp",
+            "name": "honey"
+          },
+          {
+            "amount": "2 tbsp",
+            "name": "apple cider vinegar"
+          },
+          {
+            "amount": "2 tbsp",
+            "name": "finely chopped parsley leaves (reserve stems for chicken stock)"
+          }
+        ]
+      },
+      {
+        "title": "Chicken Stock Reduction",
+        "items": [
+          {
+            "amount": "6-7",
+            "name": "chicken necks or wings"
+          },
+          {
+            "amount": "1",
+            "name": "white onion, roughly chopped"
+          },
+          {
+            "amount": "3 cups",
+            "name": "chicken stock"
+          },
+          {
+            "amount": "2 cloves",
+            "name": "garlic, peeled"
+          },
+          {
+            "amount": "1 tsp",
+            "name": "whole black peppercorns"
+          },
+          {
+            "amount": "3",
+            "name": "bay leaves"
+          },
+          {
+            "amount": "10",
+            "name": "parsley stems (trimmings from dressing)"
+          },
+          {
+            "amount": "",
+            "name": "leek trimmings (reserved from Leek and Potatoes)"
+          }
+        ]
+      },
+      {
+        "title": "Leek and Potatoes",
+        "items": [
+          {
+            "amount": "4 tbsp",
+            "name": "olive oil"
+          },
+          {
+            "amount": "2",
+            "name": "leeks, washed and cut into 3cm high rounds to make 8 in total (reserve trimmings)"
+          },
+          {
+            "amount": "4",
+            "name": "potatoes, peeled and cut into 2.5cm high x 4-5cm diameter rounds to make 8 in total"
+          },
+          {
+            "amount": "150g",
+            "name": "unsalted butter, diced"
+          },
+          {
+            "amount": "3",
+            "name": "garlic cloves, peeled and smashed"
+          },
+          {
+            "amount": "3",
+            "name": "bay leaves"
+          },
+          {
+            "amount": "2",
+            "name": "rosemary sprigs"
+          },
+          {
+            "amount": "2 cups",
+            "name": "chicken stock"
+          },
+          {
+            "amount": "",
+            "name": "salt and pepper to taste"
+          }
+        ]
+      },
+      {
+        "title": "Dill Oil",
+        "items": [
+          {
+            "amount": "100g",
+            "name": "dill, washed and roughly chopped, include some stems"
+          },
+          {
+            "amount": "150g",
+            "name": "extra virgin olive oil"
+          },
+          {
+            "amount": "½ teaspoon",
+            "name": "salt"
+          }
+        ]
+      },
+      {
+        "title": "Yoghurt Sauce",
+        "items": [
+          {
+            "amount": "½ cup",
+            "name": "reserved chicken stock"
+          },
+          {
+            "amount": "3 tbsp",
+            "name": "octopus braising liquid"
+          },
+          {
+            "amount": "50ml",
+            "name": "lemon juice"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "capers brine"
+          },
+          {
+            "amount": "2 tbsp",
+            "name": "mini capers, in brine, rinsed"
+          },
+          {
+            "amount": "½ cup",
+            "name": "Greek yoghurt"
+          },
+          {
+            "amount": "2 tbsp",
+            "name": "finely chopped dill - reserve fronds for garnish"
+          },
+          {
+            "amount": "",
+            "name": "salt and pepper, to taste"
+          }
+        ]
+      },
+      {
+        "title": "Fried Capers",
+        "items": [
+          {
+            "amount": "¼ cup",
+            "name": "olive oil"
+          },
+          {
+            "amount": "2 tbsp",
+            "name": "capers in brine, drained"
+          }
+        ]
+      },
+      {
+        "title": "Garnish",
+        "items": [
+          {
+            "amount": "",
+            "name": "dill fronds"
+          },
+          {
+            "amount": "",
+            "name": "finely chopped parsley"
           }
         ]
       }
@@ -2859,455 +3264,6 @@
     ]
   },
   {
-    "id": "r260617fauyj",
-    "title": "Iris",
-    "image": "https://10.com.au/ip/s3/2026/06/17/61dad4491575cfa56bb1646f4367a223-1435794.png?image-profile=image_max&io=landscape",
-    "chef": "Kirsten Tibballs",
-    "chefRole": null,
-    "chefThumb": "https://10.com.au/images/Placeholder-Bio-Thumb.png",
-    "season": 18,
-    "serves": null,
-    "published": "24 Jun 2026",
-    "url": "https://10.com.au/masterchef/recipes/iris/r260617fauyj",
-    "course": "Dessert",
-    "tags": [
-      "Dark Chocolate",
-      "Pecans",
-      "Cocoa",
-      "Vanilla Bean",
-      "Dessert"
-    ],
-    "ingredientGroups": [
-      {
-        "title": "Cocoa Sablé",
-        "items": [
-          {
-            "amount": "110 g",
-            "name": "cold unsalted butter, cubed"
-          },
-          {
-            "amount": "55 g",
-            "name": "pure icing sugar, sieved"
-          },
-          {
-            "amount": "17 g",
-            "name": "Cacao Barry Pleine Arôme cocoa powder"
-          },
-          {
-            "amount": "44 g",
-            "name": "whole eggs, whisked"
-          },
-          {
-            "amount": "1 g",
-            "name": "sea salt flakes"
-          },
-          {
-            "amount": "1",
-            "name": "vanilla bean, sliced and seeds scraped"
-          },
-          {
-            "amount": "20 g",
-            "name": "almond flour"
-          },
-          {
-            "amount": "180 g",
-            "name": "plain flour"
-          },
-          {
-            "amount": "3.5 g",
-            "name": "baking powder"
-          },
-          {
-            "amount": "",
-            "name": "plain flour, for dusting"
-          }
-        ]
-      },
-      {
-        "title": "Milk Chocolate Crémeux",
-        "items": [
-          {
-            "amount": "1 g",
-            "name": "gold gelatine"
-          },
-          {
-            "amount": "110 g",
-            "name": "thickened cream"
-          },
-          {
-            "amount": "150 g",
-            "name": "full cream milk"
-          },
-          {
-            "amount": "1",
-            "name": "vanilla bean, cut and scraped"
-          },
-          {
-            "amount": "3 g",
-            "name": "sea salt flakes"
-          },
-          {
-            "amount": "50 g",
-            "name": "egg yolks, whisked"
-          },
-          {
-            "amount": "200 g",
-            "name": "Callebaut Gold chocolate"
-          },
-          {
-            "amount": "20 g",
-            "name": "Callebaut 823 Milk Couverture 33.6%"
-          },
-          {
-            "amount": "20 g",
-            "name": "Callebaut Mycryo cocoa butter"
-          }
-        ]
-      },
-      {
-        "title": "Chocolate Flourless Sponge",
-        "items": [
-          {
-            "amount": "100 g",
-            "name": "egg yolks, (reserve whites)"
-          },
-          {
-            "amount": "60 g",
-            "name": "caster sugar (A)"
-          },
-          {
-            "amount": "127 g",
-            "name": "egg whites"
-          },
-          {
-            "amount": "pinch",
-            "name": "cream of tartar"
-          },
-          {
-            "amount": "60 g",
-            "name": "caster sugar (B)"
-          },
-          {
-            "amount": "64 g",
-            "name": "Callebaut 2815 Dark Couverture 57.7%"
-          },
-          {
-            "amount": "17 g",
-            "name": "Cacao Barry Pleine Arôme cocoa powder"
-          }
-        ]
-      },
-      {
-        "title": "Caramelised Pecan Nuts",
-        "items": [
-          {
-            "amount": "124 g",
-            "name": "pecan nuts"
-          },
-          {
-            "amount": "24 g",
-            "name": "honey"
-          },
-          {
-            "amount": "140 g",
-            "name": "thickened cream"
-          },
-          {
-            "amount": "40 g",
-            "name": "liquid glucose"
-          },
-          {
-            "amount": "124 g",
-            "name": "caster sugar"
-          },
-          {
-            "amount": "4 g",
-            "name": "sea salt flakes"
-          },
-          {
-            "amount": "80 g",
-            "name": "Callebaut 823 Milk Couverture 33.6%"
-          },
-          {
-            "amount": "100 g",
-            "name": "candied lemon fillets"
-          },
-          {
-            "amount": "",
-            "name": "canola spray, to grease"
-          },
-          {
-            "amount": "2",
-            "name": "cooled chocolate sablé discs"
-          }
-        ]
-      },
-      {
-        "title": "Dark Chocolate Mousse",
-        "items": [
-          {
-            "amount": "210 g",
-            "name": "Callebaut Power 80 Dark Couverture"
-          },
-          {
-            "amount": "50 g",
-            "name": "Callebaut 823 Milk Couverture 33.6%"
-          },
-          {
-            "amount": "320 g",
-            "name": "thickened cream"
-          },
-          {
-            "amount": "5 g",
-            "name": "gold gelatine"
-          },
-          {
-            "amount": "130 g",
-            "name": "egg yolks"
-          },
-          {
-            "amount": "100 g",
-            "name": "caster sugar (A)"
-          },
-          {
-            "amount": "160 g",
-            "name": "full cream milk"
-          },
-          {
-            "amount": "60 g",
-            "name": "caster sugar (B)"
-          },
-          {
-            "amount": "1 g",
-            "name": "sea salt flakes"
-          }
-        ]
-      },
-      {
-        "title": "Assemble the Entremet",
-        "items": [
-          {
-            "amount": "",
-            "name": "dark chocolate mousse"
-          },
-          {
-            "amount": "1",
-            "name": "chocolate flourless sponge round"
-          },
-          {
-            "amount": "",
-            "name": "milk chocolate crémeux"
-          },
-          {
-            "amount": "1",
-            "name": "baked cocoa sablé round with caramelised pecan nuts"
-          }
-        ]
-      },
-      {
-        "title": "Mirror Glaze",
-        "items": [
-          {
-            "amount": "14.2 g",
-            "name": "gold gelatine sheets"
-          },
-          {
-            "amount": "80 g",
-            "name": "water (A)"
-          },
-          {
-            "amount": "60 g",
-            "name": "caster sugar"
-          },
-          {
-            "amount": "70 g",
-            "name": "liquid glucose"
-          },
-          {
-            "amount": "1.3 g",
-            "name": "sea salt flakes"
-          },
-          {
-            "amount": "450 g",
-            "name": "neutral glaze"
-          },
-          {
-            "amount": "160 g",
-            "name": "water (B)"
-          },
-          {
-            "amount": "70 g",
-            "name": "Cacao Barry Pleine Arôme cocoa powder"
-          },
-          {
-            "amount": "2.5 g",
-            "name": "PCB oil soluble black powder"
-          },
-          {
-            "amount": "6 drops",
-            "name": "Color Mill oil-blend liquid black colour"
-          }
-        ]
-      },
-      {
-        "title": "Chocolate Band",
-        "items": [
-          {
-            "amount": "100 g",
-            "name": "tempered chocolate, in a microwave safe bowl"
-          },
-          {
-            "amount": "1 g",
-            "name": "PCB oil soluble black powder"
-          },
-          {
-            "amount": "",
-            "name": "canola spray, to grease"
-          }
-        ]
-      },
-      {
-        "title": "Chocolate Leaves",
-        "items": [
-          {
-            "amount": "200 g",
-            "name": "Callebaut W2 white chocolate 28%"
-          },
-          {
-            "amount": "4 g",
-            "name": "PCB oil soluble green powder"
-          },
-          {
-            "amount": "knife tip",
-            "name": "PCB oil soluble blue powder"
-          },
-          {
-            "amount": "15 g",
-            "name": "tempered dark chocolate, in a jug"
-          }
-        ]
-      },
-      {
-        "title": "Chocolate Petals",
-        "items": [
-          {
-            "amount": "100 g",
-            "name": "tempered dark chocolate, in a jug, refilled for each set of leaves"
-          }
-        ]
-      },
-      {
-        "title": "Chocolate Disc",
-        "items": [
-          {
-            "amount": "",
-            "name": "tempered dark chocolate, in a small jug"
-          }
-        ]
-      },
-      {
-        "title": "Chocolate Iris Assembly",
-        "items": [
-          {
-            "amount": "1",
-            "name": "chocolate sphere"
-          },
-          {
-            "amount": "",
-            "name": "tempered chocolate, in a small paper piping bag"
-          },
-          {
-            "amount": "1",
-            "name": "chocolate disc"
-          },
-          {
-            "amount": "3",
-            "name": "large chocolate petals, guitar sheet removed"
-          },
-          {
-            "amount": "1 can",
-            "name": "magic freeze spray"
-          },
-          {
-            "amount": "3",
-            "name": "medium chocolate petals, guitar sheet removed"
-          },
-          {
-            "amount": "3",
-            "name": "small chocolate petals, guitar sheet removed"
-          }
-        ]
-      },
-      {
-        "title": "Finishing Colours",
-        "items": [
-          {
-            "amount": "",
-            "name": "chocolate iris flower"
-          },
-          {
-            "amount": "",
-            "name": "Chef Rubber Black Onyx cocoa butter, at working temperature of 31°C"
-          },
-          {
-            "amount": "¼ tsp",
-            "name": "PCB gold glitter powder"
-          },
-          {
-            "amount": "¼ tsp",
-            "name": "PCB oil soluble blue powder"
-          },
-          {
-            "amount": "1 tsp",
-            "name": "100% alcohol"
-          }
-        ]
-      },
-      {
-        "title": "Glaze the Entremet",
-        "items": [
-          {
-            "amount": "1",
-            "name": "frozen entremet"
-          },
-          {
-            "amount": "",
-            "name": "mirror glaze, in a jug, at 30°C"
-          },
-          {
-            "amount": "1 tsp",
-            "name": "PCB gold glitter powder"
-          }
-        ]
-      },
-      {
-        "title": "Final Assembly",
-        "items": [
-          {
-            "amount": "1",
-            "name": "chocolate band"
-          },
-          {
-            "amount": "1",
-            "name": "glazed entremet"
-          },
-          {
-            "amount": "1",
-            "name": "sprayed chocolate iris"
-          },
-          {
-            "amount": "2",
-            "name": "large leaves, guitar sheet removed"
-          },
-          {
-            "amount": "1",
-            "name": "small leaf, guitar sheet removed"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "r260513sfhpi",
     "title": "Lemon Leaf Ice Cream, Lemon Granita And Sesame And Fennel Seed Biscotti",
     "image": "https://10.com.au/ip/s3/2026/05/13/440338abfcbf35b59fa325b29e6cff61-1429344.jpg?image-profile=image_max&io=landscape",
@@ -4424,6 +4380,213 @@
           {
             "amount": "",
             "name": "lime wedges, to serve"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "r260421mvobi",
+    "title": "Prawn Bisque Pasta With Citrus Prawns",
+    "image": "https://10.com.au/ip/s3/2026/04/21/e37cafecb74eb74f8ccd5c294b5fb4f5-1423533.png?image-profile=image_max&io=landscape",
+    "chef": null,
+    "chefRole": null,
+    "chefThumb": null,
+    "season": 18,
+    "serves": "2",
+    "published": "21 Apr 2026",
+    "url": "https://10.com.au/masterchef/recipes/prawn-bisque-pasta-with-citrus-prawns/r260421mvobi",
+    "course": "Main",
+    "tags": [
+      "Prawn",
+      "Tomatoes",
+      "Tarragon",
+      "Dinner"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Cherry Tomatoes",
+        "items": [
+          {
+            "amount": "200g",
+            "name": "cherry tomatoes on the vine"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "extra virgin olive oil"
+          }
+        ]
+      },
+      {
+        "title": "Bisque",
+        "items": [
+          {
+            "amount": "500g",
+            "name": "whole raw king prawns"
+          },
+          {
+            "amount": "100ml",
+            "name": "extra virgin olive oil"
+          },
+          {
+            "amount": "1 large",
+            "name": "carrot, finely diced"
+          },
+          {
+            "amount": "3 ribs",
+            "name": "celery, finely diced"
+          },
+          {
+            "amount": "3 large",
+            "name": "banana shallots, finely diced"
+          },
+          {
+            "amount": "2 cloves",
+            "name": "garlic, finely diced"
+          },
+          {
+            "amount": "1",
+            "name": "long red chilli, finely diced"
+          },
+          {
+            "amount": "2 tbsp",
+            "name": "tomato paste"
+          },
+          {
+            "amount": "350ml",
+            "name": "Sauvignon Blanc wine"
+          },
+          {
+            "amount": "1",
+            "name": "cara cara navel or blood orange, juiced"
+          },
+          {
+            "amount": "400ml",
+            "name": "cold water"
+          },
+          {
+            "amount": "5",
+            "name": "ice cubes"
+          },
+          {
+            "amount": "4 sprigs",
+            "name": "fresh tarragon"
+          },
+          {
+            "amount": "3 sprigs",
+            "name": "fresh parsley"
+          },
+          {
+            "amount": "3 sprigs",
+            "name": "fresh thyme"
+          },
+          {
+            "amount": "½",
+            "name": "lemon, juiced"
+          },
+          {
+            "amount": "80ml",
+            "name": "thickened cream"
+          },
+          {
+            "amount": "25g",
+            "name": "unsalted butter"
+          },
+          {
+            "amount": "",
+            "name": "salt and pepper, to taste"
+          }
+        ]
+      },
+      {
+        "title": "Tarragon Oil",
+        "items": [
+          {
+            "amount": "1 bunch",
+            "name": "tarragon, leaves picked (approximately 15g)"
+          },
+          {
+            "amount": "¼ tsp",
+            "name": "sea salt"
+          },
+          {
+            "amount": "100ml",
+            "name": "light olive oil"
+          }
+        ]
+      },
+      {
+        "title": "Pasta",
+        "items": [
+          {
+            "amount": "200g",
+            "name": "00 Flour"
+          },
+          {
+            "amount": "115g",
+            "name": "eggs, at room temperature"
+          },
+          {
+            "amount": "",
+            "name": "salt, to taste"
+          }
+        ]
+      },
+      {
+        "title": "Citrus Prawns",
+        "items": [
+          {
+            "amount": "",
+            "name": "reserved king prawn meat"
+          },
+          {
+            "amount": "50g",
+            "name": "unsalted butter"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "olive oil"
+          },
+          {
+            "amount": "½ tsp",
+            "name": "lime zest"
+          },
+          {
+            "amount": "½ tsp",
+            "name": "lemon zest"
+          },
+          {
+            "amount": "½ tsp",
+            "name": "cara cara navel orange zest"
+          },
+          {
+            "amount": "1 tsp",
+            "name": "lime juice"
+          },
+          {
+            "amount": "2 tsp",
+            "name": "cara cara navel orange juice"
+          },
+          {
+            "amount": "¼ cup",
+            "name": "finely chopped fresh basil"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "finely chopped fresh tarragon"
+          }
+        ]
+      },
+      {
+        "title": "To serve",
+        "items": [
+          {
+            "amount": "25g",
+            "name": "unsalted butter"
+          },
+          {
+            "amount": "",
+            "name": "freshly chopped basil"
           }
         ]
       }
@@ -6540,6 +6703,267 @@
           {
             "amount": "15g",
             "name": "pistachios"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "r260420zagjh",
+    "title": "Wanton Wonton",
+    "image": "https://10.com.au/ip/s3/2026/04/20/68634c362393c15e9e521ae52f0f482d-1423453.png?image-profile=image_max&io=landscape",
+    "chef": null,
+    "chefRole": null,
+    "chefThumb": null,
+    "season": 18,
+    "serves": "4",
+    "published": "20 Apr 2026",
+    "url": "https://10.com.au/masterchef/recipes/wanton-wonton/r260420zagjh",
+    "course": "Main",
+    "tags": [
+      "Chicken",
+      "Dumplings"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Soup",
+        "items": [
+          {
+            "amount": "1",
+            "name": "whole chicken, portioned into pieces"
+          },
+          {
+            "amount": "",
+            "name": "hot water, to cover chicken"
+          },
+          {
+            "amount": "¼ cup",
+            "name": "dried goji berries"
+          },
+          {
+            "amount": "5",
+            "name": "dried red dates"
+          },
+          {
+            "amount": "¼ cup",
+            "name": "dried longan"
+          },
+          {
+            "amount": "4",
+            "name": "dried shiitake mushrooms"
+          },
+          {
+            "amount": "15g",
+            "name": "fresh ginger, sliced"
+          },
+          {
+            "amount": "10-15",
+            "name": "astragalus membranaceus root chips"
+          },
+          {
+            "amount": "¼ cup",
+            "name": "Shaoxing cooking wine"
+          },
+          {
+            "amount": "¼ cup",
+            "name": "fish sauce"
+          },
+          {
+            "amount": "½ tbsp",
+            "name": "sesame oil, plus extra ½ tbsp for shredded chicken meat"
+          },
+          {
+            "amount": "",
+            "name": "white pepper, to taste"
+          },
+          {
+            "amount": "",
+            "name": "salt and black pepper, to taste"
+          }
+        ]
+      },
+      {
+        "title": "Wonton Filling",
+        "items": [
+          {
+            "amount": "250g",
+            "name": "chicken mince"
+          },
+          {
+            "amount": "5",
+            "name": "king prawns, peeled, cleaned and roughly chopped"
+          },
+          {
+            "amount": "¼ cup",
+            "name": "chopped garlic chives"
+          },
+          {
+            "amount": "¼ cup",
+            "name": "finely chopped coriander"
+          },
+          {
+            "amount": "¼ cup",
+            "name": "chopped spring onion"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "finely chopped fresh ginger"
+          },
+          {
+            "amount": "3",
+            "name": "fresh shiitake, diced"
+          },
+          {
+            "amount": "1",
+            "name": "large egg"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "oyster sauce"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "light soy sauce"
+          },
+          {
+            "amount": "2 tsp",
+            "name": "fish sauce"
+          },
+          {
+            "amount": "2 tsp",
+            "name": "Shaoxing cooking wine"
+          },
+          {
+            "amount": "2 tsp",
+            "name": "sesame oil"
+          },
+          {
+            "amount": "1",
+            "name": "pinch salt"
+          },
+          {
+            "amount": "1 tsp",
+            "name": "ground white pepper"
+          },
+          {
+            "amount": "1 pinch",
+            "name": "black pepper"
+          },
+          {
+            "amount": "1-2 tbsp",
+            "name": "cornflour"
+          }
+        ]
+      },
+      {
+        "title": "Wonton Wrappers",
+        "items": [
+          {
+            "amount": "1",
+            "name": "egg"
+          },
+          {
+            "amount": "⅓ cup",
+            "name": "water"
+          },
+          {
+            "amount": "½ tsp",
+            "name": "salt"
+          },
+          {
+            "amount": "2 cups",
+            "name": "plain flour"
+          },
+          {
+            "amount": "",
+            "name": "cornflour, for dusting"
+          }
+        ]
+      },
+      {
+        "title": "Ginger Shallot Oil",
+        "items": [
+          {
+            "amount": "80ml",
+            "name": "peanut oil"
+          },
+          {
+            "amount": "2 tbsp",
+            "name": "finely diced ginger"
+          },
+          {
+            "amount": "2 cloves",
+            "name": "garlic, finely chopped"
+          },
+          {
+            "amount": "1-2",
+            "name": "birds eye chilli"
+          },
+          {
+            "amount": "⅓ cup",
+            "name": "thinly sliced spring onion"
+          },
+          {
+            "amount": "⅓ cup",
+            "name": "chopped coriander"
+          },
+          {
+            "amount": "2 tbsp",
+            "name": "light soy sauce"
+          },
+          {
+            "amount": "1 tsp",
+            "name": "salt"
+          },
+          {
+            "amount": "½ tbsp",
+            "name": "sesame oil"
+          },
+          {
+            "amount": "",
+            "name": "white pepper, to taste"
+          }
+        ]
+      },
+      {
+        "title": "Soy Vinegar Dipping Sauce",
+        "items": [
+          {
+            "amount": "1 tbsp",
+            "name": "light soy sauce"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "Japanese rice vinegar"
+          }
+        ]
+      },
+      {
+        "title": "Garnish",
+        "items": [
+          {
+            "amount": "8",
+            "name": "snow peas, halved"
+          },
+          {
+            "amount": "2",
+            "name": "spring onions, sliced diagonally"
+          },
+          {
+            "amount": "2 tbsp",
+            "name": "chopped coriander"
+          },
+          {
+            "amount": "¼",
+            "name": "small red onion, finely diced"
+          },
+          {
+            "amount": "1",
+            "name": "birds eye chilli, sliced"
+          },
+          {
+            "amount": "",
+            "name": "cooked longan from the chicken soup"
           }
         ]
       }

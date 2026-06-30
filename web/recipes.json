@@ -2611,6 +2611,137 @@
     ]
   },
   {
+    "id": "r260630htyrs",
+    "title": "Filo Cigars",
+    "image": "https://10.com.au/ip/s3/2026/06/30/1f5cac3adfc91455c3b44977d9eae0c7-1438583.png?image-profile=image_max&io=landscape",
+    "chef": "Petro Papathomas",
+    "chefRole": "Contestant",
+    "chefThumb": "https://10.com.au/ip/s3/2026/04/22/261ce5ea6ee1e7593b38c59877f50d3b-1423818.png?image-profile=bio_thumb&io=square",
+    "season": 18,
+    "serves": "8",
+    "published": "30 Jun 2026",
+    "url": "https://10.com.au/masterchef/recipes/filo-cigars/r260630htyrs",
+    "course": "Dessert",
+    "tags": [
+      "Pandan",
+      "Coconut",
+      "Filo Pastry",
+      "Ginger",
+      "Dessert"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Filo Pastry",
+        "items": [
+          {
+            "amount": "200g",
+            "name": "plain flour"
+          },
+          {
+            "amount": "1/8 tsp",
+            "name": "salt"
+          },
+          {
+            "amount": "2 tbsp",
+            "name": "olive oil"
+          },
+          {
+            "amount": "100g",
+            "name": "warm water"
+          },
+          {
+            "amount": "1 tsp",
+            "name": "vinegar"
+          },
+          {
+            "amount": "1L",
+            "name": "vegetable oil, for deep frying"
+          }
+        ]
+      },
+      {
+        "title": "Coconut & Pandan Crème Pâtissière",
+        "items": [
+          {
+            "amount": "400ml",
+            "name": "coconut milk"
+          },
+          {
+            "amount": "60g",
+            "name": "egg yolk"
+          },
+          {
+            "amount": "70g",
+            "name": "sugar"
+          },
+          {
+            "amount": "30g",
+            "name": "corn flour"
+          }
+        ]
+      },
+      {
+        "title": "Coconut & Pandan Crème Diplomat",
+        "items": [
+          {
+            "amount": "2",
+            "name": "pandan leaves, thinly sliced"
+          },
+          {
+            "amount": "20ml",
+            "name": "coconut milk"
+          },
+          {
+            "amount": "100ml",
+            "name": "thickened cream"
+          },
+          {
+            "amount": "1 tsp",
+            "name": "vanilla paste"
+          },
+          {
+            "amount": "300g",
+            "name": "Coconut & Pandan Crème Pâtissière"
+          },
+          {
+            "amount": "30g",
+            "name": "butter, softened"
+          }
+        ]
+      },
+      {
+        "title": "Pandan & Ginger Syrup",
+        "items": [
+          {
+            "amount": "1 cup",
+            "name": "water"
+          },
+          {
+            "amount": "1 cup",
+            "name": "caster sugar"
+          },
+          {
+            "amount": "20g",
+            "name": "fresh ginger, sliced"
+          },
+          {
+            "amount": "3",
+            "name": "pandan leaves"
+          }
+        ]
+      },
+      {
+        "title": "Garnish",
+        "items": [
+          {
+            "amount": "½ cup",
+            "name": "shredded coconut, toasted"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "r260610pasoh",
     "title": "Ginger Threads",
     "image": "https://10.com.au/ip/s3/2026/06/10/b1f6659be983047b0f7db6954d8c901f-1433911.png?image-profile=image_max&io=landscape",

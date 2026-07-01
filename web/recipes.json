@@ -3395,6 +3395,174 @@
     ]
   },
   {
+    "id": "r260630rcxsy",
+    "title": "Japanese Dashi-Infused Mussel Broth With Pickled Apple & Russian Buns",
+    "image": "https://10.com.au/ip/s3/2026/06/30/903e48fcd2cf9ea13a620448d5e6d0d3-1438633.png?image-profile=image_max&io=landscape",
+    "chef": "Alyona Iljuhhina",
+    "chefRole": "Contestant",
+    "chefThumb": "https://10.com.au/ip/s3/2026/04/21/d794291b68503fc90219046c46bd0d02-1423736.png?image-profile=bio_thumb&io=square",
+    "season": 18,
+    "serves": "2",
+    "published": "01 Jul 2026",
+    "url": "https://10.com.au/masterchef/recipes/japanese-dashi-infused-mussel-broth-with-pickled-apple-russian-buns/r260630rcxsy",
+    "course": "Entrée",
+    "tags": [
+      "Apple",
+      "Kombu",
+      "Mussels",
+      "Yoghurt",
+      "Main"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Russian Yoghurt Buns",
+        "items": [
+          {
+            "amount": "100g",
+            "name": "hot water (45°C)"
+          },
+          {
+            "amount": "7g",
+            "name": "yeast"
+          },
+          {
+            "amount": "1 tsp",
+            "name": "honey"
+          },
+          {
+            "amount": "100g",
+            "name": "yoghurt"
+          },
+          {
+            "amount": "25g",
+            "name": "olive oil"
+          },
+          {
+            "amount": "2 tsp",
+            "name": "salt"
+          },
+          {
+            "amount": "300g",
+            "name": "bread flour"
+          },
+          {
+            "amount": "20g",
+            "name": "unsalted butter, melted"
+          },
+          {
+            "amount": "",
+            "name": "sea salt, to taste"
+          }
+        ]
+      },
+      {
+        "title": "Pickled Apple Brunoise",
+        "items": [
+          {
+            "amount": "40ml",
+            "name": "rice vinegar"
+          },
+          {
+            "amount": "20ml",
+            "name": "sake"
+          },
+          {
+            "amount": "20ml",
+            "name": "mirin"
+          },
+          {
+            "amount": "1/8 tsp",
+            "name": "salt"
+          },
+          {
+            "amount": "1/8 tsp",
+            "name": "citric acid"
+          },
+          {
+            "amount": "1",
+            "name": "green apple, peeled and finely diced (brunoise)"
+          }
+        ]
+      },
+      {
+        "title": "Kombu Bonito Dashi",
+        "items": [
+          {
+            "amount": "10g",
+            "name": "kombu"
+          },
+          {
+            "amount": "500ml",
+            "name": "cold water"
+          },
+          {
+            "amount": "10g",
+            "name": "bonito flakes"
+          }
+        ]
+      },
+      {
+        "title": "Japanese Butter Dashi Mussel Broth",
+        "items": [
+          {
+            "amount": "40g",
+            "name": "unsalted butter"
+          },
+          {
+            "amount": "2",
+            "name": "shallots, finely diced"
+          },
+          {
+            "amount": "1/8 tsp",
+            "name": "ground black pepper"
+          },
+          {
+            "amount": "1/8 tsp",
+            "name": "ground white pepper"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "rice wine vinegar, plus extra for seasoning"
+          },
+          {
+            "amount": "2 tbsp",
+            "name": "sake"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "mirin, plus extra for seasoning"
+          },
+          {
+            "amount": "250ml",
+            "name": "Kombu Bonito Dashi"
+          }
+        ]
+      },
+      {
+        "title": "Japanese Mussels",
+        "items": [
+          {
+            "amount": "500g",
+            "name": "fresh mussels"
+          },
+          {
+            "amount": "",
+            "name": "Japanese Butter Dashi Mussel Broth"
+          }
+        ]
+      },
+      {
+        "title": "Garnish",
+        "items": [
+          {
+            "amount": "",
+            "name": "fresh chives"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "r260513sfhpi",
     "title": "Lemon Leaf Ice Cream, Lemon Granita And Sesame And Fennel Seed Biscotti",
     "image": "https://10.com.au/ip/s3/2026/05/13/440338abfcbf35b59fa325b29e6cff61-1429344.jpg?image-profile=image_max&io=landscape",

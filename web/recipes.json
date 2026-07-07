@@ -1228,6 +1228,190 @@
     ]
   },
   {
+    "id": "r260707eaulr",
+    "title": "Choc Orange And Almond Tart",
+    "image": "https://10.com.au/ip/s3/2026/07/07/3918978bc236c4f1d1bc6e0c7f3f2f69-1440185.png?image-profile=image_max&io=landscape",
+    "chef": "Vinnie Gibaldi",
+    "chefRole": "Contestant",
+    "chefThumb": "https://10.com.au/ip/s3/2026/04/22/cfe4d9448999fecbc1a0633e611af2cd-1423822.png?image-profile=bio_thumb&io=square",
+    "season": 18,
+    "serves": "8",
+    "published": "07 Jul 2026",
+    "url": "https://10.com.au/masterchef/recipes/choc-orange-and-almond-tart/r260707eaulr",
+    "course": "Dessert",
+    "tags": [
+      "Dark Chocolate",
+      "Orange",
+      "Almonds",
+      "White Chocolate",
+      "Dessert"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Almond Sablé Tart Shell",
+        "items": [
+          {
+            "amount": "125g",
+            "name": "unsalted butter, softened"
+          },
+          {
+            "amount": "75g",
+            "name": "icing sugar"
+          },
+          {
+            "amount": "1",
+            "name": "75g"
+          },
+          {
+            "amount": "200g",
+            "name": "plain flour"
+          },
+          {
+            "amount": "75g",
+            "name": "almond meal"
+          },
+          {
+            "amount": "30g",
+            "name": "roasted almonds, crushed"
+          },
+          {
+            "amount": "1/8 tsp",
+            "name": "salt"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "sour cream"
+          }
+        ]
+      },
+      {
+        "title": "Chocolate Orange Ganache",
+        "items": [
+          {
+            "amount": "200ml",
+            "name": "thickened cream"
+          },
+          {
+            "amount": "1",
+            "name": "orange, zested"
+          },
+          {
+            "amount": "200g",
+            "name": "70% dark chocolate chips"
+          },
+          {
+            "amount": "1/8 tsp",
+            "name": "salt"
+          }
+        ]
+      },
+      {
+        "title": "Almond Praline",
+        "items": [
+          {
+            "amount": "150g",
+            "name": "caster sugar"
+          },
+          {
+            "amount": "150g",
+            "name": "roasted almonds"
+          },
+          {
+            "amount": "50g",
+            "name": "white chocolate, melted"
+          },
+          {
+            "amount": "2 drops",
+            "name": "almond essence (to taste)"
+          },
+          {
+            "amount": "1/8 tsp",
+            "name": "salt"
+          }
+        ]
+      },
+      {
+        "title": "Vanilla Crème Diplomat",
+        "items": [
+          {
+            "amount": "250ml",
+            "name": "milk"
+          },
+          {
+            "amount": "1 tsp",
+            "name": "vanilla paste"
+          },
+          {
+            "amount": "3",
+            "name": "egg yolks"
+          },
+          {
+            "amount": "60g",
+            "name": "caster sugar"
+          },
+          {
+            "amount": "25g",
+            "name": "cornflour"
+          },
+          {
+            "amount": "150ml",
+            "name": "thickened cream"
+          },
+          {
+            "amount": "1 tsp",
+            "name": "vanilla extract"
+          },
+          {
+            "amount": "1/8 tsp",
+            "name": "salt"
+          }
+        ]
+      },
+      {
+        "title": "Orange Syrup",
+        "items": [
+          {
+            "amount": "200ml",
+            "name": "fresh orange juice"
+          },
+          {
+            "amount": "50g",
+            "name": "caster sugar"
+          },
+          {
+            "amount": "20ml",
+            "name": "Cointreau"
+          },
+          {
+            "amount": "1",
+            "name": "orange, zested"
+          },
+          {
+            "amount": "2 drops",
+            "name": "orange essence (optional)"
+          }
+        ]
+      },
+      {
+        "title": "To Finish",
+        "items": [
+          {
+            "amount": "",
+            "name": "toasted slivered and flaked almonds"
+          },
+          {
+            "amount": "",
+            "name": "Orange Syrup"
+          },
+          {
+            "amount": "",
+            "name": "flaky salt"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "r260519vyxjg",
     "title": "Chou Farci",
     "image": "https://10.com.au/ip/s3/2026/05/19/2851fc2d764e83792d2c72e2172e34b5-1430764.png?image-profile=image_max&io=landscape",
@@ -3310,6 +3494,272 @@
     ]
   },
   {
+    "id": "r260707xbntf",
+    "title": "Juniper Roo",
+    "image": "https://10.com.au/ip/s3/2026/07/07/fd1167468caa410c1e9129adc7a6113d-1440152.png?image-profile=image_max&io=landscape",
+    "chef": "Pat McGarry",
+    "chefRole": "Contestant",
+    "chefThumb": "https://10.com.au/ip/s3/2026/04/22/75333d76e718ce689fddccffea958a31-1423814.png?image-profile=bio_thumb&io=square",
+    "season": 18,
+    "serves": "2",
+    "published": "07 Jul 2026",
+    "url": "https://10.com.au/masterchef/recipes/juniper-roo/r260707xbntf",
+    "course": "Main",
+    "tags": [
+      "Juniper Berries",
+      "Kangaroo",
+      "Gin",
+      "Potato",
+      "Main"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Juniper Jus",
+        "items": [
+          {
+            "amount": "1 tbsp",
+            "name": "grapeseed oil"
+          },
+          {
+            "amount": "500g",
+            "name": "kangaroo tail bones"
+          },
+          {
+            "amount": "500g",
+            "name": "beef stock bones"
+          },
+          {
+            "amount": "1",
+            "name": "celery stick, roughly chopped"
+          },
+          {
+            "amount": "1",
+            "name": "carrot, roughly chopped"
+          },
+          {
+            "amount": "1",
+            "name": "onion, roughly chopped"
+          },
+          {
+            "amount": "2 cloves",
+            "name": "garlic, crushed"
+          },
+          {
+            "amount": "2 sprigs",
+            "name": "thyme"
+          },
+          {
+            "amount": "1",
+            "name": "bay leaf"
+          },
+          {
+            "amount": "20",
+            "name": "dried juniper berries, crushed"
+          },
+          {
+            "amount": "10",
+            "name": "native dried pepperberries, crushed"
+          },
+          {
+            "amount": "3 large strips",
+            "name": "grapefruit peel"
+          },
+          {
+            "amount": "½ cup",
+            "name": "fresh or frozen blackberries"
+          },
+          {
+            "amount": "3 tbsp",
+            "name": "honey"
+          },
+          {
+            "amount": "¼ cup",
+            "name": "verjuice"
+          },
+          {
+            "amount": "½ cup",
+            "name": "gin"
+          },
+          {
+            "amount": "300ml",
+            "name": "dry red wine"
+          },
+          {
+            "amount": "1 litre",
+            "name": "beef stock"
+          },
+          {
+            "amount": "50g",
+            "name": "cold unsalted butter, diced"
+          }
+        ]
+      },
+      {
+        "title": "Gin & Juniper Pickled Beetroot",
+        "items": [
+          {
+            "amount": "1",
+            "name": "small beetroot, washed"
+          },
+          {
+            "amount": "½ cup",
+            "name": "white wine vinegar"
+          },
+          {
+            "amount": "¼ cup",
+            "name": "sugar"
+          },
+          {
+            "amount": "¼ cup",
+            "name": "water"
+          },
+          {
+            "amount": "¼ cup",
+            "name": "gin"
+          },
+          {
+            "amount": "10",
+            "name": "juniper berries, crushed"
+          },
+          {
+            "amount": "1 tsp",
+            "name": "salt"
+          }
+        ]
+      },
+      {
+        "title": "Pomme Purée",
+        "items": [
+          {
+            "amount": "600g",
+            "name": "creme gold potatoes, peeled and diced"
+          },
+          {
+            "amount": "",
+            "name": "salt, for cooking water"
+          },
+          {
+            "amount": "200g",
+            "name": "unsalted butter, melted"
+          },
+          {
+            "amount": "100ml",
+            "name": "thickened cream"
+          },
+          {
+            "amount": "",
+            "name": "salt, to taste"
+          }
+        ]
+      },
+      {
+        "title": "Spring Onion Oil",
+        "items": [
+          {
+            "amount": "1 bunch",
+            "name": "spring onions, green tops only"
+          },
+          {
+            "amount": "300ml",
+            "name": "grapeseed oil"
+          }
+        ]
+      },
+      {
+        "title": "Spring Onion Mayonnaise",
+        "items": [
+          {
+            "amount": "1",
+            "name": "egg"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "Dijon mustard"
+          },
+          {
+            "amount": "",
+            "name": "salt and pepper, to taste"
+          },
+          {
+            "amount": "200ml",
+            "name": "Spring Onion Oil"
+          },
+          {
+            "amount": "",
+            "name": "white vinegar, to taste"
+          }
+        ]
+      },
+      {
+        "title": "Juniper & Blackberry Glaze",
+        "items": [
+          {
+            "amount": "3 tbsp",
+            "name": "sugar"
+          },
+          {
+            "amount": "3 tbsp",
+            "name": "water"
+          },
+          {
+            "amount": "2 tbsp",
+            "name": "white vinegar"
+          },
+          {
+            "amount": "10–12",
+            "name": "juniper berries, cracked"
+          },
+          {
+            "amount": "½ cup",
+            "name": "fresh or frozen blackberries"
+          },
+          {
+            "amount": "50g",
+            "name": "unsalted butter"
+          },
+          {
+            "amount": "5",
+            "name": "juniper berries, crushed"
+          }
+        ]
+      },
+      {
+        "title": "Kangaroo and Asparagus",
+        "items": [
+          {
+            "amount": "1",
+            "name": "kangaroo fillet, room temperature"
+          },
+          {
+            "amount": "",
+            "name": "grapeseed oil, for cooking"
+          },
+          {
+            "amount": "",
+            "name": "salt, to taste"
+          },
+          {
+            "amount": "4–5",
+            "name": "asparagus spears"
+          }
+        ]
+      },
+      {
+        "title": "Garnish",
+        "items": [
+          {
+            "amount": "20g",
+            "name": "macadamias, toasted and roughly chopped"
+          },
+          {
+            "amount": "",
+            "name": "Micro basil leaves, to serve"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "r260513sfhpi",
     "title": "Lemon Leaf Ice Cream, Lemon Granita And Sesame And Fennel Seed Biscotti",
     "image": "https://10.com.au/ip/s3/2026/05/13/440338abfcbf35b59fa325b29e6cff61-1429344.jpg?image-profile=image_max&io=landscape",
@@ -5273,6 +5723,169 @@
           {
             "amount": "",
             "name": "togarashi, to taste"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "r260707qbian",
+    "title": "Sweet Potato Curry With Pickled Mussels",
+    "image": "https://10.com.au/ip/s3/2026/07/07/f8f5c6b7cafe3c25d7864d2de5266c2b-1440121.png?image-profile=image_max&io=landscape",
+    "chef": "Casper Kenworthy",
+    "chefRole": "Contestant",
+    "chefThumb": "https://10.com.au/ip/s3/2026/04/22/ddd1895cf0657803285ed53a7c21758b-1423752.png?image-profile=bio_thumb&io=square",
+    "season": 18,
+    "serves": "4",
+    "published": "07 Jul 2026",
+    "url": "https://10.com.au/masterchef/recipes/sweet-potato-curry-with-pickled-mussels/r260707qbian",
+    "course": "Main",
+    "tags": [
+      "Sweet Potato",
+      "Mussels",
+      "Guava",
+      "Coconut Milk",
+      "Main"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Sweet Potato Curry",
+        "items": [
+          {
+            "amount": "1 tbsp",
+            "name": "ghee"
+          },
+          {
+            "amount": "1",
+            "name": "onion, peeled and thinly sliced"
+          },
+          {
+            "amount": "2cm piece",
+            "name": "fresh turmeric, finely grated"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "garam masala"
+          },
+          {
+            "amount": "1",
+            "name": "sweet potato, peeled and diced into 2cm cube"
+          },
+          {
+            "amount": "400ml",
+            "name": "coconut milk"
+          },
+          {
+            "amount": "",
+            "name": "salt, to taste"
+          }
+        ]
+      },
+      {
+        "title": "Pickled Mussels",
+        "items": [
+          {
+            "amount": "12",
+            "name": "mussels, rinsed and debearded"
+          },
+          {
+            "amount": "180g",
+            "name": "white vinegar"
+          },
+          {
+            "amount": "2 tbsp",
+            "name": "mango pickle"
+          },
+          {
+            "amount": "1 tsp",
+            "name": "coriander seeds, toasted"
+          },
+          {
+            "amount": "30g",
+            "name": "jaggery"
+          },
+          {
+            "amount": "10g",
+            "name": "salt"
+          },
+          {
+            "amount": "½",
+            "name": "white onion, peeled and thinly sliced"
+          }
+        ]
+      },
+      {
+        "title": "Guava Pickle",
+        "items": [
+          {
+            "amount": "1",
+            "name": "medium size guava, peeled"
+          },
+          {
+            "amount": "100g",
+            "name": "coconut water"
+          },
+          {
+            "amount": "4",
+            "name": "green cardamom pods, toasted"
+          },
+          {
+            "amount": "60g",
+            "name": "jaggery"
+          },
+          {
+            "amount": "180g",
+            "name": "white vinegar"
+          },
+          {
+            "amount": "20g",
+            "name": "salt"
+          }
+        ]
+      },
+      {
+        "title": "Finger Millet Roti",
+        "items": [
+          {
+            "amount": "1 cup",
+            "name": "water"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "salt"
+          },
+          {
+            "amount": "1 cup",
+            "name": "finger millet flour, plus extra for dusting"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "ghee melted"
+          }
+        ]
+      },
+      {
+        "title": "Curry Leaf Podi",
+        "items": [
+          {
+            "amount": "12",
+            "name": "curry leaves"
+          },
+          {
+            "amount": "1 tsp",
+            "name": "cumin seed"
+          },
+          {
+            "amount": "1 tsp",
+            "name": "moong dal"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "desiccated coconut"
+          },
+          {
+            "amount": "1 tsp",
+            "name": "salt"
           }
         ]
       }

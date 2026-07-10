@@ -4018,6 +4018,403 @@
     ]
   },
   {
+    "id": "r260707qnuyt",
+    "title": "Mud Crab Salad",
+    "image": "https://10.com.au/ip/s3/2026/07/07/98cb202094cf72d169d8c9d2b0d5b8af-1440219.png?image-profile=image_max&io=landscape",
+    "chef": null,
+    "chefRole": null,
+    "chefThumb": null,
+    "season": 18,
+    "serves": null,
+    "published": "08 Jul 2026",
+    "url": "https://10.com.au/masterchef/recipes/mud-crab-salad/r260707qnuyt",
+    "course": "Main",
+    "tags": [
+      "Crab",
+      "Seaweed",
+      "Fennel",
+      "Apple",
+      "Main"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Mud Crab",
+        "items": [
+          {
+            "amount": "800 g",
+            "name": "sea salt"
+          },
+          {
+            "amount": "1",
+            "name": "raw mud crab"
+          }
+        ]
+      },
+      {
+        "title": "Seaweed Vinegar Jelly",
+        "items": [
+          {
+            "amount": "21 g",
+            "name": "sugar"
+          },
+          {
+            "amount": "45 g",
+            "name": "grain flavoured vinegar"
+          },
+          {
+            "amount": "225 g",
+            "name": "water"
+          },
+          {
+            "amount": "9 g",
+            "name": "white soy"
+          },
+          {
+            "amount": "4.5 g",
+            "name": "dark soy"
+          },
+          {
+            "amount": "30 g",
+            "name": "sake"
+          },
+          {
+            "amount": "4.5 g",
+            "name": "kombu"
+          },
+          {
+            "amount": "3 g",
+            "name": "bonito"
+          },
+          {
+            "amount": "0.3 g",
+            "name": "nori"
+          },
+          {
+            "amount": "0.3 g",
+            "name": "wakame"
+          }
+        ]
+      },
+      {
+        "title": "Fennel Milk Jelly",
+        "items": [
+          {
+            "amount": "2",
+            "name": "fennel bulbs, (approximately 400g trimmed weight)"
+          },
+          {
+            "amount": "5 g",
+            "name": "fennel seeds"
+          },
+          {
+            "amount": "500 ml",
+            "name": "full cream milk"
+          },
+          {
+            "amount": "3.5g",
+            "name": "sea salt"
+          }
+        ]
+      },
+      {
+        "title": "Apple Dashi",
+        "items": [
+          {
+            "amount": "450 ml",
+            "name": "fridge cold grapeseed oil"
+          },
+          {
+            "amount": "3",
+            "name": "granny smith apples, chopped into quarters"
+          },
+          {
+            "amount": "4 g",
+            "name": "mirin"
+          },
+          {
+            "amount": "40 g",
+            "name": "white soy"
+          },
+          {
+            "amount": "2.5 g",
+            "name": "kombu"
+          },
+          {
+            "amount": "5 g",
+            "name": "bonito"
+          }
+        ]
+      },
+      {
+        "title": "Fennel Jam",
+        "items": [
+          {
+            "amount": "75 g",
+            "name": "sugar"
+          },
+          {
+            "amount": "75 g",
+            "name": "water"
+          },
+          {
+            "amount": "1",
+            "name": "fennel bulb"
+          },
+          {
+            "amount": "1",
+            "name": "lemon"
+          },
+          {
+            "amount": "20 g",
+            "name": "chardonnay balsamic vinegar"
+          },
+          {
+            "amount": "",
+            "name": "sea salt, to season"
+          }
+        ]
+      },
+      {
+        "title": "Seaweed Vinegar Jelly (Cont.)",
+        "items": [
+          {
+            "amount": "3.5g",
+            "name": "silver gelatine leaves"
+          },
+          {
+            "amount": "",
+            "name": "seaweed vinegar mixture"
+          }
+        ]
+      },
+      {
+        "title": "Sushi Vinegar",
+        "items": [
+          {
+            "amount": "62 g",
+            "name": "caster sugar"
+          },
+          {
+            "amount": "20 g",
+            "name": "grain flavoured vinegar (A)"
+          },
+          {
+            "amount": "180 g",
+            "name": "grain flavoured vinegar (B)"
+          },
+          {
+            "amount": "3 g",
+            "name": "kombu"
+          },
+          {
+            "amount": "6 g",
+            "name": "sea salt, to season"
+          }
+        ]
+      },
+      {
+        "title": "Fennel Milk Jelly",
+        "items": [
+          {
+            "amount": "3 g",
+            "name": "silver gelatine leaves"
+          },
+          {
+            "amount": "",
+            "name": "fennel milk"
+          }
+        ]
+      },
+      {
+        "title": "Buddha’s Hand Citrus Jam",
+        "items": [
+          {
+            "amount": "1",
+            "name": "green buddha’s hand citrus"
+          },
+          {
+            "amount": "150 g",
+            "name": "sugar"
+          },
+          {
+            "amount": "150 g",
+            "name": "water"
+          },
+          {
+            "amount": "3",
+            "name": "lemons"
+          }
+        ]
+      },
+      {
+        "title": "Pickled Palm Heart",
+        "items": [
+          {
+            "amount": "1",
+            "name": "fresh palm heart"
+          },
+          {
+            "amount": "",
+            "name": "cold sushi vinegar"
+          }
+        ]
+      },
+      {
+        "title": "Crab Dressing",
+        "items": [
+          {
+            "amount": "25 g",
+            "name": "shallot, peeled"
+          },
+          {
+            "amount": "2 tsp",
+            "name": "extra virgin olive oil (A)"
+          },
+          {
+            "amount": "10 g",
+            "name": "fish sauce"
+          },
+          {
+            "amount": "50 g",
+            "name": "chardonnay balsamic vinegar"
+          },
+          {
+            "amount": "30 g",
+            "name": "macadamia oil"
+          },
+          {
+            "amount": "14 g",
+            "name": "extra virgin olive oil (B)"
+          },
+          {
+            "amount": "",
+            "name": "sea salt, to season"
+          }
+        ]
+      },
+      {
+        "title": "Dashi Caviar",
+        "items": [
+          {
+            "amount": "100 g",
+            "name": "apple dashi"
+          },
+          {
+            "amount": "",
+            "name": "apple, mirin and soy mixture in a jug"
+          },
+          {
+            "amount": "1.5 g",
+            "name": "agar agar"
+          },
+          {
+            "amount": "450 ml",
+            "name": "fridge cold grapeseed oil, in cannister"
+          }
+        ]
+      },
+      {
+        "title": "Garnish",
+        "items": [
+          {
+            "amount": "2",
+            "name": "large macadamia nuts"
+          },
+          {
+            "amount": "5",
+            "name": "small young sea spray tips"
+          },
+          {
+            "amount": "5",
+            "name": "double purple micro shiso leaves"
+          },
+          {
+            "amount": "5",
+            "name": "small white alyssum flowers"
+          },
+          {
+            "amount": "5",
+            "name": "inner petals of marigold"
+          }
+        ]
+      },
+      {
+        "title": "Fennel Crème Fraîche",
+        "items": [
+          {
+            "amount": "100 g",
+            "name": "crème fraîche"
+          },
+          {
+            "amount": "40 g",
+            "name": "fennel jam"
+          },
+          {
+            "amount": "",
+            "name": "sea salt, to taste"
+          }
+        ]
+      },
+      {
+        "title": "To Assemble",
+        "items": [
+          {
+            "amount": "40 g",
+            "name": "fennel crème fraîche"
+          },
+          {
+            "amount": "65 g",
+            "name": "picked crab meat"
+          },
+          {
+            "amount": "",
+            "name": "crab dressing in a squeeze bottle"
+          },
+          {
+            "amount": "",
+            "name": "sea salt, to season"
+          },
+          {
+            "amount": "9 g",
+            "name": "dashi caviar pearls"
+          },
+          {
+            "amount": "",
+            "name": "buddha’s hand citrus jam, in a piping bag, 5mm hole snipped"
+          },
+          {
+            "amount": "1",
+            "name": "jelly cone"
+          },
+          {
+            "amount": "6 g",
+            "name": "macadamia curls"
+          },
+          {
+            "amount": "5",
+            "name": "picked sea spray tips"
+          },
+          {
+            "amount": "5",
+            "name": "double purple micro shiso leaves"
+          },
+          {
+            "amount": "5",
+            "name": "white alyssum flowers"
+          },
+          {
+            "amount": "5",
+            "name": "inner marigold petals"
+          },
+          {
+            "amount": "5",
+            "name": "pickled palm heart"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "r260426qfjap",
     "title": "Orange & Whisky Marmalade Glazed Spatchcock with Adzuki Bean Purée, Cavolo Nero and Mulberry Beurre Blanc",
     "image": "https://10.com.au/ip/s3/2026/04/27/8ba448ab993d88c52c489987ceb127c0-1424095.png?image-profile=image_max&io=landscape",

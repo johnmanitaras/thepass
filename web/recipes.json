@@ -2980,6 +2980,165 @@
     ]
   },
   {
+    "id": "r260707vhiet",
+    "title": "Gochujang Braised Pork Belly with Pumpkin & Lime Puree",
+    "image": "https://10.com.au/ip/s3/2026/07/07/9155c0628f52db5b2f196e704003f935-1440434.png?image-profile=image_max&io=landscape",
+    "chef": "Casper Kenworthy",
+    "chefRole": "Contestant",
+    "chefThumb": "https://10.com.au/ip/s3/2026/04/22/ddd1895cf0657803285ed53a7c21758b-1423752.png?image-profile=bio_thumb&io=square",
+    "season": 18,
+    "serves": "4",
+    "published": "12 Jul 2026",
+    "url": "https://10.com.au/masterchef/recipes/gochujang-braised-pork-belly-with-pumpkin-lime-puree/r260707vhiet",
+    "course": "Main",
+    "tags": [
+      "Gochujang",
+      "Pork Belly",
+      "Pumpkin",
+      "Lime",
+      "Main"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Gochujang Braised Pork Belly",
+        "items": [
+          {
+            "amount": "850g",
+            "name": "pork belly"
+          },
+          {
+            "amount": "4",
+            "name": "shiitake mushrooms, sliced"
+          },
+          {
+            "amount": "2cm piece",
+            "name": "ginger, sliced"
+          },
+          {
+            "amount": "2 tbsp",
+            "name": "sugar"
+          },
+          {
+            "amount": "2 tbsp",
+            "name": "white vinegar"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "red Szechuan peppercorns"
+          },
+          {
+            "amount": "2 tbsp",
+            "name": "gochujang"
+          },
+          {
+            "amount": "1/3 cup",
+            "name": "soy sauce"
+          }
+        ]
+      },
+      {
+        "title": "Pumpkin and Lime Puree",
+        "items": [
+          {
+            "amount": "400g",
+            "name": "peeled pumpkin, roughly chopped"
+          },
+          {
+            "amount": "100g",
+            "name": "unsalted butter"
+          },
+          {
+            "amount": "",
+            "name": "salt, to taste"
+          },
+          {
+            "amount": "1 cup",
+            "name": "water"
+          },
+          {
+            "amount": "1",
+            "name": "lime, juiced"
+          }
+        ]
+      },
+      {
+        "title": "Soy Pickled Shiitake",
+        "items": [
+          {
+            "amount": "5 large",
+            "name": "shiitake mushrooms"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "vegetable oil"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "green Szechuan peppercorns"
+          },
+          {
+            "amount": "2cm piece",
+            "name": "ginger, thinly julienned"
+          },
+          {
+            "amount": "90g",
+            "name": "white vinegar"
+          },
+          {
+            "amount": "30g",
+            "name": "water"
+          },
+          {
+            "amount": "30g",
+            "name": "soy sauce"
+          },
+          {
+            "amount": "30g",
+            "name": "sugar"
+          }
+        ]
+      },
+      {
+        "title": "Lime & Pumpkin Seed Chilli Salt",
+        "items": [
+          {
+            "amount": "1 tbsp",
+            "name": "lime zest"
+          },
+          {
+            "amount": "2 tbsp",
+            "name": "pumpkin seed"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "green Szechuan peppercorns"
+          },
+          {
+            "amount": "½ tsp",
+            "name": "Thai chilli powder"
+          },
+          {
+            "amount": "1 tsp",
+            "name": "fine salt"
+          }
+        ]
+      },
+      {
+        "title": "Garnish",
+        "items": [
+          {
+            "amount": "4 tbsp",
+            "name": "grapeseed oil"
+          },
+          {
+            "amount": "",
+            "name": "Thai basil leaves"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "r260427egouq",
     "title": "Hazelnut, Coffee and Fennel Seed Mille Feuille",
     "image": "https://10.com.au/ip/s3/2026/04/27/5e180d5b6957a38a11bb033afd7b1b8d-1424100.png?image-profile=image_max&io=landscape",

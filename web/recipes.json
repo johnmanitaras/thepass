@@ -3485,6 +3485,172 @@
     ]
   },
   {
+    "id": "r260707cpfnq",
+    "title": "Hibachi Butterflied King George Whiting With Thai Red Curry Sauce And Pipis",
+    "image": "https://10.com.au/ip/s3/2026/07/07/0bcb7f48f7dd29575d78aaada531f2b8-1440491.png?image-profile=image_max&io=landscape",
+    "chef": "Annabel Lloyd",
+    "chefRole": "Contestant",
+    "chefThumb": "https://10.com.au/ip/s3/2026/04/21/cf1da7579f0bfcd36dd9ac47336b94eb-1423740.png?image-profile=bio_thumb&io=square",
+    "season": 18,
+    "serves": "2",
+    "published": "13 Jul 2026",
+    "url": "https://10.com.au/masterchef/recipes/hibachi-butterflied-king-george-whiting-with-thai-red-curry-sauce-and-pipis/r260707cpfnq",
+    "course": "Main",
+    "tags": [
+      "Whiting",
+      "Pipis",
+      "Red Curry Paste",
+      "Coriander",
+      "Main"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Butterflied King George Whiting",
+        "items": [
+          {
+            "amount": "1",
+            "name": "King George Whiting, scaled and gutted"
+          },
+          {
+            "amount": "",
+            "name": "fine salt"
+          },
+          {
+            "amount": "",
+            "name": "grapeseed oil"
+          }
+        ]
+      },
+      {
+        "title": "Thai Red Curry Sauce",
+        "items": [
+          {
+            "amount": "2",
+            "name": "shallots, roughly chopped"
+          },
+          {
+            "amount": "4 cloves",
+            "name": "garlic"
+          },
+          {
+            "amount": "2 stalks",
+            "name": "lemongrass, white part only, finely sliced"
+          },
+          {
+            "amount": "2cm piece",
+            "name": "galangal, sliced"
+          },
+          {
+            "amount": "2",
+            "name": "birds eye chillies, plus extra to taste"
+          },
+          {
+            "amount": "2",
+            "name": "red cayenne chillies"
+          },
+          {
+            "amount": "1 bunch",
+            "name": "coriander, washed, roots and leaves separated"
+          },
+          {
+            "amount": "1 tsp",
+            "name": "shrimp paste"
+          },
+          {
+            "amount": "1 tsp",
+            "name": "coriander seeds, toasted"
+          },
+          {
+            "amount": "½ tsp",
+            "name": "cumin seeds, toasted"
+          },
+          {
+            "amount": "3–4",
+            "name": "lime leaves, finely sliced"
+          },
+          {
+            "amount": "1",
+            "name": "lime, zested"
+          },
+          {
+            "amount": "",
+            "name": "salt, to taste"
+          },
+          {
+            "amount": "400ml",
+            "name": "canned coconut cream"
+          },
+          {
+            "amount": "½ cup",
+            "name": "water, to rinse the can"
+          },
+          {
+            "amount": "40g",
+            "name": "palm sugar, shaved, to taste"
+          },
+          {
+            "amount": "",
+            "name": "fish sauce, to taste"
+          },
+          {
+            "amount": "",
+            "name": "lime juice, to taste"
+          },
+          {
+            "amount": "2",
+            "name": "lime leaves, lightly crushed"
+          }
+        ]
+      },
+      {
+        "title": "Pipis",
+        "items": [
+          {
+            "amount": "1 tbsp",
+            "name": "Thai Red Curry Paste"
+          },
+          {
+            "amount": "125ml",
+            "name": "water"
+          },
+          {
+            "amount": "2",
+            "name": "lime leaves"
+          },
+          {
+            "amount": "500g",
+            "name": "pipis, purged and rinsed"
+          }
+        ]
+      },
+      {
+        "title": "To serve",
+        "items": [
+          {
+            "amount": "",
+            "name": "spring onion, finely sliced diagonally"
+          },
+          {
+            "amount": "",
+            "name": "coriander leaves"
+          },
+          {
+            "amount": "",
+            "name": "Thai basil leaves"
+          },
+          {
+            "amount": "",
+            "name": "fresh lime wedges"
+          },
+          {
+            "amount": "",
+            "name": "flaky sea salt"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "r260630rcxsy",
     "title": "Japanese Dashi-Infused Mussel Broth With Pickled Apple & Russian Buns",
     "image": "https://10.com.au/ip/s3/2026/06/30/903e48fcd2cf9ea13a620448d5e6d0d3-1438633.png?image-profile=image_max&io=landscape",

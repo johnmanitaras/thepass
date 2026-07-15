@@ -566,6 +566,188 @@
     ]
   },
   {
+    "id": "r260708jxvbl",
+    "title": "Charred Corn Ice Cream",
+    "image": "https://10.com.au/ip/s3/2026/07/08/d30ef7130c9d819ba7418e0b3717d848-1440498.png?image-profile=image_max&io=landscape",
+    "chef": "Petro Papathomas",
+    "chefRole": "Contestant",
+    "chefThumb": "https://10.com.au/ip/s3/2026/04/22/261ce5ea6ee1e7593b38c59877f50d3b-1423818.png?image-profile=bio_thumb&io=square",
+    "season": 18,
+    "serves": "2",
+    "published": "14 Jul 2026",
+    "url": "https://10.com.au/masterchef/recipes/charred-corn-ice-cream/r260708jxvbl",
+    "course": "Dessert",
+    "tags": [
+      "Corn",
+      "Rum",
+      "Cornflakes",
+      "Pineapple",
+      "Dessert"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Charred Corn",
+        "items": [
+          {
+            "amount": "2",
+            "name": "corn cobs, husks removed"
+          }
+        ]
+      },
+      {
+        "title": "Charred Corn Ice Cream",
+        "items": [
+          {
+            "amount": "70g",
+            "name": "egg yolk"
+          },
+          {
+            "amount": "15g",
+            "name": "skim milk powder"
+          },
+          {
+            "amount": "45g",
+            "name": "sugar"
+          },
+          {
+            "amount": "15g",
+            "name": "glucose"
+          },
+          {
+            "amount": "100ml",
+            "name": "full cream milk"
+          },
+          {
+            "amount": "½",
+            "name": "vanilla pod"
+          },
+          {
+            "amount": "200ml",
+            "name": "thickened cream"
+          },
+          {
+            "amount": "110g",
+            "name": "charred corn kernels"
+          }
+        ]
+      },
+      {
+        "title": "Dark Rum Caramel",
+        "items": [
+          {
+            "amount": "80g",
+            "name": "sugar"
+          },
+          {
+            "amount": "20g",
+            "name": "glucose"
+          },
+          {
+            "amount": "40ml",
+            "name": "water"
+          },
+          {
+            "amount": "60ml",
+            "name": "cream"
+          },
+          {
+            "amount": "30ml",
+            "name": "dark rum"
+          },
+          {
+            "amount": "20g",
+            "name": "unsalted butter"
+          },
+          {
+            "amount": "",
+            "name": "sea salt, to taste"
+          }
+        ]
+      },
+      {
+        "title": "Cornflake Clusters",
+        "items": [
+          {
+            "amount": "20g",
+            "name": "unsalted butter"
+          },
+          {
+            "amount": "60g",
+            "name": "cornflakes"
+          },
+          {
+            "amount": "15g",
+            "name": "honey"
+          },
+          {
+            "amount": "",
+            "name": "sea salt, to taste"
+          }
+        ]
+      },
+      {
+        "title": "Pickled Pineapple",
+        "items": [
+          {
+            "amount": "100g",
+            "name": "pineapple, diced"
+          },
+          {
+            "amount": "1",
+            "name": "lime, zested & juiced"
+          },
+          {
+            "amount": "½ tsp",
+            "name": "yuzu kosho"
+          },
+          {
+            "amount": "1/8 tsp",
+            "name": "citric acid"
+          }
+        ]
+      },
+      {
+        "title": "Whipped Cream",
+        "items": [
+          {
+            "amount": "200g",
+            "name": "thickened cream"
+          },
+          {
+            "amount": "10g",
+            "name": "icing sugar"
+          }
+        ]
+      },
+      {
+        "title": "Brown Butter Corn",
+        "items": [
+          {
+            "amount": "60g",
+            "name": "salted butter"
+          },
+          {
+            "amount": "",
+            "name": "reserved charred corn kernels"
+          }
+        ]
+      },
+      {
+        "title": "Garnish",
+        "items": [
+          {
+            "amount": "20g",
+            "name": "pinenuts"
+          },
+          {
+            "amount": "",
+            "name": "lime juice & zest, to taste"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "r260430ljqpg",
     "title": "Chicken Ball Avgolemono Soup",
     "image": "https://10.com.au/ip/s3/2026/04/30/6a135947418196842d3cea7f970f92b6-1424973.png?image-profile=image_max&io=landscape",

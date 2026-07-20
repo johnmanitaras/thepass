@@ -379,6 +379,127 @@
     ]
   },
   {
+    "id": "r260714fntwj",
+    "title": "Brown Onion Three Ways: Agnolotti, Charred Onion Brodo & Sweet Sour Onion Petals",
+    "image": "https://10.com.au/ip/s3/2026/07/14/e6a916b9f6c9515d8070d5f56ca1e21f-1441981.png?image-profile=image_max&io=landscape",
+    "chef": "Vinnie Gibaldi",
+    "chefRole": "Contestant",
+    "chefThumb": "https://10.com.au/ip/s3/2026/04/22/cfe4d9448999fecbc1a0633e611af2cd-1423822.png?image-profile=bio_thumb&io=square",
+    "season": 18,
+    "serves": "2",
+    "published": "19 Jul 2026",
+    "url": "https://10.com.au/masterchef/recipes/brown-onion-three-ways-agnolotti-charred-onion-brodo-sweet-sour-onion-petals/r260714fntwj",
+    "course": "Main",
+    "tags": [
+      "Brown Onion",
+      "Ricotta",
+      "Main"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Pasta Dough",
+        "items": [
+          {
+            "amount": "115g",
+            "name": "00 flour"
+          },
+          {
+            "amount": "1",
+            "name": "egg"
+          },
+          {
+            "amount": "1",
+            "name": "egg yolk"
+          }
+        ]
+      },
+      {
+        "title": "Onion & Ricotta Filling",
+        "items": [
+          {
+            "amount": "3",
+            "name": "brown onions, thinly sliced"
+          },
+          {
+            "amount": "2 tbsp",
+            "name": "olive oil"
+          },
+          {
+            "amount": "",
+            "name": "salt, to taste"
+          },
+          {
+            "amount": "",
+            "name": "sugar, to taste"
+          },
+          {
+            "amount": "",
+            "name": "white vinegar, to taste"
+          }
+        ]
+      },
+      {
+        "title": "Ricotta",
+        "items": [
+          {
+            "amount": "500ml",
+            "name": "full cream milk"
+          },
+          {
+            "amount": "20ml",
+            "name": "white vinegar"
+          }
+        ]
+      },
+      {
+        "title": "Charred Onion Brodo",
+        "items": [
+          {
+            "amount": "4",
+            "name": "brown onions, skin on"
+          },
+          {
+            "amount": "",
+            "name": "water, as required"
+          },
+          {
+            "amount": "",
+            "name": "sugar, to taste"
+          },
+          {
+            "amount": "",
+            "name": "white vinegar, to taste"
+          },
+          {
+            "amount": "",
+            "name": "salt, to taste"
+          }
+        ]
+      },
+      {
+        "title": "Sweet & Sour Onion Petals",
+        "items": [
+          {
+            "amount": "3",
+            "name": "brown onions, halved (top to tail)"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "butter"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "sugar"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "vinegar"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "r260617knwvu",
     "title": "Butterflied, Stuffed, Rolled Flathead With Fish Jus",
     "image": "https://10.com.au/ip/s3/2026/06/17/e067522ffbaf4331941abe1e0bf6b822-1435546.png?image-profile=image_max&io=landscape",
@@ -2983,6 +3104,212 @@
           {
             "amount": "½ cup",
             "name": "shredded coconut, toasted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "r260714lxhzr",
+    "title": "Fish And Chips",
+    "image": "https://10.com.au/ip/s3/2026/07/14/bc1b9c62984d5af16939b8f93c8a1261-1442008.png?image-profile=image_max&io=landscape",
+    "chef": "Annabel Lloyd",
+    "chefRole": "Contestant",
+    "chefThumb": "https://10.com.au/ip/s3/2026/04/21/cf1da7579f0bfcd36dd9ac47336b94eb-1423740.png?image-profile=bio_thumb&io=square",
+    "season": 18,
+    "serves": "2",
+    "published": "20 Jul 2026",
+    "url": "https://10.com.au/masterchef/recipes/fish-and-chips-3/r260714lxhzr",
+    "course": "Main",
+    "tags": [
+      "Potato",
+      "Cod",
+      "Fish stock",
+      "Fennel",
+      "Main"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Hashbrown Potato Chips",
+        "items": [
+          {
+            "amount": "600g",
+            "name": "sebago potatoes, peeled"
+          },
+          {
+            "amount": "40g",
+            "name": "clarified butter"
+          },
+          {
+            "amount": "2",
+            "name": "garlic cloves, lightly crushed"
+          },
+          {
+            "amount": "1",
+            "name": "small rosemary sprig"
+          },
+          {
+            "amount": "",
+            "name": "fine sea salt, to taste"
+          },
+          {
+            "amount": "",
+            "name": "rice flour, for dusting"
+          },
+          {
+            "amount": "",
+            "name": "grapeseed oil, for frying"
+          }
+        ]
+      },
+      {
+        "title": "Tartare Velouté",
+        "items": [
+          {
+            "amount": "",
+            "name": "fish bones, head and trimmings from blue eye cod"
+          },
+          {
+            "amount": "1",
+            "name": "carrot, roughly chopped"
+          },
+          {
+            "amount": "½",
+            "name": "fennel bulb, roughly chopped"
+          },
+          {
+            "amount": "1",
+            "name": "celery stalk, roughly chopped"
+          },
+          {
+            "amount": "1",
+            "name": "small brown onion, roughly chopped"
+          },
+          {
+            "amount": "2",
+            "name": "cloves garlic, crushed"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "milk powder"
+          },
+          {
+            "amount": "",
+            "name": "salt and black pepper, to taste"
+          },
+          {
+            "amount": "3 tbsp",
+            "name": "olive oil"
+          },
+          {
+            "amount": "100ml",
+            "name": "white wine"
+          },
+          {
+            "amount": "500ml",
+            "name": "chicken stock"
+          },
+          {
+            "amount": "20g",
+            "name": "unsalted butter"
+          },
+          {
+            "amount": "20g",
+            "name": "plain flour"
+          },
+          {
+            "amount": "30ml",
+            "name": "thickened cream"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "crème fraîche"
+          },
+          {
+            "amount": "1 tsp",
+            "name": "shiro dashi"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "capers in brine, drained and chopped"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "finely chopped dill"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "finely sliced chives"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "finely chopped parsley"
+          },
+          {
+            "amount": "1 tsp",
+            "name": "Dijon mustard"
+          },
+          {
+            "amount": "",
+            "name": "lemon juice, to taste"
+          }
+        ]
+      },
+      {
+        "title": "Pan Fried Blue Eye Cod",
+        "items": [
+          {
+            "amount": "2",
+            "name": "blue eye cod fillets, skin on"
+          },
+          {
+            "amount": "2 tbsp",
+            "name": "olive oil"
+          },
+          {
+            "amount": "20g",
+            "name": "unsalted butter"
+          },
+          {
+            "amount": "",
+            "name": "sea salt, to taste"
+          }
+        ]
+      },
+      {
+        "title": "Fennel Salad",
+        "items": [
+          {
+            "amount": "½",
+            "name": "fennel bulb, finely sliced on a mandolin"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "capers in brine, drained"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "finely chopped dill"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "finely chopped parsley"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "finely sliced chives"
+          },
+          {
+            "amount": "",
+            "name": "lemon juice, to taste"
+          },
+          {
+            "amount": "",
+            "name": "olive oil, to taste"
+          },
+          {
+            "amount": "",
+            "name": "sea salt and black pepper, to taste"
           }
         ]
       }

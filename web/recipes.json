@@ -687,6 +687,202 @@
     ]
   },
   {
+    "id": "r260722qrzfa",
+    "title": "Celeriac Ice Cream",
+    "image": "https://10.com.au/ip/s3/2026/07/22/d0ddfedc4c549bf7787a7f9c7427e9c8-1444418.png?image-profile=image_max&io=landscape",
+    "chef": "Petro Papathomas",
+    "chefRole": "Contestant",
+    "chefThumb": "https://10.com.au/ip/s3/2026/04/22/261ce5ea6ee1e7593b38c59877f50d3b-1423818.png?image-profile=bio_thumb&io=square",
+    "season": 18,
+    "serves": "4",
+    "published": "26 Jul 2026",
+    "url": "https://10.com.au/masterchef/recipes/celeriac-ice-cream/r260722qrzfa",
+    "course": "Dessert",
+    "tags": [
+      "Celeriac",
+      "Apple",
+      "Bourbon",
+      "Hazelnut",
+      "Dessert"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Celeriac Ice Cream",
+        "items": [
+          {
+            "amount": "750g",
+            "name": "celeriac, peeled & grated"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "black peppercorns"
+          },
+          {
+            "amount": "200g",
+            "name": "milk"
+          },
+          {
+            "amount": "250g",
+            "name": "thickened cream"
+          },
+          {
+            "amount": "100g",
+            "name": "egg yolk"
+          },
+          {
+            "amount": "70g",
+            "name": "caster sugar"
+          },
+          {
+            "amount": "30g",
+            "name": "glucose syrup"
+          },
+          {
+            "amount": "25g",
+            "name": "skim milk powder"
+          },
+          {
+            "amount": "1 tsp",
+            "name": "vanilla paste"
+          }
+        ]
+      },
+      {
+        "title": "Bourbon Caramel",
+        "items": [
+          {
+            "amount": "60g",
+            "name": "unsalted butter"
+          },
+          {
+            "amount": "80g",
+            "name": "caster sugar"
+          },
+          {
+            "amount": "20g",
+            "name": "glucose syrup"
+          },
+          {
+            "amount": "40g",
+            "name": "water"
+          },
+          {
+            "amount": "60g",
+            "name": "cream"
+          },
+          {
+            "amount": "30g",
+            "name": "bourbon"
+          },
+          {
+            "amount": "",
+            "name": "salt, to taste"
+          }
+        ]
+      },
+      {
+        "title": "Sautéed Celeriac Cubes",
+        "items": [
+          {
+            "amount": "250g",
+            "name": "peeled celeriac"
+          },
+          {
+            "amount": "30g",
+            "name": "unsalted butter"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "grapeseed oil"
+          },
+          {
+            "amount": "20g",
+            "name": "brown sugar"
+          },
+          {
+            "amount": "10ml",
+            "name": "verjuice"
+          },
+          {
+            "amount": "",
+            "name": "salt, to taste"
+          }
+        ]
+      },
+      {
+        "title": "Hazelnut Crumb",
+        "items": [
+          {
+            "amount": "50g",
+            "name": "plain flour"
+          },
+          {
+            "amount": "40g",
+            "name": "caster sugar"
+          },
+          {
+            "amount": "25g",
+            "name": "hazelnut meal"
+          },
+          {
+            "amount": "50g",
+            "name": "unsalted butter, softened"
+          },
+          {
+            "amount": "",
+            "name": "salt, to taste"
+          }
+        ]
+      },
+      {
+        "title": "Pickled Apples",
+        "items": [
+          {
+            "amount": "2",
+            "name": "green apples"
+          },
+          {
+            "amount": "40ml",
+            "name": "verjuice"
+          },
+          {
+            "amount": "1/8 tsp",
+            "name": "caster sugar"
+          },
+          {
+            "amount": "",
+            "name": "salt, to taste"
+          },
+          {
+            "amount": "1/8 tsp",
+            "name": "citric acid"
+          },
+          {
+            "amount": "",
+            "name": "lemon zest, to serve"
+          }
+        ]
+      },
+      {
+        "title": "To Assemble",
+        "items": [
+          {
+            "amount": "40g",
+            "name": "roasted hazelnuts, roughly chopped"
+          },
+          {
+            "amount": "",
+            "name": "fresh tarragon leaves, to serve"
+          },
+          {
+            "amount": "",
+            "name": "lemon zest"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "r260708jxvbl",
     "title": "Charred Corn Ice Cream",
     "image": "https://10.com.au/ip/s3/2026/07/08/d30ef7130c9d819ba7418e0b3717d848-1440498.png?image-profile=image_max&io=landscape",

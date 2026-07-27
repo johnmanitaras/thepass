@@ -3512,6 +3512,182 @@
     ]
   },
   {
+    "id": "r260722nbhfx",
+    "title": "Garlic Pasta, Spanner Crab, Garlic Sauce, Fried Whole Garlic, Garlic Flower",
+    "image": "https://10.com.au/ip/s3/2026/07/22/68e8a66ca5c7cbe7038148885378d9bc-1444423.png?image-profile=image_max&io=landscape",
+    "chef": "Aaron Kher",
+    "chefRole": "Contestant",
+    "chefThumb": "https://10.com.au/ip/s3/2026/04/21/9641f28ef8b2ca9a61bade44bbf462d2-1423729.png?image-profile=bio_thumb&io=square",
+    "season": 18,
+    "serves": "2",
+    "published": "27 Jul 2026",
+    "url": "https://10.com.au/masterchef/recipes/garlic-pasta-spanner-crab-garlic-sauce-fried-whole-garlic-garlic-flower/r260722nbhfx",
+    "course": "Main",
+    "tags": [
+      "Garlic",
+      "Crab",
+      "Flay Leaf Parsley",
+      "Lemon",
+      "Main"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Pasta",
+        "items": [
+          {
+            "amount": "120g",
+            "name": "Tipo 00 flour"
+          },
+          {
+            "amount": "80g",
+            "name": "fine semolina flour"
+          },
+          {
+            "amount": "1",
+            "name": "egg"
+          },
+          {
+            "amount": "3",
+            "name": "egg yolks"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "olive oil"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "water"
+          },
+          {
+            "amount": "1/8 tsp",
+            "name": "kosher salt"
+          }
+        ]
+      },
+      {
+        "title": "Confit Garlic",
+        "items": [
+          {
+            "amount": "8-10 cloves",
+            "name": "garlic, peeled"
+          },
+          {
+            "amount": "1 cup",
+            "name": "olive oil"
+          }
+        ]
+      },
+      {
+        "title": "Garlic Sauce",
+        "items": [
+          {
+            "amount": "12-14 cloves",
+            "name": "garlic"
+          },
+          {
+            "amount": "2 cups",
+            "name": "boiling water"
+          },
+          {
+            "amount": "2",
+            "name": "confit garlic cloves"
+          },
+          {
+            "amount": "100ml",
+            "name": "cream"
+          },
+          {
+            "amount": "30g",
+            "name": "unsalted butter"
+          },
+          {
+            "amount": "2 tbsp",
+            "name": "reserved garlic oil"
+          },
+          {
+            "amount": "",
+            "name": "Confit Garlic"
+          },
+          {
+            "amount": "½",
+            "name": "lemon, juiced"
+          },
+          {
+            "amount": "",
+            "name": "salt and pepper, to taste"
+          }
+        ]
+      },
+      {
+        "title": "Spanner Crab",
+        "items": [
+          {
+            "amount": "1",
+            "name": "raw spanner crab"
+          },
+          {
+            "amount": "4 tbsp",
+            "name": "salt"
+          },
+          {
+            "amount": "½",
+            "name": "lemon, juiced"
+          },
+          {
+            "amount": "½",
+            "name": "lemon, zested"
+          },
+          {
+            "amount": "",
+            "name": "salt and pepper, to taste"
+          }
+        ]
+      },
+      {
+        "title": "Fried Garlic Chips",
+        "items": [
+          {
+            "amount": "2 cloves",
+            "name": "peeled garlic"
+          },
+          {
+            "amount": "",
+            "name": "reserved garlic oil"
+          }
+        ]
+      },
+      {
+        "title": "Garnish",
+        "items": [
+          {
+            "amount": "3 tbsp",
+            "name": "reserved garlic oil"
+          },
+          {
+            "amount": "2",
+            "name": "long red chillies, deseeded and finely chopped"
+          },
+          {
+            "amount": "4 sprigs",
+            "name": "flatleaf parsley, finely chopped"
+          },
+          {
+            "amount": "½",
+            "name": "lemon, zested, plus extra for serving"
+          },
+          {
+            "amount": "",
+            "name": "lemon juice, to taste"
+          },
+          {
+            "amount": "",
+            "name": "Society Garlic flowers, for serving"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "r260610pasoh",
     "title": "Ginger Threads",
     "image": "https://10.com.au/ip/s3/2026/06/10/b1f6659be983047b0f7db6954d8c901f-1433911.png?image-profile=image_max&io=landscape",

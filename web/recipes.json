@@ -7608,6 +7608,161 @@
     ]
   },
   {
+    "id": "r260723flgyb",
+    "title": "Tiramisu Tart",
+    "image": "https://10.com.au/ip/s3/2026/07/23/cf554ce14fe63262b168e090f4508407-1444432.png?image-profile=image_max&io=landscape",
+    "chef": "Vinnie Gibaldi",
+    "chefRole": "Contestant",
+    "chefThumb": "https://10.com.au/ip/s3/2026/04/22/cfe4d9448999fecbc1a0633e611af2cd-1423822.png?image-profile=bio_thumb&io=square",
+    "season": 18,
+    "serves": "8",
+    "published": "29 Jul 2026",
+    "url": "https://10.com.au/masterchef/recipes/tiramisu-tart/r260723flgyb",
+    "course": "Dessert",
+    "tags": [
+      "Wattleseed Powder",
+      "Coffee",
+      "Milk Chocolate",
+      "Cream",
+      "Dessert"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Wattleseed Tart Shell",
+        "items": [
+          {
+            "amount": "350g",
+            "name": "plain flour"
+          },
+          {
+            "amount": "250g",
+            "name": "cold unsalted butter, diced"
+          },
+          {
+            "amount": "1",
+            "name": "egg yolk"
+          },
+          {
+            "amount": "40g",
+            "name": "caster sugar"
+          },
+          {
+            "amount": "25g",
+            "name": "ground wattleseed"
+          },
+          {
+            "amount": "¼ tsp",
+            "name": "salt"
+          },
+          {
+            "amount": "50ml",
+            "name": "cold water"
+          }
+        ]
+      },
+      {
+        "title": "Chocolate Crèmeux",
+        "items": [
+          {
+            "amount": "250ml",
+            "name": "thickened cream"
+          },
+          {
+            "amount": "250ml",
+            "name": "full cream milk"
+          },
+          {
+            "amount": "75g",
+            "name": "egg yolks"
+          },
+          {
+            "amount": "40g",
+            "name": "caster sugar"
+          },
+          {
+            "amount": "150g",
+            "name": "70% dark chocolate"
+          },
+          {
+            "amount": "70g",
+            "name": "35% milk chocolate"
+          },
+          {
+            "amount": "40ml",
+            "name": "chocolate liqueur"
+          },
+          {
+            "amount": "¼ tsp",
+            "name": "salt"
+          }
+        ]
+      },
+      {
+        "title": "Coffee Gel",
+        "items": [
+          {
+            "amount": "200ml",
+            "name": "fresh espresso"
+          },
+          {
+            "amount": "50ml",
+            "name": "coffee liqueur"
+          },
+          {
+            "amount": "30g",
+            "name": "caster sugar"
+          },
+          {
+            "amount": "½",
+            "name": "lemon, juiced"
+          },
+          {
+            "amount": "2.5g",
+            "name": "agar agar"
+          }
+        ]
+      },
+      {
+        "title": "Mascarpone Cream",
+        "items": [
+          {
+            "amount": "600ml",
+            "name": "thickened cream"
+          },
+          {
+            "amount": "250g",
+            "name": "mascarpone"
+          },
+          {
+            "amount": "40g",
+            "name": "icing sugar"
+          },
+          {
+            "amount": "60ml",
+            "name": "Baileys liqueur"
+          }
+        ]
+      },
+      {
+        "title": "Garnish",
+        "items": [
+          {
+            "amount": "",
+            "name": "cocoa powder, for dusting"
+          },
+          {
+            "amount": "15g",
+            "name": "cocoa nibs"
+          },
+          {
+            "amount": "1",
+            "name": "tonka bean"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "r260610oniap",
     "title": "Tomato Salad",
     "image": "https://10.com.au/ip/s3/2026/06/10/f3f564ce2be0a7a46fe41a329c736595-1434036.png?image-profile=image_max&io=landscape",

@@ -500,6 +500,171 @@
     ]
   },
   {
+    "id": "r260723vjkge",
+    "title": "Butterflied Flathead, Caramelised Jerusalem Artichoke Purée, Cavolo Nero Salsa & Sage Oil",
+    "image": "https://10.com.au/ip/s3/2026/07/23/7c3e7106d17cad1a07fe59490336557d-1444458.png?image-profile=image_max&io=landscape",
+    "chef": "Vinnie Gibaldi",
+    "chefRole": "Contestant",
+    "chefThumb": "https://10.com.au/ip/s3/2026/04/22/cfe4d9448999fecbc1a0633e611af2cd-1423822.png?image-profile=bio_thumb&io=square",
+    "season": 18,
+    "serves": "2",
+    "published": "02 Aug 2026",
+    "url": "https://10.com.au/masterchef/recipes/butterflied-flathead-caramelised-jerusalem-artichoke-puree-cavolo-nero-salsa-sage-oil/r260723vjkge",
+    "course": "Main",
+    "tags": [
+      "Flathead",
+      "Artichoke",
+      "Sage",
+      "Cavolo Nero",
+      "Main"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Lemon Salt",
+        "items": [
+          {
+            "amount": "2",
+            "name": "lemons, zested"
+          },
+          {
+            "amount": "2 tbsp",
+            "name": "salt"
+          }
+        ]
+      },
+      {
+        "title": "Caramelised Jerusalem Artichoke Purée",
+        "items": [
+          {
+            "amount": "1",
+            "name": "brown onion, finely diced"
+          },
+          {
+            "amount": "¼ cup",
+            "name": "olive oil"
+          },
+          {
+            "amount": "300g",
+            "name": "Jerusalem artichokes, peeled and thinly sliced (reserve skins)"
+          },
+          {
+            "amount": "150ml",
+            "name": "cream, to cover"
+          },
+          {
+            "amount": "6",
+            "name": "sage leaves"
+          },
+          {
+            "amount": "3 strips",
+            "name": "lemon peel"
+          },
+          {
+            "amount": "2 cloves",
+            "name": "black garlic"
+          },
+          {
+            "amount": "",
+            "name": "lemon juice, to taste"
+          },
+          {
+            "amount": "",
+            "name": "salt, to taste"
+          }
+        ]
+      },
+      {
+        "title": "Jerusalem Artichoke Crisps",
+        "items": [
+          {
+            "amount": "",
+            "name": "canola oil, for deep frying"
+          },
+          {
+            "amount": "",
+            "name": "reserved Jerusalem artichoke skins"
+          },
+          {
+            "amount": "",
+            "name": "Lemon Salt"
+          }
+        ]
+      },
+      {
+        "title": "Sage Oil",
+        "items": [
+          {
+            "amount": "½ bunch",
+            "name": "sage, leaves picked"
+          },
+          {
+            "amount": "½ cup",
+            "name": "olive oil"
+          },
+          {
+            "amount": "¼ tsp",
+            "name": "caster sugar"
+          },
+          {
+            "amount": "¼ tsp",
+            "name": "salt"
+          }
+        ]
+      },
+      {
+        "title": "Cavolo Nero Salsa",
+        "items": [
+          {
+            "amount": "6 leaves",
+            "name": "cavolo nero"
+          },
+          {
+            "amount": "2",
+            "name": "lemons, juiced"
+          },
+          {
+            "amount": "½ cup",
+            "name": "olive oil"
+          },
+          {
+            "amount": "",
+            "name": "salt and white pepper, to taste"
+          }
+        ]
+      },
+      {
+        "title": "Crispy Cavolo Nero",
+        "items": [
+          {
+            "amount": "2 leaves",
+            "name": "cavolo nero"
+          },
+          {
+            "amount": "",
+            "name": "Lemon Salt"
+          }
+        ]
+      },
+      {
+        "title": "Butterflied BBQ Flathead",
+        "items": [
+          {
+            "amount": "1",
+            "name": "whole flathead"
+          },
+          {
+            "amount": "",
+            "name": "Lemon Salt"
+          },
+          {
+            "amount": "1",
+            "name": "lemon cheek"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "r260617knwvu",
     "title": "Butterflied, Stuffed, Rolled Flathead With Fish Jus",
     "image": "https://10.com.au/ip/s3/2026/06/17/e067522ffbaf4331941abe1e0bf6b822-1435546.png?image-profile=image_max&io=landscape",
@@ -6834,6 +6999,128 @@
           {
             "amount": "1 tsp",
             "name": "salt"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "r260723bhxwr",
+    "title": "Szechuan & Chocolate Tart",
+    "image": "https://10.com.au/ip/s3/2026/07/23/b1e5d3944a16aaa9a191bb45d671d1bf-1444444.png?image-profile=image_max&io=landscape",
+    "chef": "Petro Papathomas",
+    "chefRole": "Contestant",
+    "chefThumb": "https://10.com.au/ip/s3/2026/04/22/261ce5ea6ee1e7593b38c59877f50d3b-1423818.png?image-profile=bio_thumb&io=square",
+    "season": 18,
+    "serves": "4",
+    "published": "02 Aug 2026",
+    "url": "https://10.com.au/masterchef/recipes/szechuan-chocolate-tart/r260723bhxwr",
+    "course": "Dessert",
+    "tags": [
+      "Szechuan pepper",
+      "Dark Chocolate",
+      "Artichoke",
+      "Butter",
+      "Dessert"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Short Crust Tart Shell",
+        "items": [
+          {
+            "amount": "200g",
+            "name": "plain flour"
+          },
+          {
+            "amount": "100g",
+            "name": "cold butter, cubed"
+          },
+          {
+            "amount": "50g",
+            "name": "iced water"
+          }
+        ]
+      },
+      {
+        "title": "Crème Diplomat",
+        "items": [
+          {
+            "amount": "400g",
+            "name": "milk"
+          },
+          {
+            "amount": "90g",
+            "name": "sugar"
+          },
+          {
+            "amount": "35g",
+            "name": "egg yolk"
+          },
+          {
+            "amount": "35g",
+            "name": "cornflour"
+          },
+          {
+            "amount": "120g",
+            "name": "54% dark chocolate"
+          },
+          {
+            "amount": "30g",
+            "name": "butter"
+          },
+          {
+            "amount": "¼",
+            "name": "tonka bean, grated"
+          },
+          {
+            "amount": "120g",
+            "name": "thickened cream"
+          }
+        ]
+      },
+      {
+        "title": "Szechuan Caramel",
+        "items": [
+          {
+            "amount": "75g",
+            "name": "caster sugar"
+          },
+          {
+            "amount": "5g",
+            "name": "Szechuan peppercorns"
+          },
+          {
+            "amount": "30g",
+            "name": "cream"
+          },
+          {
+            "amount": "15g",
+            "name": "unsalted butter"
+          },
+          {
+            "amount": "",
+            "name": "salt, to taste"
+          }
+        ]
+      },
+      {
+        "title": "Garnish",
+        "items": [
+          {
+            "amount": "1",
+            "name": "Jerusalem artichoke, washed and dried"
+          },
+          {
+            "amount": "",
+            "name": "canola oil, for frying"
+          },
+          {
+            "amount": "",
+            "name": "icing sugar, for dusting"
+          },
+          {
+            "amount": "",
+            "name": "fine salt, to taste"
           }
         ]
       }

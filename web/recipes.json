@@ -2772,6 +2772,351 @@
     ]
   },
   {
+    "id": "r260722ijlvp",
+    "title": "Family Feast",
+    "image": "https://10.com.au/ip/s3/2026/07/23/da6fc3d66fddeddcf318f46054890737-1444427.png?image-profile=image_max&io=landscape",
+    "chef": null,
+    "chefRole": null,
+    "chefThumb": null,
+    "season": 18,
+    "serves": "4",
+    "published": "28 Jul 2026",
+    "url": "https://10.com.au/masterchef/recipes/family-feast/r260722ijlvp",
+    "course": "Dessert",
+    "tags": [
+      "Chicken",
+      "Potato",
+      "Capsicum",
+      "Fennel",
+      "Main",
+      "Dessert"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Crumbed Chicken Drumsticks",
+        "items": [
+          {
+            "amount": "1 cup",
+            "name": "couscous"
+          },
+          {
+            "amount": "¼ cup",
+            "name": "extra virgin olive oil"
+          },
+          {
+            "amount": "8",
+            "name": "chicken drumsticks"
+          },
+          {
+            "amount": "1",
+            "name": "onion, sliced"
+          },
+          {
+            "amount": "1 clove",
+            "name": "garlic, sliced"
+          },
+          {
+            "amount": "60g",
+            "name": "Dijon mustard"
+          },
+          {
+            "amount": "½ bunch",
+            "name": "flatleaf parsley, finely chopped"
+          },
+          {
+            "amount": "",
+            "name": "salt and white pepper, to taste"
+          }
+        ]
+      },
+      {
+        "title": "Spicy Potato Gratin",
+        "items": [
+          {
+            "amount": "1",
+            "name": "large red royal potato, peeled and thinly sliced on a mandolin"
+          },
+          {
+            "amount": "½",
+            "name": "celeriac, peeled and thinly sliced on a mandolin"
+          },
+          {
+            "amount": "1 sprig",
+            "name": "fresh rosemary, finely chopped"
+          },
+          {
+            "amount": "¼ tsp",
+            "name": "espelette pepper"
+          },
+          {
+            "amount": "1/8 tsp",
+            "name": "freshly grated nutmeg"
+          },
+          {
+            "amount": "½ tsp",
+            "name": "fine salt"
+          },
+          {
+            "amount": "150ml",
+            "name": "cream"
+          },
+          {
+            "amount": "100ml",
+            "name": "milk"
+          },
+          {
+            "amount": "25g",
+            "name": "Comte cheese, grated"
+          },
+          {
+            "amount": "25g",
+            "name": "cheddar, grated"
+          }
+        ]
+      },
+      {
+        "title": "Ratatouille",
+        "items": [
+          {
+            "amount": "½ cup",
+            "name": "olive oil"
+          },
+          {
+            "amount": "1",
+            "name": "eggplant, diced"
+          },
+          {
+            "amount": "1",
+            "name": "fennel, diced"
+          },
+          {
+            "amount": "2",
+            "name": "roma tomatoes, diced"
+          },
+          {
+            "amount": "1",
+            "name": "zucchini, diced"
+          },
+          {
+            "amount": "2 tbsp",
+            "name": "tomato paste"
+          },
+          {
+            "amount": "2 sprigs",
+            "name": "thyme, leaves stripped"
+          },
+          {
+            "amount": "½ tsp",
+            "name": "espelette pepper"
+          },
+          {
+            "amount": "½ cup",
+            "name": "Pernod"
+          },
+          {
+            "amount": "½ cup",
+            "name": "Noilly Prat"
+          },
+          {
+            "amount": "6 sprigs",
+            "name": "fresh basil, leaves picked"
+          },
+          {
+            "amount": "6",
+            "name": "large pitted green olives, halved"
+          },
+          {
+            "amount": "",
+            "name": "salt and white pepper, to taste"
+          }
+        ]
+      },
+      {
+        "title": "Stuffed Capsicums",
+        "items": [
+          {
+            "amount": "400g",
+            "name": "blue eye cod fillet"
+          },
+          {
+            "amount": "40g",
+            "name": "table salt"
+          },
+          {
+            "amount": "2",
+            "name": "large sweet potatoes, halved"
+          },
+          {
+            "amount": "2 tbsp",
+            "name": "olive oil"
+          },
+          {
+            "amount": "2",
+            "name": "red capsicums, halved and deseeded"
+          },
+          {
+            "amount": "4",
+            "name": "asparagus, ends trimmed"
+          },
+          {
+            "amount": "2",
+            "name": "celery stalks, trimmed to 20cm lengths and halved lengthways"
+          },
+          {
+            "amount": "½ tsp",
+            "name": "honey"
+          },
+          {
+            "amount": "200g",
+            "name": "fresh buffalo mozzarella, drained and sliced"
+          },
+          {
+            "amount": "",
+            "name": "salt and white pepper, to taste"
+          },
+          {
+            "amount": "1 sprig",
+            "name": "rosemary"
+          }
+        ]
+      },
+      {
+        "title": "Radish and Anchovy Salad",
+        "items": [
+          {
+            "amount": "30g",
+            "name": "tinned anchovies in oil"
+          },
+          {
+            "amount": "1",
+            "name": "small clove garlic, minced"
+          },
+          {
+            "amount": "½ tsp",
+            "name": "lemon zest"
+          },
+          {
+            "amount": "",
+            "name": "lemon juice, to taste"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "olive oil"
+          },
+          {
+            "amount": "1 bunch",
+            "name": "radish, washed, trimmed and sliced 1cm thick"
+          },
+          {
+            "amount": "1 bunch",
+            "name": "flatleaf parsley, leaves picked"
+          }
+        ]
+      },
+      {
+        "title": "Charred Fennel with Yuzu and Orange",
+        "items": [
+          {
+            "amount": "2",
+            "name": "fennel bulbs, trimmed and cut into thin wedges"
+          },
+          {
+            "amount": "½ cup",
+            "name": "olive oil"
+          },
+          {
+            "amount": "1",
+            "name": "orange, juiced"
+          },
+          {
+            "amount": "½ tsp",
+            "name": "orange zest"
+          },
+          {
+            "amount": "¼ cup",
+            "name": "white sambuca, plus extra to taste"
+          },
+          {
+            "amount": "2 tbsp",
+            "name": "Champagne vinegar"
+          },
+          {
+            "amount": "2 tsp",
+            "name": "Dijon mustard"
+          },
+          {
+            "amount": "",
+            "name": "salt and pepper, to taste"
+          }
+        ]
+      },
+      {
+        "title": "Flottante",
+        "items": [
+          {
+            "amount": "4",
+            "name": "egg whites (reserve yolks)"
+          },
+          {
+            "amount": "",
+            "name": "pinch salt"
+          },
+          {
+            "amount": "80g",
+            "name": "icing sugar"
+          }
+        ]
+      },
+      {
+        "title": "Caramel Shards",
+        "items": [
+          {
+            "amount": "½ cup",
+            "name": "caster sugar"
+          },
+          {
+            "amount": "1 tbs",
+            "name": "water"
+          }
+        ]
+      },
+      {
+        "title": "Mandarin Anglaise",
+        "items": [
+          {
+            "amount": "1 cup",
+            "name": "milk"
+          },
+          {
+            "amount": "½ cup",
+            "name": "cream"
+          },
+          {
+            "amount": "2",
+            "name": "mandarin, zested"
+          },
+          {
+            "amount": "4",
+            "name": "egg yolks"
+          },
+          {
+            "amount": "40g",
+            "name": "caster sugar"
+          }
+        ]
+      },
+      {
+        "title": "Garnish",
+        "items": [
+          {
+            "amount": "25g",
+            "name": "flaked almonds"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "r260630htyrs",
     "title": "Filo Cigars",
     "image": "https://10.com.au/ip/s3/2026/06/30/1f5cac3adfc91455c3b44977d9eae0c7-1438583.png?image-profile=image_max&io=landscape",
@@ -3904,193 +4249,6 @@
           {
             "amount": "1 tsp",
             "name": "vanilla paste"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "r260527olxzr",
-    "title": "Herb Crusted Lamb Rack, Hasselback Potatoes, Honey Cumin Glazed Carrots, Tangy Yoghurt Sauce",
-    "image": "https://10.com.au/ip/s3/2026/05/27/a500f78b809564ee014db0e409db9ae2-1432224.png?image-profile=image_max&io=landscape",
-    "chef": null,
-    "chefRole": null,
-    "chefThumb": null,
-    "season": 18,
-    "serves": "2",
-    "published": "27 May 2026",
-    "url": "https://10.com.au/masterchef/recipes/herb-crusted-lamb-rack-hasselback-potatoes-honey-cumin-glazed-carrots-tangy-yoghurt-sauce/r260527olxzr",
-    "course": "Main",
-    "tags": [
-      "Lamb",
-      "Potato",
-      "Carrot",
-      "Yoghurt",
-      "Main"
-    ],
-    "ingredientGroups": [
-      {
-        "title": "Hasselback Potatoes",
-        "items": [
-          {
-            "amount": "4",
-            "name": "crème gold potatoes"
-          },
-          {
-            "amount": "50g",
-            "name": "ghee"
-          },
-          {
-            "amount": "",
-            "name": "salt, to taste"
-          }
-        ]
-      },
-      {
-        "title": "Herb Crust",
-        "items": [
-          {
-            "amount": "¼ cup",
-            "name": "packed basil leaves"
-          },
-          {
-            "amount": "¼ cup",
-            "name": "packed fresh flat-leaf parsley"
-          },
-          {
-            "amount": "1/3 cup",
-            "name": "panko breadcrumbs"
-          },
-          {
-            "amount": "1 tsp",
-            "name": "kosher salt"
-          },
-          {
-            "amount": "¼ cup",
-            "name": "grated Parmesan"
-          }
-        ]
-      },
-      {
-        "title": "Rack of Lamb",
-        "items": [
-          {
-            "amount": "1",
-            "name": "rack of lamb, crown trimmed, fat cap removed, cut in half"
-          },
-          {
-            "amount": "1 bunch",
-            "name": "thyme"
-          },
-          {
-            "amount": "4",
-            "name": "garlic cloves, crushed"
-          },
-          {
-            "amount": "2 tbsp",
-            "name": "butter, cubed"
-          },
-          {
-            "amount": "",
-            "name": "salt and pepper, to taste"
-          },
-          {
-            "amount": "2 tbsp",
-            "name": "grapeseed oil"
-          },
-          {
-            "amount": "4 tbsp",
-            "name": "Dijon mustard"
-          }
-        ]
-      },
-      {
-        "title": "Sautéed Carrots",
-        "items": [
-          {
-            "amount": "1 bunch",
-            "name": "Dutch carrots, washed & trimmed"
-          },
-          {
-            "amount": "2 tbsp",
-            "name": "unsalted butter"
-          },
-          {
-            "amount": "2 tbsp",
-            "name": "grapeseed oil"
-          },
-          {
-            "amount": "2 sprigs",
-            "name": "thyme"
-          },
-          {
-            "amount": "3 cloves",
-            "name": "garlic, crushed"
-          },
-          {
-            "amount": "2 tbsp",
-            "name": "honey"
-          },
-          {
-            "amount": "1 tsp",
-            "name": "cumin seeds"
-          },
-          {
-            "amount": "2 tbsp",
-            "name": "apple cider vinegar"
-          },
-          {
-            "amount": "",
-            "name": "salt, to taste"
-          }
-        ]
-      },
-      {
-        "title": "Tangy Yoghurt Sauce",
-        "items": [
-          {
-            "amount": "6",
-            "name": "mint leaves"
-          },
-          {
-            "amount": "½ cup",
-            "name": "Greek yogurt"
-          },
-          {
-            "amount": "",
-            "name": "salt, to taste"
-          },
-          {
-            "amount": "",
-            "name": "fresh lemon juice, to taste"
-          },
-          {
-            "amount": "4",
-            "name": "fresh oregano leaves, finely chopped"
-          },
-          {
-            "amount": "1 tsp",
-            "name": "Aleppo pepper"
-          },
-          {
-            "amount": "3 cloves",
-            "name": "black garlic"
-          },
-          {
-            "amount": "1 tsp",
-            "name": "honey"
-          },
-          {
-            "amount": "1 tbsp",
-            "name": "olive oil"
-          },
-          {
-            "amount": "½ tsp",
-            "name": "lemon zest"
-          },
-          {
-            "amount": "",
-            "name": "salt, to taste"
           }
         ]
       }
@@ -7199,6 +7357,161 @@
           {
             "amount": "",
             "name": "sea salt, to taste"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "r260723flgyb",
+    "title": "Tiramisu Tart",
+    "image": "https://10.com.au/ip/s3/2026/07/23/cf554ce14fe63262b168e090f4508407-1444432.png?image-profile=image_max&io=landscape",
+    "chef": "Vinnie Gibaldi",
+    "chefRole": "Contestant",
+    "chefThumb": "https://10.com.au/ip/s3/2026/04/22/cfe4d9448999fecbc1a0633e611af2cd-1423822.png?image-profile=bio_thumb&io=square",
+    "season": 18,
+    "serves": "8",
+    "published": "29 Jul 2026",
+    "url": "https://10.com.au/masterchef/recipes/tiramisu-tart/r260723flgyb",
+    "course": "Dessert",
+    "tags": [
+      "Wattleseed Powder",
+      "Coffee",
+      "Milk Chocolate",
+      "Cream",
+      "Dessert"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Wattleseed Tart Shell",
+        "items": [
+          {
+            "amount": "350g",
+            "name": "plain flour"
+          },
+          {
+            "amount": "250g",
+            "name": "cold unsalted butter, diced"
+          },
+          {
+            "amount": "1",
+            "name": "egg yolk"
+          },
+          {
+            "amount": "40g",
+            "name": "caster sugar"
+          },
+          {
+            "amount": "25g",
+            "name": "ground wattleseed"
+          },
+          {
+            "amount": "¼ tsp",
+            "name": "salt"
+          },
+          {
+            "amount": "50ml",
+            "name": "cold water"
+          }
+        ]
+      },
+      {
+        "title": "Chocolate Crèmeux",
+        "items": [
+          {
+            "amount": "250ml",
+            "name": "thickened cream"
+          },
+          {
+            "amount": "250ml",
+            "name": "full cream milk"
+          },
+          {
+            "amount": "75g",
+            "name": "egg yolks"
+          },
+          {
+            "amount": "40g",
+            "name": "caster sugar"
+          },
+          {
+            "amount": "150g",
+            "name": "70% dark chocolate"
+          },
+          {
+            "amount": "70g",
+            "name": "35% milk chocolate"
+          },
+          {
+            "amount": "40ml",
+            "name": "chocolate liqueur"
+          },
+          {
+            "amount": "¼ tsp",
+            "name": "salt"
+          }
+        ]
+      },
+      {
+        "title": "Coffee Gel",
+        "items": [
+          {
+            "amount": "200ml",
+            "name": "fresh espresso"
+          },
+          {
+            "amount": "50ml",
+            "name": "coffee liqueur"
+          },
+          {
+            "amount": "30g",
+            "name": "caster sugar"
+          },
+          {
+            "amount": "½",
+            "name": "lemon, juiced"
+          },
+          {
+            "amount": "2.5g",
+            "name": "agar agar"
+          }
+        ]
+      },
+      {
+        "title": "Mascarpone Cream",
+        "items": [
+          {
+            "amount": "600ml",
+            "name": "thickened cream"
+          },
+          {
+            "amount": "250g",
+            "name": "mascarpone"
+          },
+          {
+            "amount": "40g",
+            "name": "icing sugar"
+          },
+          {
+            "amount": "60ml",
+            "name": "Baileys liqueur"
+          }
+        ]
+      },
+      {
+        "title": "Garnish",
+        "items": [
+          {
+            "amount": "",
+            "name": "cocoa powder, for dusting"
+          },
+          {
+            "amount": "15g",
+            "name": "cocoa nibs"
+          },
+          {
+            "amount": "1",
+            "name": "tonka bean"
           }
         ]
       }

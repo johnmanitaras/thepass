@@ -4421,6 +4421,455 @@
     ]
   },
   {
+    "id": "r260617fauyj",
+    "title": "Iris",
+    "image": "https://10.com.au/ip/s3/2026/06/17/61dad4491575cfa56bb1646f4367a223-1435794.png?image-profile=image_max&io=landscape",
+    "chef": "Kirsten Tibballs",
+    "chefRole": null,
+    "chefThumb": "https://10.com.au/images/Placeholder-Bio-Thumb.png",
+    "season": 18,
+    "serves": null,
+    "published": "24 Jun 2026",
+    "url": "https://10.com.au/masterchef/recipes/iris/r260617fauyj",
+    "course": "Dessert",
+    "tags": [
+      "Dark Chocolate",
+      "Pecans",
+      "Cocoa",
+      "Vanilla Bean",
+      "Dessert"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Cocoa Sablé",
+        "items": [
+          {
+            "amount": "110 g",
+            "name": "cold unsalted butter, cubed"
+          },
+          {
+            "amount": "55 g",
+            "name": "pure icing sugar, sieved"
+          },
+          {
+            "amount": "17 g",
+            "name": "Cacao Barry Pleine Arôme cocoa powder"
+          },
+          {
+            "amount": "44 g",
+            "name": "whole eggs, whisked"
+          },
+          {
+            "amount": "1 g",
+            "name": "sea salt flakes"
+          },
+          {
+            "amount": "1",
+            "name": "vanilla bean, sliced and seeds scraped"
+          },
+          {
+            "amount": "20 g",
+            "name": "almond flour"
+          },
+          {
+            "amount": "180 g",
+            "name": "plain flour"
+          },
+          {
+            "amount": "3.5 g",
+            "name": "baking powder"
+          },
+          {
+            "amount": "",
+            "name": "plain flour, for dusting"
+          }
+        ]
+      },
+      {
+        "title": "Milk Chocolate Crémeux",
+        "items": [
+          {
+            "amount": "1 g",
+            "name": "gold gelatine"
+          },
+          {
+            "amount": "110 g",
+            "name": "thickened cream"
+          },
+          {
+            "amount": "150 g",
+            "name": "full cream milk"
+          },
+          {
+            "amount": "1",
+            "name": "vanilla bean, cut and scraped"
+          },
+          {
+            "amount": "3 g",
+            "name": "sea salt flakes"
+          },
+          {
+            "amount": "50 g",
+            "name": "egg yolks, whisked"
+          },
+          {
+            "amount": "200 g",
+            "name": "Callebaut Gold chocolate"
+          },
+          {
+            "amount": "20 g",
+            "name": "Callebaut 823 Milk Couverture 33.6%"
+          },
+          {
+            "amount": "20 g",
+            "name": "Callebaut Mycryo cocoa butter"
+          }
+        ]
+      },
+      {
+        "title": "Chocolate Flourless Sponge",
+        "items": [
+          {
+            "amount": "100 g",
+            "name": "egg yolks, (reserve whites)"
+          },
+          {
+            "amount": "60 g",
+            "name": "caster sugar (A)"
+          },
+          {
+            "amount": "127 g",
+            "name": "egg whites"
+          },
+          {
+            "amount": "pinch",
+            "name": "cream of tartar"
+          },
+          {
+            "amount": "60 g",
+            "name": "caster sugar (B)"
+          },
+          {
+            "amount": "64 g",
+            "name": "Callebaut 2815 Dark Couverture 57.7%"
+          },
+          {
+            "amount": "17 g",
+            "name": "Cacao Barry Pleine Arôme cocoa powder"
+          }
+        ]
+      },
+      {
+        "title": "Caramelised Pecan Nuts",
+        "items": [
+          {
+            "amount": "124 g",
+            "name": "pecan nuts"
+          },
+          {
+            "amount": "24 g",
+            "name": "honey"
+          },
+          {
+            "amount": "140 g",
+            "name": "thickened cream"
+          },
+          {
+            "amount": "40 g",
+            "name": "liquid glucose"
+          },
+          {
+            "amount": "124 g",
+            "name": "caster sugar"
+          },
+          {
+            "amount": "4 g",
+            "name": "sea salt flakes"
+          },
+          {
+            "amount": "80 g",
+            "name": "Callebaut 823 Milk Couverture 33.6%"
+          },
+          {
+            "amount": "100 g",
+            "name": "candied lemon fillets"
+          },
+          {
+            "amount": "",
+            "name": "canola spray, to grease"
+          },
+          {
+            "amount": "2",
+            "name": "cooled chocolate sablé discs"
+          }
+        ]
+      },
+      {
+        "title": "Dark Chocolate Mousse",
+        "items": [
+          {
+            "amount": "210 g",
+            "name": "Callebaut Power 80 Dark Couverture"
+          },
+          {
+            "amount": "50 g",
+            "name": "Callebaut 823 Milk Couverture 33.6%"
+          },
+          {
+            "amount": "320 g",
+            "name": "thickened cream"
+          },
+          {
+            "amount": "5 g",
+            "name": "gold gelatine"
+          },
+          {
+            "amount": "130 g",
+            "name": "egg yolks"
+          },
+          {
+            "amount": "100 g",
+            "name": "caster sugar (A)"
+          },
+          {
+            "amount": "160 g",
+            "name": "full cream milk"
+          },
+          {
+            "amount": "60 g",
+            "name": "caster sugar (B)"
+          },
+          {
+            "amount": "1 g",
+            "name": "sea salt flakes"
+          }
+        ]
+      },
+      {
+        "title": "Assemble the Entremet",
+        "items": [
+          {
+            "amount": "",
+            "name": "dark chocolate mousse"
+          },
+          {
+            "amount": "1",
+            "name": "chocolate flourless sponge round"
+          },
+          {
+            "amount": "",
+            "name": "milk chocolate crémeux"
+          },
+          {
+            "amount": "1",
+            "name": "baked cocoa sablé round with caramelised pecan nuts"
+          }
+        ]
+      },
+      {
+        "title": "Mirror Glaze",
+        "items": [
+          {
+            "amount": "14.2 g",
+            "name": "gold gelatine sheets"
+          },
+          {
+            "amount": "80 g",
+            "name": "water (A)"
+          },
+          {
+            "amount": "60 g",
+            "name": "caster sugar"
+          },
+          {
+            "amount": "70 g",
+            "name": "liquid glucose"
+          },
+          {
+            "amount": "1.3 g",
+            "name": "sea salt flakes"
+          },
+          {
+            "amount": "450 g",
+            "name": "neutral glaze"
+          },
+          {
+            "amount": "160 g",
+            "name": "water (B)"
+          },
+          {
+            "amount": "70 g",
+            "name": "Cacao Barry Pleine Arôme cocoa powder"
+          },
+          {
+            "amount": "2.5 g",
+            "name": "PCB oil soluble black powder"
+          },
+          {
+            "amount": "6 drops",
+            "name": "Color Mill oil-blend liquid black colour"
+          }
+        ]
+      },
+      {
+        "title": "Chocolate Band",
+        "items": [
+          {
+            "amount": "100 g",
+            "name": "tempered chocolate, in a microwave safe bowl"
+          },
+          {
+            "amount": "1 g",
+            "name": "PCB oil soluble black powder"
+          },
+          {
+            "amount": "",
+            "name": "canola spray, to grease"
+          }
+        ]
+      },
+      {
+        "title": "Chocolate Leaves",
+        "items": [
+          {
+            "amount": "200 g",
+            "name": "Callebaut W2 white chocolate 28%"
+          },
+          {
+            "amount": "4 g",
+            "name": "PCB oil soluble green powder"
+          },
+          {
+            "amount": "knife tip",
+            "name": "PCB oil soluble blue powder"
+          },
+          {
+            "amount": "15 g",
+            "name": "tempered dark chocolate, in a jug"
+          }
+        ]
+      },
+      {
+        "title": "Chocolate Petals",
+        "items": [
+          {
+            "amount": "100 g",
+            "name": "tempered dark chocolate, in a jug, refilled for each set of leaves"
+          }
+        ]
+      },
+      {
+        "title": "Chocolate Disc",
+        "items": [
+          {
+            "amount": "",
+            "name": "tempered dark chocolate, in a small jug"
+          }
+        ]
+      },
+      {
+        "title": "Chocolate Iris Assembly",
+        "items": [
+          {
+            "amount": "1",
+            "name": "chocolate sphere"
+          },
+          {
+            "amount": "",
+            "name": "tempered chocolate, in a small paper piping bag"
+          },
+          {
+            "amount": "1",
+            "name": "chocolate disc"
+          },
+          {
+            "amount": "3",
+            "name": "large chocolate petals, guitar sheet removed"
+          },
+          {
+            "amount": "1 can",
+            "name": "magic freeze spray"
+          },
+          {
+            "amount": "3",
+            "name": "medium chocolate petals, guitar sheet removed"
+          },
+          {
+            "amount": "3",
+            "name": "small chocolate petals, guitar sheet removed"
+          }
+        ]
+      },
+      {
+        "title": "Finishing Colours",
+        "items": [
+          {
+            "amount": "",
+            "name": "chocolate iris flower"
+          },
+          {
+            "amount": "",
+            "name": "Chef Rubber Black Onyx cocoa butter, at working temperature of 31°C"
+          },
+          {
+            "amount": "¼ tsp",
+            "name": "PCB gold glitter powder"
+          },
+          {
+            "amount": "¼ tsp",
+            "name": "PCB oil soluble blue powder"
+          },
+          {
+            "amount": "1 tsp",
+            "name": "100% alcohol"
+          }
+        ]
+      },
+      {
+        "title": "Glaze the Entremet",
+        "items": [
+          {
+            "amount": "1",
+            "name": "frozen entremet"
+          },
+          {
+            "amount": "",
+            "name": "mirror glaze, in a jug, at 30°C"
+          },
+          {
+            "amount": "1 tsp",
+            "name": "PCB gold glitter powder"
+          }
+        ]
+      },
+      {
+        "title": "Final Assembly",
+        "items": [
+          {
+            "amount": "1",
+            "name": "chocolate band"
+          },
+          {
+            "amount": "1",
+            "name": "glazed entremet"
+          },
+          {
+            "amount": "1",
+            "name": "sprayed chocolate iris"
+          },
+          {
+            "amount": "2",
+            "name": "large leaves, guitar sheet removed"
+          },
+          {
+            "amount": "1",
+            "name": "small leaf, guitar sheet removed"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "r260630rcxsy",
     "title": "Japanese Dashi-Infused Mussel Broth With Pickled Apple & Russian Buns",
     "image": "https://10.com.au/ip/s3/2026/06/30/903e48fcd2cf9ea13a620448d5e6d0d3-1438633.png?image-profile=image_max&io=landscape",

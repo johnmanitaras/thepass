@@ -379,6 +379,146 @@
     ]
   },
   {
+    "id": "r260420kdhym",
+    "title": "Black Sesame Yuzu Cake",
+    "image": "https://10.com.au/ip/s3/2026/04/20/6517f151ea2ce263fa790b6b7aef873b-1423444.png?image-profile=image_max&io=landscape",
+    "chef": null,
+    "chefRole": null,
+    "chefThumb": null,
+    "season": 18,
+    "serves": "6",
+    "published": "20 Apr 2026",
+    "url": "https://10.com.au/masterchef/recipes/black-sesame-yuzu-cake/r260420kdhym",
+    "course": "Dessert",
+    "tags": [
+      "Black Sesame",
+      "Yuzu",
+      "Dessert"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Black Sesame Chiffon Cake",
+        "items": [
+          {
+            "amount": "42g",
+            "name": "cake flour"
+          },
+          {
+            "amount": "¾ tsp",
+            "name": "baking powder"
+          },
+          {
+            "amount": "¼ tsp",
+            "name": "fine salt"
+          },
+          {
+            "amount": "35g",
+            "name": "water"
+          },
+          {
+            "amount": "15g",
+            "name": "black sesame paste"
+          },
+          {
+            "amount": "25g",
+            "name": "vegetable oil"
+          },
+          {
+            "amount": "3",
+            "name": "eggs, separated"
+          },
+          {
+            "amount": "¼ tsp",
+            "name": "cream of tartar"
+          },
+          {
+            "amount": "40g",
+            "name": "caster sugar"
+          },
+          {
+            "amount": "12g",
+            "name": "brown sugar"
+          },
+          {
+            "amount": "½ tsp",
+            "name": "black sesame seeds"
+          }
+        ]
+      },
+      {
+        "title": "Yuzu Curd",
+        "items": [
+          {
+            "amount": "1",
+            "name": "egg, at room temp"
+          },
+          {
+            "amount": "1",
+            "name": "egg yolk, at room temp"
+          },
+          {
+            "amount": "15ml",
+            "name": "yuzu juice"
+          },
+          {
+            "amount": "½",
+            "name": "lemon, zested and juiced"
+          },
+          {
+            "amount": "100g",
+            "name": "caster sugar"
+          },
+          {
+            "amount": "50g",
+            "name": "unsalted butter cubed, cold"
+          }
+        ]
+      },
+      {
+        "title": "Feuilletine",
+        "items": [
+          {
+            "amount": "30g",
+            "name": "plain flour"
+          },
+          {
+            "amount": "30g",
+            "name": "unsalted butter, softened"
+          },
+          {
+            "amount": "30g",
+            "name": "icing sugar"
+          },
+          {
+            "amount": "30g",
+            "name": "egg white"
+          }
+        ]
+      },
+      {
+        "title": "Black Sesame Chantilly",
+        "items": [
+          {
+            "amount": "350ml",
+            "name": "pure cream, fridge cold"
+          },
+          {
+            "amount": "30g",
+            "name": "icing sugar"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "black sesame paste"
+          },
+          {
+            "amount": "½ tsp",
+            "name": "black sesame seeds"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "r260714fntwj",
     "title": "Brown Onion Three Ways: Agnolotti, Charred Onion Brodo & Sweet Sour Onion Petals",
     "image": "https://10.com.au/ip/s3/2026/07/14/e6a916b9f6c9515d8070d5f56ca1e21f-1441981.png?image-profile=image_max&io=landscape",
@@ -6437,6 +6577,213 @@
     ]
   },
   {
+    "id": "r260421mvobi",
+    "title": "Prawn Bisque Pasta With Citrus Prawns",
+    "image": "https://10.com.au/ip/s3/2026/04/21/e37cafecb74eb74f8ccd5c294b5fb4f5-1423533.png?image-profile=image_max&io=landscape",
+    "chef": null,
+    "chefRole": null,
+    "chefThumb": null,
+    "season": 18,
+    "serves": "2",
+    "published": "21 Apr 2026",
+    "url": "https://10.com.au/masterchef/recipes/prawn-bisque-pasta-with-citrus-prawns/r260421mvobi",
+    "course": "Main",
+    "tags": [
+      "Prawn",
+      "Tomatoes",
+      "Tarragon",
+      "Dinner"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Cherry Tomatoes",
+        "items": [
+          {
+            "amount": "200g",
+            "name": "cherry tomatoes on the vine"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "extra virgin olive oil"
+          }
+        ]
+      },
+      {
+        "title": "Bisque",
+        "items": [
+          {
+            "amount": "500g",
+            "name": "whole raw king prawns"
+          },
+          {
+            "amount": "100ml",
+            "name": "extra virgin olive oil"
+          },
+          {
+            "amount": "1 large",
+            "name": "carrot, finely diced"
+          },
+          {
+            "amount": "3 ribs",
+            "name": "celery, finely diced"
+          },
+          {
+            "amount": "3 large",
+            "name": "banana shallots, finely diced"
+          },
+          {
+            "amount": "2 cloves",
+            "name": "garlic, finely diced"
+          },
+          {
+            "amount": "1",
+            "name": "long red chilli, finely diced"
+          },
+          {
+            "amount": "2 tbsp",
+            "name": "tomato paste"
+          },
+          {
+            "amount": "350ml",
+            "name": "Sauvignon Blanc wine"
+          },
+          {
+            "amount": "1",
+            "name": "cara cara navel or blood orange, juiced"
+          },
+          {
+            "amount": "400ml",
+            "name": "cold water"
+          },
+          {
+            "amount": "5",
+            "name": "ice cubes"
+          },
+          {
+            "amount": "4 sprigs",
+            "name": "fresh tarragon"
+          },
+          {
+            "amount": "3 sprigs",
+            "name": "fresh parsley"
+          },
+          {
+            "amount": "3 sprigs",
+            "name": "fresh thyme"
+          },
+          {
+            "amount": "½",
+            "name": "lemon, juiced"
+          },
+          {
+            "amount": "80ml",
+            "name": "thickened cream"
+          },
+          {
+            "amount": "25g",
+            "name": "unsalted butter"
+          },
+          {
+            "amount": "",
+            "name": "salt and pepper, to taste"
+          }
+        ]
+      },
+      {
+        "title": "Tarragon Oil",
+        "items": [
+          {
+            "amount": "1 bunch",
+            "name": "tarragon, leaves picked (approximately 15g)"
+          },
+          {
+            "amount": "¼ tsp",
+            "name": "sea salt"
+          },
+          {
+            "amount": "100ml",
+            "name": "light olive oil"
+          }
+        ]
+      },
+      {
+        "title": "Pasta",
+        "items": [
+          {
+            "amount": "200g",
+            "name": "00 Flour"
+          },
+          {
+            "amount": "115g",
+            "name": "eggs, at room temperature"
+          },
+          {
+            "amount": "",
+            "name": "salt, to taste"
+          }
+        ]
+      },
+      {
+        "title": "Citrus Prawns",
+        "items": [
+          {
+            "amount": "",
+            "name": "reserved king prawn meat"
+          },
+          {
+            "amount": "50g",
+            "name": "unsalted butter"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "olive oil"
+          },
+          {
+            "amount": "½ tsp",
+            "name": "lime zest"
+          },
+          {
+            "amount": "½ tsp",
+            "name": "lemon zest"
+          },
+          {
+            "amount": "½ tsp",
+            "name": "cara cara navel orange zest"
+          },
+          {
+            "amount": "1 tsp",
+            "name": "lime juice"
+          },
+          {
+            "amount": "2 tsp",
+            "name": "cara cara navel orange juice"
+          },
+          {
+            "amount": "¼ cup",
+            "name": "finely chopped fresh basil"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "finely chopped fresh tarragon"
+          }
+        ]
+      },
+      {
+        "title": "To serve",
+        "items": [
+          {
+            "amount": "25g",
+            "name": "unsalted butter"
+          },
+          {
+            "amount": "",
+            "name": "freshly chopped basil"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "r260527aleib",
     "title": "Pâté En Croûte",
     "image": "https://10.com.au/ip/s3/2026/05/27/154d61b1ea4eb3d8b4a401d42bdc29bb-1432228.png?image-profile=image_max&io=landscape",
@@ -8588,6 +8935,267 @@
           {
             "amount": "",
             "name": "arils from 1 pomegranate"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "r260420zagjh",
+    "title": "Wanton Wonton",
+    "image": "https://10.com.au/ip/s3/2026/04/20/68634c362393c15e9e521ae52f0f482d-1423453.png?image-profile=image_max&io=landscape",
+    "chef": null,
+    "chefRole": null,
+    "chefThumb": null,
+    "season": 18,
+    "serves": "4",
+    "published": "20 Apr 2026",
+    "url": "https://10.com.au/masterchef/recipes/wanton-wonton/r260420zagjh",
+    "course": "Main",
+    "tags": [
+      "Chicken",
+      "Dumplings"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Soup",
+        "items": [
+          {
+            "amount": "1",
+            "name": "whole chicken, portioned into pieces"
+          },
+          {
+            "amount": "",
+            "name": "hot water, to cover chicken"
+          },
+          {
+            "amount": "¼ cup",
+            "name": "dried goji berries"
+          },
+          {
+            "amount": "5",
+            "name": "dried red dates"
+          },
+          {
+            "amount": "¼ cup",
+            "name": "dried longan"
+          },
+          {
+            "amount": "4",
+            "name": "dried shiitake mushrooms"
+          },
+          {
+            "amount": "15g",
+            "name": "fresh ginger, sliced"
+          },
+          {
+            "amount": "10-15",
+            "name": "astragalus membranaceus root chips"
+          },
+          {
+            "amount": "¼ cup",
+            "name": "Shaoxing cooking wine"
+          },
+          {
+            "amount": "¼ cup",
+            "name": "fish sauce"
+          },
+          {
+            "amount": "½ tbsp",
+            "name": "sesame oil, plus extra ½ tbsp for shredded chicken meat"
+          },
+          {
+            "amount": "",
+            "name": "white pepper, to taste"
+          },
+          {
+            "amount": "",
+            "name": "salt and black pepper, to taste"
+          }
+        ]
+      },
+      {
+        "title": "Wonton Filling",
+        "items": [
+          {
+            "amount": "250g",
+            "name": "chicken mince"
+          },
+          {
+            "amount": "5",
+            "name": "king prawns, peeled, cleaned and roughly chopped"
+          },
+          {
+            "amount": "¼ cup",
+            "name": "chopped garlic chives"
+          },
+          {
+            "amount": "¼ cup",
+            "name": "finely chopped coriander"
+          },
+          {
+            "amount": "¼ cup",
+            "name": "chopped spring onion"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "finely chopped fresh ginger"
+          },
+          {
+            "amount": "3",
+            "name": "fresh shiitake, diced"
+          },
+          {
+            "amount": "1",
+            "name": "large egg"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "oyster sauce"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "light soy sauce"
+          },
+          {
+            "amount": "2 tsp",
+            "name": "fish sauce"
+          },
+          {
+            "amount": "2 tsp",
+            "name": "Shaoxing cooking wine"
+          },
+          {
+            "amount": "2 tsp",
+            "name": "sesame oil"
+          },
+          {
+            "amount": "1",
+            "name": "pinch salt"
+          },
+          {
+            "amount": "1 tsp",
+            "name": "ground white pepper"
+          },
+          {
+            "amount": "1 pinch",
+            "name": "black pepper"
+          },
+          {
+            "amount": "1-2 tbsp",
+            "name": "cornflour"
+          }
+        ]
+      },
+      {
+        "title": "Wonton Wrappers",
+        "items": [
+          {
+            "amount": "1",
+            "name": "egg"
+          },
+          {
+            "amount": "⅓ cup",
+            "name": "water"
+          },
+          {
+            "amount": "½ tsp",
+            "name": "salt"
+          },
+          {
+            "amount": "2 cups",
+            "name": "plain flour"
+          },
+          {
+            "amount": "",
+            "name": "cornflour, for dusting"
+          }
+        ]
+      },
+      {
+        "title": "Ginger Shallot Oil",
+        "items": [
+          {
+            "amount": "80ml",
+            "name": "peanut oil"
+          },
+          {
+            "amount": "2 tbsp",
+            "name": "finely diced ginger"
+          },
+          {
+            "amount": "2 cloves",
+            "name": "garlic, finely chopped"
+          },
+          {
+            "amount": "1-2",
+            "name": "birds eye chilli"
+          },
+          {
+            "amount": "⅓ cup",
+            "name": "thinly sliced spring onion"
+          },
+          {
+            "amount": "⅓ cup",
+            "name": "chopped coriander"
+          },
+          {
+            "amount": "2 tbsp",
+            "name": "light soy sauce"
+          },
+          {
+            "amount": "1 tsp",
+            "name": "salt"
+          },
+          {
+            "amount": "½ tbsp",
+            "name": "sesame oil"
+          },
+          {
+            "amount": "",
+            "name": "white pepper, to taste"
+          }
+        ]
+      },
+      {
+        "title": "Soy Vinegar Dipping Sauce",
+        "items": [
+          {
+            "amount": "1 tbsp",
+            "name": "light soy sauce"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "Japanese rice vinegar"
+          }
+        ]
+      },
+      {
+        "title": "Garnish",
+        "items": [
+          {
+            "amount": "8",
+            "name": "snow peas, halved"
+          },
+          {
+            "amount": "2",
+            "name": "spring onions, sliced diagonally"
+          },
+          {
+            "amount": "2 tbsp",
+            "name": "chopped coriander"
+          },
+          {
+            "amount": "¼",
+            "name": "small red onion, finely diced"
+          },
+          {
+            "amount": "1",
+            "name": "birds eye chilli, sliced"
+          },
+          {
+            "amount": "",
+            "name": "cooked longan from the chicken soup"
           }
         ]
       }

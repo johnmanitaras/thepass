@@ -24602,6 +24602,64 @@
     ]
   },
   {
+    "id": "r230426ywzcp",
+    "title": "Choux Pastry",
+    "image": "https://10.com.au/ip/s3/2023/04/26/7bcc0172d56a0a29b071d3ad20c1a1e3-1232600.jpg?image-profile=image_max&io=landscape",
+    "chef": "Emelia Jackson",
+    "chefRole": "Contestant",
+    "chefThumb": "https://10.com.au/ip/s3/2020/02/18/116159289a8133300105026ac12205c6-852832.jpg?image-profile=bio_thumb&io=square",
+    "season": 15,
+    "serves": null,
+    "published": "16 May 2023",
+    "url": "https://10.com.au/masterchef/recipes/choux-pastry/r230426ywzcp",
+    "course": "Dessert",
+    "tags": [
+      "Water",
+      "Unsalted Butter",
+      "Caster Sugar",
+      "Salt",
+      "Flour",
+      "Eggs",
+      "Quick and Easy",
+      "Dessert",
+      "Birthday",
+      "Valentine's Day",
+      "Mother's Day",
+      "Desserts"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Choux Pastry",
+        "items": [
+          {
+            "amount": "225g",
+            "name": "water"
+          },
+          {
+            "amount": "100g",
+            "name": "unsalted butter"
+          },
+          {
+            "amount": "5g",
+            "name": "caster sugar"
+          },
+          {
+            "amount": "5g",
+            "name": "salt"
+          },
+          {
+            "amount": "170g",
+            "name": "plain flour"
+          },
+          {
+            "amount": "265g",
+            "name": "whole eggs"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "r230706hgfrt",
     "title": "Coconut Ice Cream with Pickled Mango and Tapioca Pearls",
     "image": "https://10.com.au/ip/s3/2023/07/06/40f53effb7a8b818559ec07fc25f1df9-1247410.jpg?image-profile=image_max&io=landscape",

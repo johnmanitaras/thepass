@@ -27264,6 +27264,127 @@
     ]
   },
   {
+    "id": "r230426orihf",
+    "title": "Lemon Meringue Éclair",
+    "image": "https://10.com.au/ip/s3/2023/04/26/cb03f99fedf775b3928a3c0f76b9f40d-1232641.jpg?image-profile=image_max&io=landscape",
+    "chef": "Theo Loizou",
+    "chefRole": "Contestant",
+    "chefThumb": "https://10.com.au/ip/s3/2023/04/17/f53d2c4f32020914f5e3d753a910679d-1230571.jpg?image-profile=bio_thumb&io=square",
+    "season": 15,
+    "serves": "Makes approx. 20 - 22",
+    "published": "16 May 2023",
+    "url": "https://10.com.au/masterchef/recipes/lemon-meringue-eclair/r230426orihf",
+    "course": "Dessert",
+    "tags": [
+      "Unsalted Butter",
+      "Caster Sugar",
+      "Flour",
+      "Egg",
+      "Lemon Zest",
+      "Lemon",
+      "Egg Whites",
+      "Gelatine",
+      "Adult Supervision",
+      "Dessert",
+      "Christmas",
+      "Birthday",
+      "Valentine's Day",
+      "Mother's Day",
+      "Spring",
+      "Summer",
+      "Desserts"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Choux",
+        "items": [
+          {
+            "amount": "225g",
+            "name": "water"
+          },
+          {
+            "amount": "100g",
+            "name": "unsalted butter"
+          },
+          {
+            "amount": "5g",
+            "name": "caster sugar"
+          },
+          {
+            "amount": "5g",
+            "name": "salt"
+          },
+          {
+            "amount": "170g",
+            "name": "plain flour"
+          },
+          {
+            "amount": "265g",
+            "name": "whole egg"
+          }
+        ]
+      },
+      {
+        "title": "Lemon Curd",
+        "items": [
+          {
+            "amount": "1",
+            "name": "silver gelatine sheet (1g)"
+          },
+          {
+            "amount": "120g",
+            "name": "lemon juice"
+          },
+          {
+            "amount": "6g",
+            "name": "lemon zest"
+          },
+          {
+            "amount": "76g",
+            "name": "egg"
+          },
+          {
+            "amount": "74g",
+            "name": "egg yolk"
+          },
+          {
+            "amount": "62g",
+            "name": "caster sugar"
+          },
+          {
+            "amount": "72g",
+            "name": "butter, softened"
+          }
+        ]
+      },
+      {
+        "title": "Italian Meringue",
+        "items": [
+          {
+            "amount": "250g",
+            "name": "caster sugar"
+          },
+          {
+            "amount": "80g",
+            "name": "water"
+          },
+          {
+            "amount": "100g",
+            "name": "egg whites"
+          },
+          {
+            "amount": "1 tsp",
+            "name": "dried river mint"
+          },
+          {
+            "amount": "½ tsp",
+            "name": "cream of tartar"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "r230706wxkoq",
     "title": "Lemongrass Panna Cotta with Tropical Fruit and Finger Lime Syrup",
     "image": "https://10.com.au/ip/s3/2023/07/06/4284cacc55f4cb3ae1ed27e8c3cc04e6-1247413.jpg?image-profile=image_max&io=landscape",

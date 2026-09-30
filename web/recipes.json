@@ -8906,6 +8906,155 @@
     ]
   },
   {
+    "id": "r250506rzdwy",
+    "title": "Banana Leaf Fish Fry with Coconut and Rice",
+    "image": "https://10.com.au/ip/s3/2025/05/06/b15270dfac311e2f9ff01233e2255261-1377788.png?image-profile=image_max&io=landscape",
+    "chef": "Depinder Chhibber",
+    "chefRole": null,
+    "chefThumb": "https://10.com.au/ip/s3/2025/04/23/90c6e100153af5c06de801813cd6d4e2-1375681.png?image-profile=bio_thumb&io=square",
+    "season": 17,
+    "serves": "2",
+    "published": "07 May 2025",
+    "url": "https://10.com.au/masterchef/recipes/banana-leaf-fish-fry-with-coconut-and-rice/r250506rzdwy",
+    "course": "Main",
+    "tags": [
+      "Coconut",
+      "White Fish",
+      "Banana Leaf",
+      "Main"
+    ],
+    "ingredientGroups": [
+      {
+        "title": "Rice",
+        "items": [
+          {
+            "amount": "½ cup",
+            "name": "basmati rice, washed 3 times"
+          },
+          {
+            "amount": "1 tsp",
+            "name": "ghee"
+          },
+          {
+            "amount": "½ tsp",
+            "name": "cumin seeds"
+          }
+        ]
+      },
+      {
+        "title": "Coconut Chutney",
+        "items": [
+          {
+            "amount": "1 cup",
+            "name": "fresh shredded coconut"
+          },
+          {
+            "amount": "1 sprig",
+            "name": "curry leaves"
+          },
+          {
+            "amount": "1 cup",
+            "name": "chopped coriander, leaves and stems"
+          },
+          {
+            "amount": "1",
+            "name": "green chilli"
+          },
+          {
+            "amount": "3cm piece",
+            "name": "ginger"
+          },
+          {
+            "amount": "3 cloves",
+            "name": "garlic"
+          },
+          {
+            "amount": "½ tsp",
+            "name": "cumin seeds"
+          },
+          {
+            "amount": "2 tbsp",
+            "name": "Greek yoghurt"
+          },
+          {
+            "amount": "½",
+            "name": "lime, juiced"
+          },
+          {
+            "amount": "",
+            "name": "salt, to taste"
+          }
+        ]
+      },
+      {
+        "title": "Temper for Coconut Chutney",
+        "items": [
+          {
+            "amount": "1 tbsp",
+            "name": "coconut oil"
+          },
+          {
+            "amount": "½ tsp",
+            "name": "mustard seeds"
+          },
+          {
+            "amount": "½ tsp",
+            "name": "cumin seeds"
+          },
+          {
+            "amount": "2 sprigs",
+            "name": "curry leaves"
+          },
+          {
+            "amount": "1",
+            "name": "dried red chilli"
+          }
+        ]
+      },
+      {
+        "title": "Banana Leaf Fish Fry",
+        "items": [
+          {
+            "amount": "300g",
+            "name": "white fish fillet, skin on"
+          },
+          {
+            "amount": "½ tsp",
+            "name": "turmeric powder"
+          },
+          {
+            "amount": "½ tsp",
+            "name": "Kashmiri chilli powder"
+          },
+          {
+            "amount": "½ tsp",
+            "name": "salt"
+          },
+          {
+            "amount": "½ tsp",
+            "name": "ghee"
+          },
+          {
+            "amount": "1 sprig",
+            "name": "curry leaves"
+          },
+          {
+            "amount": "1",
+            "name": "banana leaf"
+          },
+          {
+            "amount": "3 sprigs",
+            "name": "coriander leaves"
+          },
+          {
+            "amount": "",
+            "name": "coriander leaves, to garnish"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "r250806agcuw",
     "title": "BBQ Kangaroo Carpaccio, Black Garlic, Bush Tomato, Jerusalem Artichoke",
     "image": "https://10.com.au/ip/s3/2025/08/06/b3afead428fa3ad938a87294ab5802bd-1390059.png?image-profile=image_max&io=landscape",
